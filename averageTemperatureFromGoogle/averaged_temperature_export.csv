@@ -1,0 +1,4159 @@
+input_city|city|country|month|high|low
+Aš|could not be found|could not be found|could not be found|99|99
+Bechyně|Bechyně|Czechia|January|2|-4
+Bechyně|Bechyně|Czechia|February|4|-3
+Bechyně|Bechyně|Czechia|March|9|0
+Bechyně|Bechyně|Czechia|April|15|4
+Bechyně|Bechyně|Czechia|May|19|8
+Bechyně|Bechyně|Czechia|June|23|12
+Bechyně|Bechyně|Czechia|July|25|14
+Bechyně|Bechyně|Czechia|August|25|13
+Bechyně|Bechyně|Czechia|September|19|9
+Bechyně|Bechyně|Czechia|October|13|5
+Bechyně|Bechyně|Czechia|November|7|1
+Bechyně|Bechyně|Czechia|December|3|-3
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|January|2|-3
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|February|4|-2
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|March|8|1
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|April|14|5
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|May|19|9
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|June|22|12
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|July|24|14
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|August|24|14
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|September|19|10
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|October|13|6
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|November|7|3
+Benesov nad Ploučnicí|Benešov nad Ploučnicí|Czechia|December|3|-1
+Bilina|Bílina|Czechia|January|2|-2
+Bilina|Bílina|Czechia|February|4|-2
+Bilina|Bílina|Czechia|March|8|1
+Bilina|Bílina|Czechia|April|14|5
+Bilina|Bílina|Czechia|May|20|10
+Bilina|Bílina|Czechia|June|22|13
+Bilina|Bílina|Czechia|July|24|15
+Bilina|Bílina|Czechia|August|24|15
+Bilina|Bílina|Czechia|September|19|11
+Bilina|Bílina|Czechia|October|13|7
+Bilina|Bílina|Czechia|November|7|2
+Bilina|Bílina|Czechia|December|3|-1
+Boskovice|Boskovice|Czechia|January|1|-4
+Boskovice|Boskovice|Czechia|February|3|-3
+Boskovice|Boskovice|Czechia|March|8|0
+Boskovice|Boskovice|Czechia|April|14|5
+Boskovice|Boskovice|Czechia|May|18|9
+Boskovice|Boskovice|Czechia|June|22|12
+Boskovice|Boskovice|Czechia|July|24|14
+Boskovice|Boskovice|Czechia|August|24|14
+Boskovice|Boskovice|Czechia|September|18|10
+Boskovice|Boskovice|Czechia|October|12|5
+Boskovice|Boskovice|Czechia|November|6|1
+Boskovice|Boskovice|Czechia|December|1|-3
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|January|3|-2
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|February|4|-2
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|March|9|1
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|April|16|6
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|May|19|10
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|June|23|13
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|July|26|16
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|August|25|15
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|September|20|11
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|October|14|6
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|November|8|3
+Brandýs nad Labem|Brandýs nad Labem-Stará Boleslav|Czechia|December|4|-1
+Breclav|Breclav|Czechia|January|2|-4
+Breclav|Breclav|Czechia|February|5|-3
+Breclav|Breclav|Czechia|March|10|1
+Breclav|Breclav|Czechia|April|16|5
+Breclav|Breclav|Czechia|May|21|9
+Breclav|Breclav|Czechia|June|24|13
+Breclav|Breclav|Czechia|July|26|14
+Breclav|Breclav|Czechia|August|26|14
+Breclav|Breclav|Czechia|September|21|10
+Breclav|Breclav|Czechia|October|14|6
+Breclav|Breclav|Czechia|November|7|2
+Breclav|Breclav|Czechia|December|3|-2
+Brno|Brno|Czechia|January|1|-5
+Brno|Brno|Czechia|February|4|-4
+Brno|Brno|Czechia|March|9|0
+Brno|Brno|Czechia|April|15|4
+Brno|Brno|Czechia|May|20|8
+Brno|Brno|Czechia|June|23|12
+Brno|Brno|Czechia|July|26|13
+Brno|Brno|Czechia|August|26|13
+Brno|Brno|Czechia|September|20|9
+Brno|Brno|Czechia|October|14|5
+Brno|Brno|Czechia|November|7|1
+Brno|Brno|Czechia|December|2|-3
+Bystrice nad Olsi|Bystřice|Czechia|January|3|-2
+Bystrice nad Olsi|Bystřice|Czechia|February|4|-2
+Bystrice nad Olsi|Bystřice|Czechia|March|7|1
+Bystrice nad Olsi|Bystřice|Czechia|April|12|5
+Bystrice nad Olsi|Bystřice|Czechia|May|18|10
+Bystrice nad Olsi|Bystřice|Czechia|June|21|13
+Bystrice nad Olsi|Bystřice|Czechia|July|23|15
+Bystrice nad Olsi|Bystřice|Czechia|August|23|15
+Bystrice nad Olsi|Bystřice|Czechia|September|18|11
+Bystrice nad Olsi|Bystřice|Czechia|October|13|7
+Bystrice nad Olsi|Bystřice|Czechia|November|7|3
+Bystrice nad Olsi|Bystřice|Czechia|December|4|-1
+Čelákovice|Celakovice|Czechia|January|3|-2
+Čelákovice|Celakovice|Czechia|February|4|-2
+Čelákovice|Celakovice|Czechia|March|9|1
+Čelákovice|Celakovice|Czechia|April|16|6
+Čelákovice|Celakovice|Czechia|May|19|10
+Čelákovice|Celakovice|Czechia|June|23|13
+Čelákovice|Celakovice|Czechia|July|26|16
+Čelákovice|Celakovice|Czechia|August|25|15
+Čelákovice|Celakovice|Czechia|September|20|11
+Čelákovice|Celakovice|Czechia|October|14|6
+Čelákovice|Celakovice|Czechia|November|8|3
+Čelákovice|Celakovice|Czechia|December|4|-1
+Čerčany|Čerčany|Czechia|January|2|-4
+Čerčany|Čerčany|Czechia|February|4|-3
+Čerčany|Čerčany|Czechia|March|9|0
+Čerčany|Čerčany|Czechia|April|14|4
+Čerčany|Čerčany|Czechia|May|20|8
+Čerčany|Čerčany|Czechia|June|23|11
+Čerčany|Čerčany|Czechia|July|25|13
+Čerčany|Čerčany|Czechia|August|25|13
+Čerčany|Čerčany|Czechia|September|20|9
+Čerčany|Čerčany|Czechia|October|13|5
+Čerčany|Čerčany|Czechia|November|7|1
+Čerčany|Čerčany|Czechia|December|3|-2
+Černosice|Černošice|Czechia|January|2|-4
+Černosice|Černošice|Czechia|February|4|-3
+Černosice|Černošice|Czechia|March|9|0
+Černosice|Černošice|Czechia|April|14|4
+Černosice|Černošice|Czechia|May|20|8
+Černosice|Černošice|Czechia|June|23|11
+Černosice|Černošice|Czechia|July|25|13
+Černosice|Černošice|Czechia|August|25|13
+Černosice|Černošice|Czechia|September|20|9
+Černosice|Černošice|Czechia|October|13|5
+Černosice|Černošice|Czechia|November|7|1
+Černosice|Černošice|Czechia|December|3|-2
+Česká Třebová|Česká Třebová|Czechia|January|1|-5
+Česká Třebová|Česká Třebová|Czechia|February|3|-4
+Česká Třebová|Česká Třebová|Czechia|March|8|-1
+Česká Třebová|Česká Třebová|Czechia|April|13|3
+Česká Třebová|Česká Třebová|Czechia|May|19|7
+Česká Třebová|Česká Třebová|Czechia|June|22|10
+Česká Třebová|Česká Třebová|Czechia|July|24|12
+Česká Třebová|Česká Třebová|Czechia|August|24|11
+Česká Třebová|Česká Třebová|Czechia|September|18|8
+Česká Třebová|Česká Třebová|Czechia|October|12|4
+Česká Třebová|Česká Třebová|Czechia|November|6|0
+Česká Třebová|Česká Třebová|Czechia|December|2|-3
+České Budějovice|Ceske Budejovice|Czechia|January|3|-4
+České Budějovice|Ceske Budejovice|Czechia|February|5|-3
+České Budějovice|Ceske Budejovice|Czechia|March|10|0
+České Budějovice|Ceske Budejovice|Czechia|April|16|4
+České Budějovice|Ceske Budejovice|Czechia|May|20|8
+České Budějovice|Ceske Budejovice|Czechia|June|24|12
+České Budějovice|Ceske Budejovice|Czechia|July|26|13
+České Budějovice|Ceske Budejovice|Czechia|August|25|13
+České Budějovice|Ceske Budejovice|Czechia|September|20|9
+České Budějovice|Ceske Budejovice|Czechia|October|14|5
+České Budějovice|Ceske Budejovice|Czechia|November|8|1
+České Budějovice|Ceske Budejovice|Czechia|December|4|-2
+Cesky Krumlov|Český Krumlov|Czechia|January|2|-5
+Cesky Krumlov|Český Krumlov|Czechia|February|3|-5
+Cesky Krumlov|Český Krumlov|Czechia|March|9|-1
+Cesky Krumlov|Český Krumlov|Czechia|April|13|2
+Cesky Krumlov|Český Krumlov|Czechia|May|18|7
+Cesky Krumlov|Český Krumlov|Czechia|June|21|10
+Cesky Krumlov|Český Krumlov|Czechia|July|23|11
+Cesky Krumlov|Český Krumlov|Czechia|August|23|11
+Cesky Krumlov|Český Krumlov|Czechia|September|19|8
+Cesky Krumlov|Český Krumlov|Czechia|October|12|3
+Cesky Krumlov|Český Krumlov|Czechia|November|6|-1
+Cesky Krumlov|Český Krumlov|Czechia|December|3|-3
+Cesky Tesin|Český Těšín|Czechia|January|3|-2
+Cesky Tesin|Český Těšín|Czechia|February|4|-2
+Cesky Tesin|Český Těšín|Czechia|March|7|1
+Cesky Tesin|Český Těšín|Czechia|April|12|5
+Cesky Tesin|Český Těšín|Czechia|May|18|10
+Cesky Tesin|Český Těšín|Czechia|June|21|13
+Cesky Tesin|Český Těšín|Czechia|July|23|15
+Cesky Tesin|Český Těšín|Czechia|August|23|15
+Cesky Tesin|Český Těšín|Czechia|September|18|11
+Cesky Tesin|Český Těšín|Czechia|October|13|7
+Cesky Tesin|Český Těšín|Czechia|November|7|3
+Cesky Tesin|Český Těšín|Czechia|December|4|-1
+Cheb|Cheb|Czechia|January|1|-5
+Cheb|Cheb|Czechia|February|3|-4
+Cheb|Cheb|Czechia|March|8|-1
+Cheb|Cheb|Czechia|April|13|2
+Cheb|Cheb|Czechia|May|18|6
+Cheb|Cheb|Czechia|June|21|10
+Cheb|Cheb|Czechia|July|23|11
+Cheb|Cheb|Czechia|August|23|11
+Cheb|Cheb|Czechia|September|19|8
+Cheb|Cheb|Czechia|October|13|4
+Cheb|Cheb|Czechia|November|6|0
+Cheb|Cheb|Czechia|December|2|-3
+Chodov|Chodov|Prague 11|January|2|-4
+Chodov|Chodov|Prague 11|February|4|-3
+Chodov|Chodov|Prague 11|March|9|0
+Chodov|Chodov|Prague 11|April|14|4
+Chodov|Chodov|Prague 11|May|20|8
+Chodov|Chodov|Prague 11|June|23|11
+Chodov|Chodov|Prague 11|July|25|13
+Chodov|Chodov|Prague 11|August|25|13
+Chodov|Chodov|Prague 11|September|20|9
+Chodov|Chodov|Prague 11|October|13|5
+Chodov|Chodov|Prague 11|November|7|1
+Chodov|Chodov|Prague 11|December|3|-2
+Chomutov|Chomutov|Czechia|January|2|-3
+Chomutov|Chomutov|Czechia|February|4|-2
+Chomutov|Chomutov|Czechia|March|9|0
+Chomutov|Chomutov|Czechia|April|15|4
+Chomutov|Chomutov|Czechia|May|19|8
+Chomutov|Chomutov|Czechia|June|22|11
+Chomutov|Chomutov|Czechia|July|25|13
+Chomutov|Chomutov|Czechia|August|24|13
+Chomutov|Chomutov|Czechia|September|19|9
+Chomutov|Chomutov|Czechia|October|13|5
+Chomutov|Chomutov|Czechia|November|6|1
+Chomutov|Chomutov|Czechia|December|3|-2
+Chotěboř|Chotebor|Czechia|January|0|-6
+Chotěboř|Chotebor|Czechia|February|2|-5
+Chotěboř|Chotebor|Czechia|March|7|-2
+Chotěboř|Chotebor|Czechia|April|12|2
+Chotěboř|Chotebor|Czechia|May|18|6
+Chotěboř|Chotebor|Czechia|June|21|9
+Chotěboř|Chotebor|Czechia|July|23|11
+Chotěboř|Chotebor|Czechia|August|23|10
+Chotěboř|Chotebor|Czechia|September|18|7
+Chotěboř|Chotebor|Czechia|October|12|3
+Chotěboř|Chotebor|Czechia|November|5|-1
+Chotěboř|Chotebor|Czechia|December|1|-4
+Chrudim|Chrudim|Czechia|January|2|-4
+Chrudim|Chrudim|Czechia|February|5|-3
+Chrudim|Chrudim|Czechia|March|10|0
+Chrudim|Chrudim|Czechia|April|16|4
+Chrudim|Chrudim|Czechia|May|20|8
+Chrudim|Chrudim|Czechia|June|24|12
+Chrudim|Chrudim|Czechia|July|25|13
+Chrudim|Chrudim|Czechia|August|25|13
+Chrudim|Chrudim|Czechia|September|20|9
+Chrudim|Chrudim|Czechia|October|14|5
+Chrudim|Chrudim|Czechia|November|8|1
+Chrudim|Chrudim|Czechia|December|3|-3
+Děčín|Děčín|Czechia|January|2|-2
+Děčín|Děčín|Czechia|February|5|-1
+Děčín|Děčín|Czechia|March|9|2
+Děčín|Děčín|Czechia|April|15|6
+Děčín|Děčín|Czechia|May|20|10
+Děčín|Děčín|Czechia|June|23|13
+Děčín|Děčín|Czechia|July|25|15
+Děčín|Děčín|Czechia|August|25|15
+Děčín|Děčín|Czechia|September|19|11
+Děčín|Děčín|Czechia|October|13|7
+Děčín|Děčín|Czechia|November|7|2
+Děčín|Děčín|Czechia|December|3|-1
+Dolní Březany|Dolní Břežany|Czechia|January|2|-4
+Dolní Březany|Dolní Břežany|Czechia|February|4|-4
+Dolní Březany|Dolní Břežany|Czechia|March|8|0
+Dolní Březany|Dolní Břežany|Czechia|April|14|3
+Dolní Březany|Dolní Břežany|Czechia|May|19|7
+Dolní Březany|Dolní Břežany|Czechia|June|22|11
+Dolní Březany|Dolní Břežany|Czechia|July|24|13
+Dolní Březany|Dolní Břežany|Czechia|August|24|12
+Dolní Březany|Dolní Břežany|Czechia|September|19|9
+Dolní Březany|Dolní Břežany|Czechia|October|13|4
+Dolní Březany|Dolní Břežany|Czechia|November|6|0
+Dolní Březany|Dolní Břežany|Czechia|December|3|-3
+Duchcov|Duchcov|Czechia|January|2|-2
+Duchcov|Duchcov|Czechia|February|4|-2
+Duchcov|Duchcov|Czechia|March|8|1
+Duchcov|Duchcov|Czechia|April|14|5
+Duchcov|Duchcov|Czechia|May|20|10
+Duchcov|Duchcov|Czechia|June|22|13
+Duchcov|Duchcov|Czechia|July|24|15
+Duchcov|Duchcov|Czechia|August|24|15
+Duchcov|Duchcov|Czechia|September|19|11
+Duchcov|Duchcov|Czechia|October|13|7
+Duchcov|Duchcov|Czechia|November|7|2
+Duchcov|Duchcov|Czechia|December|3|-1
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|January|1|-5
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|February|2|-4
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|March|8|0
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|April|13|3
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|May|19|7
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|June|21|10
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|July|23|12
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|August|23|12
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|September|19|8
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|October|12|4
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|November|5|0
+Dvůr Králové|Dvůr Králové nad Labem|Czechia|December|2|-3
+Frýdek-Místek|Frýdek-Místek|Czechia|January|3|-2
+Frýdek-Místek|Frýdek-Místek|Czechia|February|4|-2
+Frýdek-Místek|Frýdek-Místek|Czechia|March|7|1
+Frýdek-Místek|Frýdek-Místek|Czechia|April|12|5
+Frýdek-Místek|Frýdek-Místek|Czechia|May|18|10
+Frýdek-Místek|Frýdek-Místek|Czechia|June|21|13
+Frýdek-Místek|Frýdek-Místek|Czechia|July|23|15
+Frýdek-Místek|Frýdek-Místek|Czechia|August|23|15
+Frýdek-Místek|Frýdek-Místek|Czechia|September|18|11
+Frýdek-Místek|Frýdek-Místek|Czechia|October|13|7
+Frýdek-Místek|Frýdek-Místek|Czechia|November|7|3
+Frýdek-Místek|Frýdek-Místek|Czechia|December|4|-1
+Frýdlant|Frýdlant|Czechia|January|1|-4
+Frýdlant|Frýdlant|Czechia|February|3|-4
+Frýdlant|Frýdlant|Czechia|March|8|-1
+Frýdlant|Frýdlant|Czechia|April|13|2
+Frýdlant|Frýdlant|Czechia|May|18|7
+Frýdlant|Frýdlant|Czechia|June|21|10
+Frýdlant|Frýdlant|Czechia|July|23|12
+Frýdlant|Frýdlant|Czechia|August|23|11
+Frýdlant|Frýdlant|Czechia|September|19|8
+Frýdlant|Frýdlant|Czechia|October|13|5
+Frýdlant|Frýdlant|Czechia|November|6|1
+Frýdlant|Frýdlant|Czechia|December|3|-2
+Habartov|Habartov|Czechia|January|1|-5
+Habartov|Habartov|Czechia|February|3|-4
+Habartov|Habartov|Czechia|March|8|-1
+Habartov|Habartov|Czechia|April|13|2
+Habartov|Habartov|Czechia|May|18|6
+Habartov|Habartov|Czechia|June|21|10
+Habartov|Habartov|Czechia|July|23|11
+Habartov|Habartov|Czechia|August|23|11
+Habartov|Habartov|Czechia|September|19|8
+Habartov|Habartov|Czechia|October|13|4
+Habartov|Habartov|Czechia|November|6|0
+Habartov|Habartov|Czechia|December|2|-3
+Havířov|Havířov|Czechia|January|1|-5
+Havířov|Havířov|Czechia|February|3|-4
+Havířov|Havířov|Czechia|March|8|-1
+Havířov|Havířov|Czechia|April|14|3
+Havířov|Havířov|Czechia|May|19|7
+Havířov|Havířov|Czechia|June|23|11
+Havířov|Havířov|Czechia|July|25|12
+Havířov|Havířov|Czechia|August|25|12
+Havířov|Havířov|Czechia|September|19|8
+Havířov|Havířov|Czechia|October|14|4
+Havířov|Havířov|Czechia|November|7|0
+Havířov|Havířov|Czechia|December|3|-4
+Holesov|Holesov|Czechia|January|1|-5
+Holesov|Holesov|Czechia|February|4|-3
+Holesov|Holesov|Czechia|March|9|0
+Holesov|Holesov|Czechia|April|15|4
+Holesov|Holesov|Czechia|May|20|8
+Holesov|Holesov|Czechia|June|23|11
+Holesov|Holesov|Czechia|July|25|13
+Holesov|Holesov|Czechia|August|25|13
+Holesov|Holesov|Czechia|September|20|9
+Holesov|Holesov|Czechia|October|14|5
+Holesov|Holesov|Czechia|November|7|1
+Holesov|Holesov|Czechia|December|2|-3
+Horní Slavkov|Horní Slavkov|Czechia|January|1|-5
+Horní Slavkov|Horní Slavkov|Czechia|February|3|-4
+Horní Slavkov|Horní Slavkov|Czechia|March|7|-1
+Horní Slavkov|Horní Slavkov|Czechia|April|13|2
+Horní Slavkov|Horní Slavkov|Czechia|May|17|6
+Horní Slavkov|Horní Slavkov|Czechia|June|20|9
+Horní Slavkov|Horní Slavkov|Czechia|July|23|11
+Horní Slavkov|Horní Slavkov|Czechia|August|22|11
+Horní Slavkov|Horní Slavkov|Czechia|September|17|7
+Horní Slavkov|Horní Slavkov|Czechia|October|11|3
+Horní Slavkov|Horní Slavkov|Czechia|November|5|0
+Horní Slavkov|Horní Slavkov|Czechia|December|1|-4
+Hostivice|Hostivice|Czechia|January|2|-5
+Hostivice|Hostivice|Czechia|February|3|-4
+Hostivice|Hostivice|Czechia|March|8|-1
+Hostivice|Hostivice|Czechia|April|14|2
+Hostivice|Hostivice|Czechia|May|19|7
+Hostivice|Hostivice|Czechia|June|22|10
+Hostivice|Hostivice|Czechia|July|24|12
+Hostivice|Hostivice|Czechia|August|24|12
+Hostivice|Hostivice|Czechia|September|19|8
+Hostivice|Hostivice|Czechia|October|13|4
+Hostivice|Hostivice|Czechia|November|6|0
+Hostivice|Hostivice|Czechia|December|3|-3
+Hradec Králové|Hradec Kralove|Czechia|January|1|-4
+Hradec Králové|Hradec Kralove|Czechia|February|3|-3
+Hradec Králové|Hradec Kralove|Czechia|March|8|0
+Hradec Králové|Hradec Kralove|Czechia|April|13|3
+Hradec Králové|Hradec Kralove|Czechia|May|19|8
+Hradec Králové|Hradec Kralove|Czechia|June|22|11
+Hradec Králové|Hradec Kralove|Czechia|July|23|13
+Hradec Králové|Hradec Kralove|Czechia|August|24|12
+Hradec Králové|Hradec Kralove|Czechia|September|19|9
+Hradec Králové|Hradec Kralove|Czechia|October|13|4
+Hradec Králové|Hradec Kralove|Czechia|November|6|0
+Hradec Králové|Hradec Kralove|Czechia|December|2|-2
+Ivančice|Ivancice|Czechia|January|1|-5
+Ivančice|Ivancice|Czechia|February|4|-4
+Ivančice|Ivancice|Czechia|March|9|0
+Ivančice|Ivancice|Czechia|April|15|4
+Ivančice|Ivancice|Czechia|May|20|8
+Ivančice|Ivancice|Czechia|June|23|12
+Ivančice|Ivancice|Czechia|July|26|13
+Ivančice|Ivancice|Czechia|August|26|13
+Ivančice|Ivancice|Czechia|September|20|9
+Ivančice|Ivancice|Czechia|October|14|5
+Ivančice|Ivancice|Czechia|November|7|1
+Ivančice|Ivancice|Czechia|December|2|-3
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|January|0|-5
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|February|2|-5
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|March|7|-2
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|April|12|1
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|May|17|6
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|June|20|9
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|July|22|11
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|August|22|10
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|September|17|7
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|October|12|4
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|November|5|0
+Jablonec nad Nisou|Jablonec nad Nisou|Czechia|December|1|-4
+Jablunkov|Jablunkov|Czechia|January|2|-3
+Jablunkov|Jablunkov|Czechia|February|3|-2
+Jablunkov|Jablunkov|Czechia|March|6|0
+Jablunkov|Jablunkov|Czechia|April|12|5
+Jablunkov|Jablunkov|Czechia|May|18|9
+Jablunkov|Jablunkov|Czechia|June|21|12
+Jablunkov|Jablunkov|Czechia|July|23|14
+Jablunkov|Jablunkov|Czechia|August|23|15
+Jablunkov|Jablunkov|Czechia|September|18|11
+Jablunkov|Jablunkov|Czechia|October|13|7
+Jablunkov|Jablunkov|Czechia|November|7|2
+Jablunkov|Jablunkov|Czechia|December|4|-2
+Jaroměř|Jaromer|Czechia|January|1|-4
+Jaroměř|Jaromer|Czechia|February|3|-3
+Jaroměř|Jaromer|Czechia|March|8|0
+Jaroměř|Jaromer|Czechia|April|13|3
+Jaroměř|Jaromer|Czechia|May|19|8
+Jaroměř|Jaromer|Czechia|June|22|11
+Jaroměř|Jaromer|Czechia|July|23|13
+Jaroměř|Jaromer|Czechia|August|24|12
+Jaroměř|Jaromer|Czechia|September|19|9
+Jaroměř|Jaromer|Czechia|October|13|4
+Jaroměř|Jaromer|Czechia|November|6|0
+Jaroměř|Jaromer|Czechia|December|2|-2
+Jičín|Jicin|Czechia|January|3|-3
+Jičín|Jicin|Czechia|February|5|-3
+Jičín|Jicin|Czechia|March|8|0
+Jičín|Jicin|Czechia|April|13|3
+Jičín|Jicin|Czechia|May|18|8
+Jičín|Jicin|Czechia|June|21|11
+Jičín|Jicin|Czechia|July|23|13
+Jičín|Jicin|Czechia|August|23|12
+Jičín|Jicin|Czechia|September|18|9
+Jičín|Jicin|Czechia|October|13|5
+Jičín|Jicin|Czechia|November|7|1
+Jičín|Jicin|Czechia|December|4|-2
+Jihlava|Jihlava|Czechia|January|0|-6
+Jihlava|Jihlava|Czechia|February|2|-5
+Jihlava|Jihlava|Czechia|March|7|-2
+Jihlava|Jihlava|Czechia|April|12|2
+Jihlava|Jihlava|Czechia|May|18|6
+Jihlava|Jihlava|Czechia|June|21|9
+Jihlava|Jihlava|Czechia|July|23|11
+Jihlava|Jihlava|Czechia|August|23|10
+Jihlava|Jihlava|Czechia|September|18|7
+Jihlava|Jihlava|Czechia|October|12|3
+Jihlava|Jihlava|Czechia|November|5|-1
+Jihlava|Jihlava|Czechia|December|1|-4
+Jilemnice|Jilemnice|Czechia|January|2|-4
+Jilemnice|Jilemnice|Czechia|February|4|-4
+Jilemnice|Jilemnice|Czechia|March|7|-1
+Jilemnice|Jilemnice|Czechia|April|12|2
+Jilemnice|Jilemnice|Czechia|May|17|7
+Jilemnice|Jilemnice|Czechia|June|20|10
+Jilemnice|Jilemnice|Czechia|July|22|12
+Jilemnice|Jilemnice|Czechia|August|22|11
+Jilemnice|Jilemnice|Czechia|September|17|8
+Jilemnice|Jilemnice|Czechia|October|12|4
+Jilemnice|Jilemnice|Czechia|November|6|0
+Jilemnice|Jilemnice|Czechia|December|3|-3
+Jirkov|Jirkov|Czechia|January|2|-3
+Jirkov|Jirkov|Czechia|February|3|-3
+Jirkov|Jirkov|Czechia|March|8|0
+Jirkov|Jirkov|Czechia|April|14|3
+Jirkov|Jirkov|Czechia|May|18|7
+Jirkov|Jirkov|Czechia|June|21|10
+Jirkov|Jirkov|Czechia|July|24|12
+Jirkov|Jirkov|Czechia|August|23|11
+Jirkov|Jirkov|Czechia|September|18|8
+Jirkov|Jirkov|Czechia|October|13|5
+Jirkov|Jirkov|Czechia|November|7|2
+Jirkov|Jirkov|Czechia|December|4|-1
+Kamenice|Kamenice|Czechia|January|2|-4
+Kamenice|Kamenice|Czechia|February|4|-4
+Kamenice|Kamenice|Czechia|March|8|0
+Kamenice|Kamenice|Czechia|April|14|3
+Kamenice|Kamenice|Czechia|May|19|7
+Kamenice|Kamenice|Czechia|June|22|11
+Kamenice|Kamenice|Czechia|July|24|13
+Kamenice|Kamenice|Czechia|August|24|12
+Kamenice|Kamenice|Czechia|September|19|9
+Kamenice|Kamenice|Czechia|October|13|4
+Kamenice|Kamenice|Czechia|November|6|0
+Kamenice|Kamenice|Czechia|December|3|-3
+Karlovy Vary|Karlovy Vary|Czechia|January|2|-3
+Karlovy Vary|Karlovy Vary|Czechia|February|4|-2
+Karlovy Vary|Karlovy Vary|Czechia|March|9|0
+Karlovy Vary|Karlovy Vary|Czechia|April|14|4
+Karlovy Vary|Karlovy Vary|Czechia|May|19|8
+Karlovy Vary|Karlovy Vary|Czechia|June|22|11
+Karlovy Vary|Karlovy Vary|Czechia|July|24|13
+Karlovy Vary|Karlovy Vary|Czechia|August|24|12
+Karlovy Vary|Karlovy Vary|Czechia|September|19|9
+Karlovy Vary|Karlovy Vary|Czechia|October|13|5
+Karlovy Vary|Karlovy Vary|Czechia|November|6|1
+Karlovy Vary|Karlovy Vary|Czechia|December|3|-2
+Karvina|Karvina|Czechia|January|2|-4
+Karvina|Karvina|Czechia|February|3|-3
+Karvina|Karvina|Czechia|March|8|0
+Karvina|Karvina|Czechia|April|14|4
+Karvina|Karvina|Czechia|May|19|8
+Karvina|Karvina|Czechia|June|22|11
+Karvina|Karvina|Czechia|July|24|13
+Karvina|Karvina|Czechia|August|24|13
+Karvina|Karvina|Czechia|September|19|9
+Karvina|Karvina|Czechia|October|13|5
+Karvina|Karvina|Czechia|November|7|1
+Karvina|Karvina|Czechia|December|3|-2
+Kdyně|could not be found|could not be found|could not be found|99|99
+Kladno|Kladno|Czechia|January|2|-5
+Kladno|Kladno|Czechia|February|3|-4
+Kladno|Kladno|Czechia|March|8|-1
+Kladno|Kladno|Czechia|April|14|2
+Kladno|Kladno|Czechia|May|19|7
+Kladno|Kladno|Czechia|June|22|10
+Kladno|Kladno|Czechia|July|24|12
+Kladno|Kladno|Czechia|August|24|12
+Kladno|Kladno|Czechia|September|19|8
+Kladno|Kladno|Czechia|October|13|4
+Kladno|Kladno|Czechia|November|6|0
+Kladno|Kladno|Czechia|December|3|-3
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|January|2|-3
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|February|4|-2
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|March|9|0
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|April|15|4
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|May|19|8
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|June|22|11
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|July|25|13
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|August|24|13
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|September|19|9
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|October|13|5
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|November|6|1
+Klásterec nad Ohří|Klášterec nad Ohří|Czechia|December|3|-2
+Klatovy|Klatovy|Czechia|January|1|-4
+Klatovy|Klatovy|Czechia|February|3|-5
+Klatovy|Klatovy|Czechia|March|8|-1
+Klatovy|Klatovy|Czechia|April|13|2
+Klatovy|Klatovy|Czechia|May|18|6
+Klatovy|Klatovy|Czechia|June|21|10
+Klatovy|Klatovy|Czechia|July|24|12
+Klatovy|Klatovy|Czechia|August|23|11
+Klatovy|Klatovy|Czechia|September|18|8
+Klatovy|Klatovy|Czechia|October|12|3
+Klatovy|Klatovy|Czechia|November|6|0
+Klatovy|Klatovy|Czechia|December|2|-3
+Kolín|Kolin|Czechia|January|2|-3
+Kolín|Kolin|Czechia|February|5|-2
+Kolín|Kolin|Czechia|March|9|0
+Kolín|Kolin|Czechia|April|16|4
+Kolín|Kolin|Czechia|May|20|9
+Kolín|Kolin|Czechia|June|23|12
+Kolín|Kolin|Czechia|July|25|14
+Kolín|Kolin|Czechia|August|25|13
+Kolín|Kolin|Czechia|September|20|10
+Kolín|Kolin|Czechia|October|14|5
+Kolín|Kolin|Czechia|November|8|2
+Kolín|Kolin|Czechia|December|4|-2
+Koprivnice|Kopřivnice|Czechia|January|1|-6
+Koprivnice|Kopřivnice|Czechia|February|3|-5
+Koprivnice|Kopřivnice|Czechia|March|8|-2
+Koprivnice|Kopřivnice|Czechia|April|14|2
+Koprivnice|Kopřivnice|Czechia|May|19|7
+Koprivnice|Kopřivnice|Czechia|June|22|10
+Koprivnice|Kopřivnice|Czechia|July|24|12
+Koprivnice|Kopřivnice|Czechia|August|24|11
+Koprivnice|Kopřivnice|Czechia|September|19|8
+Koprivnice|Kopřivnice|Czechia|October|13|4
+Koprivnice|Kopřivnice|Czechia|November|7|0
+Koprivnice|Kopřivnice|Czechia|December|2|-4
+Kosmonosy|Kosmonosy|Czechia|January|2|-3
+Kosmonosy|Kosmonosy|Czechia|February|4|-3
+Kosmonosy|Kosmonosy|Czechia|March|8|0
+Kosmonosy|Kosmonosy|Czechia|April|14|3
+Kosmonosy|Kosmonosy|Czechia|May|19|7
+Kosmonosy|Kosmonosy|Czechia|June|22|10
+Kosmonosy|Kosmonosy|Czechia|July|24|12
+Kosmonosy|Kosmonosy|Czechia|August|24|12
+Kosmonosy|Kosmonosy|Czechia|September|19|9
+Kosmonosy|Kosmonosy|Czechia|October|13|5
+Kosmonosy|Kosmonosy|Czechia|November|7|2
+Kosmonosy|Kosmonosy|Czechia|December|3|-2
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|January|3|-4
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|February|5|-3
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|March|10|0
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|April|15|4
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|May|20|8
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|June|23|11
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|July|25|13
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|August|25|13
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|September|20|9
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|October|14|5
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|November|7|1
+Kralupy nad Vltavou|Kralupy nad Vltavou|Czechia|December|4|-2
+Kromeriz|Kroměříž|Czechia|January|1|-5
+Kromeriz|Kroměříž|Czechia|February|4|-3
+Kromeriz|Kroměříž|Czechia|March|9|0
+Kromeriz|Kroměříž|Czechia|April|15|4
+Kromeriz|Kroměříž|Czechia|May|20|8
+Kromeriz|Kroměříž|Czechia|June|23|11
+Kromeriz|Kroměříž|Czechia|July|25|13
+Kromeriz|Kroměříž|Czechia|August|25|13
+Kromeriz|Kroměříž|Czechia|September|20|9
+Kromeriz|Kroměříž|Czechia|October|14|5
+Kromeriz|Kroměříž|Czechia|November|7|1
+Kromeriz|Kroměříž|Czechia|December|2|-3
+Krupka|Krupka|Czechia|January|2|-3
+Krupka|Krupka|Czechia|February|2|-2
+Krupka|Krupka|Czechia|March|6|1
+Krupka|Krupka|Czechia|April|11|4
+Krupka|Krupka|Czechia|May|17|9
+Krupka|Krupka|Czechia|June|19|12
+Krupka|Krupka|Czechia|July|22|14
+Krupka|Krupka|Czechia|August|22|14
+Krupka|Krupka|Czechia|September|17|11
+Krupka|Krupka|Czechia|October|12|6
+Krupka|Krupka|Czechia|November|6|2
+Krupka|Krupka|Czechia|December|3|-1
+Liberec|Liberec|Czechia|January|1|-5
+Liberec|Liberec|Czechia|February|3|-4
+Liberec|Liberec|Czechia|March|7|-1
+Liberec|Liberec|Czechia|April|13|2
+Liberec|Liberec|Czechia|May|18|6
+Liberec|Liberec|Czechia|June|21|9
+Liberec|Liberec|Czechia|July|23|11
+Liberec|Liberec|Czechia|August|23|11
+Liberec|Liberec|Czechia|September|18|8
+Liberec|Liberec|Czechia|October|12|4
+Liberec|Liberec|Czechia|November|6|0
+Liberec|Liberec|Czechia|December|2|-3
+Líbeznice|Líbeznice|Czechia|January|2|-3
+Líbeznice|Líbeznice|Czechia|February|5|-2
+Líbeznice|Líbeznice|Czechia|March|10|1
+Líbeznice|Líbeznice|Czechia|April|16|5
+Líbeznice|Líbeznice|Czechia|May|20|9
+Líbeznice|Líbeznice|Czechia|June|23|13
+Líbeznice|Líbeznice|Czechia|July|25|15
+Líbeznice|Líbeznice|Czechia|August|25|14
+Líbeznice|Líbeznice|Czechia|September|20|10
+Líbeznice|Líbeznice|Czechia|October|14|6
+Líbeznice|Líbeznice|Czechia|November|8|2
+Líbeznice|Líbeznice|Czechia|December|4|-2
+Litovel|Litovel|Czechia|January|2|-3
+Litovel|Litovel|Czechia|February|4|-2
+Litovel|Litovel|Czechia|March|9|1
+Litovel|Litovel|Czechia|April|15|6
+Litovel|Litovel|Czechia|May|19|10
+Litovel|Litovel|Czechia|June|23|13
+Litovel|Litovel|Czechia|July|25|15
+Litovel|Litovel|Czechia|August|25|15
+Litovel|Litovel|Czechia|September|19|11
+Litovel|Litovel|Czechia|October|13|7
+Litovel|Litovel|Czechia|November|7|2
+Litovel|Litovel|Czechia|December|2|-2
+Litvínov|Litvínov|Czechia|January|2|-3
+Litvínov|Litvínov|Czechia|February|3|-3
+Litvínov|Litvínov|Czechia|March|8|0
+Litvínov|Litvínov|Czechia|April|14|3
+Litvínov|Litvínov|Czechia|May|18|7
+Litvínov|Litvínov|Czechia|June|21|10
+Litvínov|Litvínov|Czechia|July|24|12
+Litvínov|Litvínov|Czechia|August|23|11
+Litvínov|Litvínov|Czechia|September|18|8
+Litvínov|Litvínov|Czechia|October|13|5
+Litvínov|Litvínov|Czechia|November|7|2
+Litvínov|Litvínov|Czechia|December|4|-1
+Mariánské Lázně|Mariánské Lázně|Czechia|January|1|-5
+Mariánské Lázně|Mariánské Lázně|Czechia|February|3|-5
+Mariánské Lázně|Mariánské Lázně|Czechia|March|7|-2
+Mariánské Lázně|Mariánské Lázně|Czechia|April|13|2
+Mariánské Lázně|Mariánské Lázně|Czechia|May|18|6
+Mariánské Lázně|Mariánské Lázně|Czechia|June|21|9
+Mariánské Lázně|Mariánské Lázně|Czechia|July|23|11
+Mariánské Lázně|Mariánské Lázně|Czechia|August|23|10
+Mariánské Lázně|Mariánské Lázně|Czechia|September|18|7
+Mariánské Lázně|Mariánské Lázně|Czechia|October|12|3
+Mariánské Lázně|Mariánské Lázně|Czechia|November|5|-1
+Mariánské Lázně|Mariánské Lázně|Czechia|December|1|-4
+Mělník|Mělník|Czechia|January|3|-2
+Mělník|Mělník|Czechia|February|5|-1
+Mělník|Mělník|Czechia|March|9|2
+Mělník|Mělník|Czechia|April|14|6
+Mělník|Mělník|Czechia|May|20|11
+Mělník|Mělník|Czechia|June|23|14
+Mělník|Mělník|Czechia|July|25|15
+Mělník|Mělník|Czechia|August|25|15
+Mělník|Mělník|Czechia|September|20|11
+Mělník|Mělník|Czechia|October|14|7
+Mělník|Mělník|Czechia|November|8|3
+Mělník|Mělník|Czechia|December|4|0
+Mikulov|Mikulov|Czechia|January|1|-5
+Mikulov|Mikulov|Czechia|February|4|-4
+Mikulov|Mikulov|Czechia|March|9|0
+Mikulov|Mikulov|Czechia|April|15|4
+Mikulov|Mikulov|Czechia|May|20|8
+Mikulov|Mikulov|Czechia|June|23|12
+Mikulov|Mikulov|Czechia|July|26|13
+Mikulov|Mikulov|Czechia|August|26|13
+Mikulov|Mikulov|Czechia|September|20|9
+Mikulov|Mikulov|Czechia|October|14|5
+Mikulov|Mikulov|Czechia|November|7|1
+Mikulov|Mikulov|Czechia|December|2|-3
+Milovice|Milovice|Czechia|January|3|-2
+Milovice|Milovice|Czechia|February|4|-2
+Milovice|Milovice|Czechia|March|9|1
+Milovice|Milovice|Czechia|April|16|6
+Milovice|Milovice|Czechia|May|19|10
+Milovice|Milovice|Czechia|June|23|13
+Milovice|Milovice|Czechia|July|26|16
+Milovice|Milovice|Czechia|August|25|15
+Milovice|Milovice|Czechia|September|20|11
+Milovice|Milovice|Czechia|October|14|6
+Milovice|Milovice|Czechia|November|8|3
+Milovice|Milovice|Czechia|December|4|-1
+Mimoň|Mimoň|Czechia|January|1|-4
+Mimoň|Mimoň|Czechia|February|3|-4
+Mimoň|Mimoň|Czechia|March|8|-1
+Mimoň|Mimoň|Czechia|April|13|2
+Mimoň|Mimoň|Czechia|May|18|7
+Mimoň|Mimoň|Czechia|June|21|10
+Mimoň|Mimoň|Czechia|July|23|12
+Mimoň|Mimoň|Czechia|August|23|11
+Mimoň|Mimoň|Czechia|September|19|8
+Mimoň|Mimoň|Czechia|October|13|5
+Mimoň|Mimoň|Czechia|November|6|1
+Mimoň|Mimoň|Czechia|December|3|-2
+Most|Most|Czechia|January|3|-2
+Most|Most|Czechia|February|4|-3
+Most|Most|Czechia|March|9|0
+Most|Most|Czechia|April|15|3
+Most|Most|Czechia|May|19|7
+Most|Most|Czechia|June|22|10
+Most|Most|Czechia|July|25|12
+Most|Most|Czechia|August|24|11
+Most|Most|Czechia|September|19|8
+Most|Most|Czechia|October|13|5
+Most|Most|Czechia|November|8|3
+Most|Most|Czechia|December|5|-1
+Neratovice|Neratovice|Czechia|January|3|-2
+Neratovice|Neratovice|Czechia|February|4|-2
+Neratovice|Neratovice|Czechia|March|9|1
+Neratovice|Neratovice|Czechia|April|16|6
+Neratovice|Neratovice|Czechia|May|19|10
+Neratovice|Neratovice|Czechia|June|23|13
+Neratovice|Neratovice|Czechia|July|26|16
+Neratovice|Neratovice|Czechia|August|25|15
+Neratovice|Neratovice|Czechia|September|20|11
+Neratovice|Neratovice|Czechia|October|14|6
+Neratovice|Neratovice|Czechia|November|8|3
+Neratovice|Neratovice|Czechia|December|4|-1
+Nová Paka|Nová Paka|Czechia|January|3|-4
+Nová Paka|Nová Paka|Czechia|February|4|-3
+Nová Paka|Nová Paka|Czechia|March|7|-1
+Nová Paka|Nová Paka|Czechia|April|13|3
+Nová Paka|Nová Paka|Czechia|May|18|7
+Nová Paka|Nová Paka|Czechia|June|21|10
+Nová Paka|Nová Paka|Czechia|July|23|12
+Nová Paka|Nová Paka|Czechia|August|22|12
+Nová Paka|Nová Paka|Czechia|September|18|8
+Nová Paka|Nová Paka|Czechia|October|12|5
+Nová Paka|Nová Paka|Czechia|November|7|1
+Nová Paka|Nová Paka|Czechia|December|3|-3
+Nový Bor|Nový Bor|Czechia|January|1|-4
+Nový Bor|Nový Bor|Czechia|February|3|-3
+Nový Bor|Nový Bor|Czechia|March|8|-1
+Nový Bor|Nový Bor|Czechia|April|14|2
+Nový Bor|Nový Bor|Czechia|May|18|6
+Nový Bor|Nový Bor|Czechia|June|21|9
+Nový Bor|Nový Bor|Czechia|July|24|12
+Nový Bor|Nový Bor|Czechia|August|23|11
+Nový Bor|Nový Bor|Czechia|September|19|8
+Nový Bor|Nový Bor|Czechia|October|13|4
+Nový Bor|Nový Bor|Czechia|November|6|1
+Nový Bor|Nový Bor|Czechia|December|3|-2
+Novy Jicin|Novy Jicin|Czechia|January|1|-5
+Novy Jicin|Novy Jicin|Czechia|February|3|-4
+Novy Jicin|Novy Jicin|Czechia|March|8|-1
+Novy Jicin|Novy Jicin|Czechia|April|14|3
+Novy Jicin|Novy Jicin|Czechia|May|19|7
+Novy Jicin|Novy Jicin|Czechia|June|23|11
+Novy Jicin|Novy Jicin|Czechia|July|25|12
+Novy Jicin|Novy Jicin|Czechia|August|25|12
+Novy Jicin|Novy Jicin|Czechia|September|19|8
+Novy Jicin|Novy Jicin|Czechia|October|14|4
+Novy Jicin|Novy Jicin|Czechia|November|7|0
+Novy Jicin|Novy Jicin|Czechia|December|3|-4
+Olomouc|Olomouc|Czechia|January|1|-5
+Olomouc|Olomouc|Czechia|February|4|-4
+Olomouc|Olomouc|Czechia|March|9|-1
+Olomouc|Olomouc|Czechia|April|16|4
+Olomouc|Olomouc|Czechia|May|20|8
+Olomouc|Olomouc|Czechia|June|23|12
+Olomouc|Olomouc|Czechia|July|25|13
+Olomouc|Olomouc|Czechia|August|25|13
+Olomouc|Olomouc|Czechia|September|19|8
+Olomouc|Olomouc|Czechia|October|14|4
+Olomouc|Olomouc|Czechia|November|8|1
+Olomouc|Olomouc|Czechia|December|2|-4
+Opava|Opava|Czechia|January|1|-5
+Opava|Opava|Czechia|February|2|-4
+Opava|Opava|Czechia|March|8|0
+Opava|Opava|Czechia|April|14|3
+Opava|Opava|Czechia|May|19|8
+Opava|Opava|Czechia|June|21|11
+Opava|Opava|Czechia|July|24|13
+Opava|Opava|Czechia|August|23|12
+Opava|Opava|Czechia|September|18|9
+Opava|Opava|Czechia|October|13|5
+Opava|Opava|Czechia|November|6|1
+Opava|Opava|Czechia|December|2|-3
+Osek u Duchcova|could not be found|could not be found|could not be found|99|99
+Ostrava|Ostrava|Czechia|January|1|-5
+Ostrava|Ostrava|Czechia|February|3|-4
+Ostrava|Ostrava|Czechia|March|8|-1
+Ostrava|Ostrava|Czechia|April|14|3
+Ostrava|Ostrava|Czechia|May|19|7
+Ostrava|Ostrava|Czechia|June|23|11
+Ostrava|Ostrava|Czechia|July|25|12
+Ostrava|Ostrava|Czechia|August|25|12
+Ostrava|Ostrava|Czechia|September|19|8
+Ostrava|Ostrava|Czechia|October|14|4
+Ostrava|Ostrava|Czechia|November|7|0
+Ostrava|Ostrava|Czechia|December|3|-4
+Ostrov|Ostrov|Czechia|January|3|-2
+Ostrov|Ostrov|Czechia|February|3|-2
+Ostrov|Ostrov|Czechia|March|6|1
+Ostrov|Ostrov|Czechia|April|11|4
+Ostrov|Ostrov|Czechia|May|16|9
+Ostrov|Ostrov|Czechia|June|19|12
+Ostrov|Ostrov|Czechia|July|21|14
+Ostrov|Ostrov|Czechia|August|21|14
+Ostrov|Ostrov|Czechia|September|17|11
+Ostrov|Ostrov|Czechia|October|12|7
+Ostrov|Ostrov|Czechia|November|7|3
+Ostrov|Ostrov|Czechia|December|4|0
+Pečky|Pečky|Czechia|January|2|-3
+Pečky|Pečky|Czechia|February|5|-2
+Pečky|Pečky|Czechia|March|9|0
+Pečky|Pečky|Czechia|April|16|4
+Pečky|Pečky|Czechia|May|20|9
+Pečky|Pečky|Czechia|June|23|12
+Pečky|Pečky|Czechia|July|25|14
+Pečky|Pečky|Czechia|August|25|13
+Pečky|Pečky|Czechia|September|20|10
+Pečky|Pečky|Czechia|October|14|5
+Pečky|Pečky|Czechia|November|8|2
+Pečky|Pečky|Czechia|December|4|-2
+Pelhřimov|Pelhrimov|Czechia|January|1|-4
+Pelhřimov|Pelhrimov|Czechia|February|3|-3
+Pelhřimov|Pelhrimov|Czechia|March|8|0
+Pelhřimov|Pelhrimov|Czechia|April|13|3
+Pelhřimov|Pelhrimov|Czechia|May|18|7
+Pelhřimov|Pelhrimov|Czechia|June|21|10
+Pelhřimov|Pelhrimov|Czechia|July|23|12
+Pelhřimov|Pelhrimov|Czechia|August|23|12
+Pelhřimov|Pelhrimov|Czechia|September|18|8
+Pelhřimov|Pelhrimov|Czechia|October|12|4
+Pelhřimov|Pelhrimov|Czechia|November|6|0
+Pelhřimov|Pelhrimov|Czechia|December|2|-3
+Písek|Pisek|Czechia|January|2|-4
+Písek|Pisek|Czechia|February|4|-3
+Písek|Pisek|Czechia|March|9|0
+Písek|Pisek|Czechia|April|15|4
+Písek|Pisek|Czechia|May|19|8
+Písek|Pisek|Czechia|June|23|12
+Písek|Pisek|Czechia|July|25|14
+Písek|Pisek|Czechia|August|25|13
+Písek|Pisek|Czechia|September|19|9
+Písek|Pisek|Czechia|October|13|5
+Písek|Pisek|Czechia|November|7|1
+Písek|Pisek|Czechia|December|3|-3
+Plana|Planá|Czechia|January|3|-4
+Plana|Planá|Czechia|February|5|-3
+Plana|Planá|Czechia|March|10|0
+Plana|Planá|Czechia|April|16|4
+Plana|Planá|Czechia|May|20|8
+Plana|Planá|Czechia|June|24|12
+Plana|Planá|Czechia|July|26|13
+Plana|Planá|Czechia|August|25|13
+Plana|Planá|Czechia|September|20|9
+Plana|Planá|Czechia|October|14|5
+Plana|Planá|Czechia|November|8|1
+Plana|Planá|Czechia|December|4|-2
+Plzeň|Pilsen|Czechia|January|2|-3
+Plzeň|Pilsen|Czechia|February|4|-3
+Plzeň|Pilsen|Czechia|March|10|0
+Plzeň|Pilsen|Czechia|April|17|4
+Plzeň|Pilsen|Czechia|May|20|8
+Plzeň|Pilsen|Czechia|June|24|12
+Plzeň|Pilsen|Czechia|July|26|14
+Plzeň|Pilsen|Czechia|August|25|13
+Plzeň|Pilsen|Czechia|September|20|9
+Plzeň|Pilsen|Czechia|October|14|5
+Plzeň|Pilsen|Czechia|November|7|2
+Plzeň|Pilsen|Czechia|December|3|-2
+Poděbrady|Poděbrady|Czechia|January|2|-3
+Poděbrady|Poděbrady|Czechia|February|5|-2
+Poděbrady|Poděbrady|Czechia|March|9|0
+Poděbrady|Poděbrady|Czechia|April|16|4
+Poděbrady|Poděbrady|Czechia|May|20|9
+Poděbrady|Poděbrady|Czechia|June|23|12
+Poděbrady|Poděbrady|Czechia|July|25|14
+Poděbrady|Poděbrady|Czechia|August|25|13
+Poděbrady|Poděbrady|Czechia|September|20|10
+Poděbrady|Poděbrady|Czechia|October|14|5
+Poděbrady|Poděbrady|Czechia|November|8|2
+Poděbrady|Poděbrady|Czechia|December|4|-2
+Pohořelice|Pohořelice|Czechia|January|2|-4
+Pohořelice|Pohořelice|Czechia|February|4|-3
+Pohořelice|Pohořelice|Czechia|March|10|0
+Pohořelice|Pohořelice|Czechia|April|16|4
+Pohořelice|Pohořelice|Czechia|May|21|9
+Pohořelice|Pohořelice|Czechia|June|24|12
+Pohořelice|Pohořelice|Czechia|July|26|14
+Pohořelice|Pohořelice|Czechia|August|26|14
+Pohořelice|Pohořelice|Czechia|September|21|10
+Pohořelice|Pohořelice|Czechia|October|14|5
+Pohořelice|Pohořelice|Czechia|November|7|1
+Pohořelice|Pohořelice|Czechia|December|3|-3
+Policka|Policka|Czechia|January|1|-4
+Policka|Policka|Czechia|February|2|-3
+Policka|Policka|Czechia|March|7|0
+Policka|Policka|Czechia|April|12|4
+Policka|Policka|Czechia|May|17|8
+Policka|Policka|Czechia|June|20|12
+Policka|Policka|Czechia|July|23|14
+Policka|Policka|Czechia|August|23|13
+Policka|Policka|Czechia|September|17|10
+Policka|Policka|Czechia|October|11|5
+Policka|Policka|Czechia|November|5|1
+Policka|Policka|Czechia|December|1|-3
+Praha|Prague|Czechia|January|3|-1
+Praha|Prague|Czechia|February|5|-1
+Praha|Prague|Czechia|March|10|2
+Praha|Prague|Czechia|April|17|7
+Praha|Prague|Czechia|May|20|10
+Praha|Prague|Czechia|June|24|14
+Praha|Prague|Czechia|July|26|16
+Praha|Prague|Czechia|August|26|15
+Praha|Prague|Czechia|September|20|11
+Praha|Prague|Czechia|October|14|6
+Praha|Prague|Czechia|November|8|3
+Praha|Prague|Czechia|December|4|0
+Přelouč|Prelouc|Czechia|January|2|-4
+Přelouč|Prelouc|Czechia|February|5|-3
+Přelouč|Prelouc|Czechia|March|10|0
+Přelouč|Prelouc|Czechia|April|16|4
+Přelouč|Prelouc|Czechia|May|20|8
+Přelouč|Prelouc|Czechia|June|24|12
+Přelouč|Prelouc|Czechia|July|25|13
+Přelouč|Prelouc|Czechia|August|25|13
+Přelouč|Prelouc|Czechia|September|20|9
+Přelouč|Prelouc|Czechia|October|14|5
+Přelouč|Prelouc|Czechia|November|8|1
+Přelouč|Prelouc|Czechia|December|3|-3
+Přerov|Prerov|Czechia|January|1|-5
+Přerov|Prerov|Czechia|February|4|-4
+Přerov|Prerov|Czechia|March|9|-1
+Přerov|Prerov|Czechia|April|16|4
+Přerov|Prerov|Czechia|May|20|8
+Přerov|Prerov|Czechia|June|23|12
+Přerov|Prerov|Czechia|July|25|13
+Přerov|Prerov|Czechia|August|25|13
+Přerov|Prerov|Czechia|September|19|8
+Přerov|Prerov|Czechia|October|14|4
+Přerov|Prerov|Czechia|November|8|1
+Přerov|Prerov|Czechia|December|2|-4
+Pribram|Příbram|Czechia|January|1|-4
+Pribram|Příbram|Czechia|February|3|-4
+Pribram|Příbram|Czechia|March|8|-1
+Pribram|Příbram|Czechia|April|13|3
+Pribram|Příbram|Czechia|May|18|7
+Pribram|Příbram|Czechia|June|21|10
+Pribram|Příbram|Czechia|July|24|12
+Pribram|Příbram|Czechia|August|24|12
+Pribram|Příbram|Czechia|September|18|8
+Pribram|Příbram|Czechia|October|12|4
+Pribram|Příbram|Czechia|November|5|0
+Pribram|Příbram|Czechia|December|2|-4
+Prostějov|Prostějov|Czechia|January|1|-5
+Prostějov|Prostějov|Czechia|February|4|-4
+Prostějov|Prostějov|Czechia|March|9|-1
+Prostějov|Prostějov|Czechia|April|16|4
+Prostějov|Prostějov|Czechia|May|20|8
+Prostějov|Prostějov|Czechia|June|23|12
+Prostějov|Prostějov|Czechia|July|25|13
+Prostějov|Prostějov|Czechia|August|25|13
+Prostějov|Prostějov|Czechia|September|19|8
+Prostějov|Prostějov|Czechia|October|14|4
+Prostějov|Prostějov|Czechia|November|8|1
+Prostějov|Prostějov|Czechia|December|2|-4
+Rajhrad|Rajhrad|Czechia|January|1|-5
+Rajhrad|Rajhrad|Czechia|February|4|-4
+Rajhrad|Rajhrad|Czechia|March|9|0
+Rajhrad|Rajhrad|Czechia|April|15|4
+Rajhrad|Rajhrad|Czechia|May|20|8
+Rajhrad|Rajhrad|Czechia|June|23|12
+Rajhrad|Rajhrad|Czechia|July|26|13
+Rajhrad|Rajhrad|Czechia|August|26|13
+Rajhrad|Rajhrad|Czechia|September|20|9
+Rajhrad|Rajhrad|Czechia|October|14|5
+Rajhrad|Rajhrad|Czechia|November|7|1
+Rajhrad|Rajhrad|Czechia|December|2|-3
+Rakovník|Rakovnik|Czechia|January|2|-5
+Rakovník|Rakovnik|Czechia|February|3|-4
+Rakovník|Rakovnik|Czechia|March|8|-1
+Rakovník|Rakovnik|Czechia|April|14|2
+Rakovník|Rakovnik|Czechia|May|19|7
+Rakovník|Rakovnik|Czechia|June|22|10
+Rakovník|Rakovnik|Czechia|July|24|12
+Rakovník|Rakovnik|Czechia|August|24|12
+Rakovník|Rakovnik|Czechia|September|19|8
+Rakovník|Rakovnik|Czechia|October|13|4
+Rakovník|Rakovnik|Czechia|November|6|0
+Rakovník|Rakovnik|Czechia|December|3|-3
+Ricany|Říčany|Czechia|January|2|-4
+Ricany|Říčany|Czechia|February|4|-4
+Ricany|Říčany|Czechia|March|8|0
+Ricany|Říčany|Czechia|April|14|3
+Ricany|Říčany|Czechia|May|19|7
+Ricany|Říčany|Czechia|June|22|11
+Ricany|Říčany|Czechia|July|24|13
+Ricany|Říčany|Czechia|August|24|12
+Ricany|Říčany|Czechia|September|19|9
+Ricany|Říčany|Czechia|October|13|4
+Ricany|Říčany|Czechia|November|6|0
+Ricany|Říčany|Czechia|December|3|-3
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|January|0|-6
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|February|1|-5
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|March|6|-2
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|April|12|1
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|May|17|5
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|June|20|8
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|July|22|10
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|August|22|10
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|September|17|7
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|October|11|3
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|November|5|-1
+Rokytnice nad Jizerou|Rokytnice nad Jizerou|Czechia|December|1|-4
+Rosice u Brna|Rosice|Czechia|January|1|-4
+Rosice u Brna|Rosice|Czechia|February|4|-3
+Rosice u Brna|Rosice|Czechia|March|9|0
+Rosice u Brna|Rosice|Czechia|April|15|5
+Rosice u Brna|Rosice|Czechia|May|19|9
+Rosice u Brna|Rosice|Czechia|June|23|12
+Rosice u Brna|Rosice|Czechia|July|25|14
+Rosice u Brna|Rosice|Czechia|August|25|14
+Rosice u Brna|Rosice|Czechia|September|19|10
+Rosice u Brna|Rosice|Czechia|October|13|6
+Rosice u Brna|Rosice|Czechia|November|7|2
+Rosice u Brna|Rosice|Czechia|December|2|-3
+Roudnice nad Labem|Roudnice nad Labem|Czechia|January|3|-4
+Roudnice nad Labem|Roudnice nad Labem|Czechia|February|5|-3
+Roudnice nad Labem|Roudnice nad Labem|Czechia|March|10|0
+Roudnice nad Labem|Roudnice nad Labem|Czechia|April|17|3
+Roudnice nad Labem|Roudnice nad Labem|Czechia|May|21|8
+Roudnice nad Labem|Roudnice nad Labem|Czechia|June|24|11
+Roudnice nad Labem|Roudnice nad Labem|Czechia|July|27|13
+Roudnice nad Labem|Roudnice nad Labem|Czechia|August|26|12
+Roudnice nad Labem|Roudnice nad Labem|Czechia|September|21|9
+Roudnice nad Labem|Roudnice nad Labem|Czechia|October|14|5
+Roudnice nad Labem|Roudnice nad Labem|Czechia|November|7|1
+Roudnice nad Labem|Roudnice nad Labem|Czechia|December|3|-2
+Roztoky|Roztoky|Czechia|January|3|-2
+Roztoky|Roztoky|Czechia|February|5|-1
+Roztoky|Roztoky|Czechia|March|9|2
+Roztoky|Roztoky|Czechia|April|14|6
+Roztoky|Roztoky|Czechia|May|20|11
+Roztoky|Roztoky|Czechia|June|23|14
+Roztoky|Roztoky|Czechia|July|25|15
+Roztoky|Roztoky|Czechia|August|25|15
+Roztoky|Roztoky|Czechia|September|20|11
+Roztoky|Roztoky|Czechia|October|14|7
+Roztoky|Roztoky|Czechia|November|8|3
+Roztoky|Roztoky|Czechia|December|4|0
+Rumburk|Rumburk|Czechia|January|1|-4
+Rumburk|Rumburk|Czechia|February|3|-3
+Rumburk|Rumburk|Czechia|March|8|-1
+Rumburk|Rumburk|Czechia|April|14|2
+Rumburk|Rumburk|Czechia|May|18|6
+Rumburk|Rumburk|Czechia|June|21|9
+Rumburk|Rumburk|Czechia|July|24|12
+Rumburk|Rumburk|Czechia|August|23|11
+Rumburk|Rumburk|Czechia|September|19|8
+Rumburk|Rumburk|Czechia|October|13|4
+Rumburk|Rumburk|Czechia|November|6|1
+Rumburk|Rumburk|Czechia|December|3|-2
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|January|1|-4
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|February|3|-3
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|March|8|0
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|April|14|3
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|May|19|8
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|June|22|11
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|July|24|12
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|August|24|12
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|September|19|9
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|October|13|5
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|November|6|1
+Rychnov nad Kněznou|Rychnov nad Kněžnou|Czechia|December|2|-3
+Sázava|Sázava|Czechia|January|2|-4
+Sázava|Sázava|Czechia|February|4|-3
+Sázava|Sázava|Czechia|March|9|0
+Sázava|Sázava|Czechia|April|14|4
+Sázava|Sázava|Czechia|May|20|8
+Sázava|Sázava|Czechia|June|23|11
+Sázava|Sázava|Czechia|July|25|13
+Sázava|Sázava|Czechia|August|25|13
+Sázava|Sázava|Czechia|September|20|9
+Sázava|Sázava|Czechia|October|13|5
+Sázava|Sázava|Czechia|November|7|1
+Sázava|Sázava|Czechia|December|3|-2
+Semily|Semily|Czechia|January|1|-4
+Semily|Semily|Czechia|February|3|-4
+Semily|Semily|Czechia|March|8|-1
+Semily|Semily|Czechia|April|13|2
+Semily|Semily|Czechia|May|18|7
+Semily|Semily|Czechia|June|21|10
+Semily|Semily|Czechia|July|23|12
+Semily|Semily|Czechia|August|23|11
+Semily|Semily|Czechia|September|19|8
+Semily|Semily|Czechia|October|13|5
+Semily|Semily|Czechia|November|6|1
+Semily|Semily|Czechia|December|3|-2
+Skuteč|Skuteč|Czechia|January|2|-3
+Skuteč|Skuteč|Czechia|February|3|-2
+Skuteč|Skuteč|Czechia|March|8|1
+Skuteč|Skuteč|Czechia|April|13|5
+Skuteč|Skuteč|Czechia|May|18|10
+Skuteč|Skuteč|Czechia|June|21|13
+Skuteč|Skuteč|Czechia|July|24|15
+Skuteč|Skuteč|Czechia|August|24|15
+Skuteč|Skuteč|Czechia|September|18|11
+Skuteč|Skuteč|Czechia|October|12|6
+Skuteč|Skuteč|Czechia|November|6|2
+Skuteč|Skuteč|Czechia|December|2|-2
+Slavičín|Slavičín|Czechia|January|0|-6
+Slavičín|Slavičín|Czechia|February|3|-5
+Slavičín|Slavičín|Czechia|March|8|-1
+Slavičín|Slavičín|Czechia|April|14|3
+Slavičín|Slavičín|Czechia|May|19|7
+Slavičín|Slavičín|Czechia|June|22|10
+Slavičín|Slavičín|Czechia|July|24|12
+Slavičín|Slavičín|Czechia|August|24|12
+Slavičín|Slavičín|Czechia|September|19|8
+Slavičín|Slavičín|Czechia|October|13|4
+Slavičín|Slavičín|Czechia|November|6|0
+Slavičín|Slavičín|Czechia|December|1|-4
+Sluknov|Šluknov|Czechia|January|2|-4
+Sluknov|Šluknov|Czechia|February|4|-4
+Sluknov|Šluknov|Czechia|March|8|-2
+Sluknov|Šluknov|Czechia|April|14|1
+Sluknov|Šluknov|Czechia|May|19|5
+Sluknov|Šluknov|Czechia|June|22|9
+Sluknov|Šluknov|Czechia|July|24|11
+Sluknov|Šluknov|Czechia|August|24|10
+Sluknov|Šluknov|Czechia|September|19|7
+Sluknov|Šluknov|Czechia|October|13|4
+Sluknov|Šluknov|Czechia|November|7|1
+Sluknov|Šluknov|Czechia|December|3|-2
+Soběslav|Soběslav|Czechia|January|2|-4
+Soběslav|Soběslav|Czechia|February|4|-3
+Soběslav|Soběslav|Czechia|March|9|0
+Soběslav|Soběslav|Czechia|April|15|4
+Soběslav|Soběslav|Czechia|May|19|8
+Soběslav|Soběslav|Czechia|June|23|12
+Soběslav|Soběslav|Czechia|July|25|14
+Soběslav|Soběslav|Czechia|August|25|13
+Soběslav|Soběslav|Czechia|September|19|9
+Soběslav|Soběslav|Czechia|October|13|5
+Soběslav|Soběslav|Czechia|November|7|1
+Soběslav|Soběslav|Czechia|December|3|-3
+Sokolov|Sokolov|Czechia|January|2|-4
+Sokolov|Sokolov|Czechia|February|4|-3
+Sokolov|Sokolov|Czechia|March|8|0
+Sokolov|Sokolov|Czechia|April|14|3
+Sokolov|Sokolov|Czechia|May|18|7
+Sokolov|Sokolov|Czechia|June|21|10
+Sokolov|Sokolov|Czechia|July|24|12
+Sokolov|Sokolov|Czechia|August|23|12
+Sokolov|Sokolov|Czechia|September|18|8
+Sokolov|Sokolov|Czechia|October|12|4
+Sokolov|Sokolov|Czechia|November|6|1
+Sokolov|Sokolov|Czechia|December|2|-2
+Sternberk|Šternberk|Czechia|January|1|-3
+Sternberk|Šternberk|Czechia|February|3|-2
+Sternberk|Šternberk|Czechia|March|7|1
+Sternberk|Šternberk|Czechia|April|14|6
+Sternberk|Šternberk|Czechia|May|19|10
+Sternberk|Šternberk|Czechia|June|22|13
+Sternberk|Šternberk|Czechia|July|24|15
+Sternberk|Šternberk|Czechia|August|24|15
+Sternberk|Šternberk|Czechia|September|18|11
+Sternberk|Šternberk|Czechia|October|12|7
+Sternberk|Šternberk|Czechia|November|6|2
+Sternberk|Šternberk|Czechia|December|2|-2
+Stětí|Štětí|Czechia|January|3|-4
+Stětí|Štětí|Czechia|February|5|-3
+Stětí|Štětí|Czechia|March|10|0
+Stětí|Štětí|Czechia|April|17|3
+Stětí|Štětí|Czechia|May|21|8
+Stětí|Štětí|Czechia|June|24|11
+Stětí|Štětí|Czechia|July|27|13
+Stětí|Štětí|Czechia|August|26|12
+Stětí|Štětí|Czechia|September|21|9
+Stětí|Štětí|Czechia|October|14|5
+Stětí|Štětí|Czechia|November|7|1
+Stětí|Štětí|Czechia|December|3|-2
+Stochov|Stochov|Czechia|January|1|-5
+Stochov|Stochov|Czechia|February|3|-5
+Stochov|Stochov|Czechia|March|8|-1
+Studénka|Studénka|Czechia|January|1|-5
+Studénka|Studénka|Czechia|February|3|-4
+Studénka|Studénka|Czechia|March|8|-1
+Studénka|Studénka|Czechia|April|14|3
+Studénka|Studénka|Czechia|May|19|7
+Studénka|Studénka|Czechia|June|23|11
+Studénka|Studénka|Czechia|July|25|12
+Studénka|Studénka|Czechia|August|25|12
+Studénka|Studénka|Czechia|September|19|8
+Studénka|Studénka|Czechia|October|14|4
+Studénka|Studénka|Czechia|November|7|0
+Studénka|Studénka|Czechia|December|3|-4
+Susice|Sušice|Czechia|January|4|-1
+Susice|Sušice|Czechia|February|5|0
+Susice|Sušice|Czechia|March|7|2
+Susice|Sušice|Czechia|April|10|4
+Susice|Sušice|Czechia|May|16|9
+Susice|Sušice|Czechia|June|19|13
+Susice|Sušice|Czechia|July|21|14
+Susice|Sušice|Czechia|August|21|14
+Susice|Sušice|Czechia|September|18|12
+Susice|Sušice|Czechia|October|14|8
+Susice|Sušice|Czechia|November|7|3
+Susice|Sušice|Czechia|December|5|0
+Tábor|Tabor|Czechia|January|2|-4
+Tábor|Tabor|Czechia|February|4|-3
+Tábor|Tabor|Czechia|March|9|0
+Tábor|Tabor|Czechia|April|15|4
+Tábor|Tabor|Czechia|May|19|8
+Tábor|Tabor|Czechia|June|23|12
+Tábor|Tabor|Czechia|July|25|14
+Tábor|Tabor|Czechia|August|25|13
+Tábor|Tabor|Czechia|September|19|9
+Tábor|Tabor|Czechia|October|13|5
+Tábor|Tabor|Czechia|November|7|1
+Tábor|Tabor|Czechia|December|3|-3
+Tachov|Tachov|Czechia|January|1|-4
+Tachov|Tachov|Czechia|February|3|-3
+Tachov|Tachov|Czechia|March|7|0
+Tachov|Tachov|Czechia|April|13|4
+Tachov|Tachov|Czechia|May|18|8
+Tachov|Tachov|Czechia|June|21|11
+Tachov|Tachov|Czechia|July|23|13
+Tachov|Tachov|Czechia|August|23|13
+Tachov|Tachov|Czechia|September|17|9
+Tachov|Tachov|Czechia|October|11|5
+Tachov|Tachov|Czechia|November|5|0
+Tachov|Tachov|Czechia|December|1|-3
+Telc|Telč|Czechia|January|0|-5
+Telc|Telč|Czechia|February|2|-4
+Telc|Telč|Czechia|March|7|-1
+Telc|Telč|Czechia|April|13|3
+Telc|Telč|Czechia|May|18|7
+Telc|Telč|Czechia|June|21|10
+Telc|Telč|Czechia|July|23|12
+Telc|Telč|Czechia|August|23|12
+Telc|Telč|Czechia|September|18|8
+Telc|Telč|Czechia|October|12|4
+Telc|Telč|Czechia|November|5|0
+Telc|Telč|Czechia|December|1|-4
+Tisnov|Tišnov|Czechia|January|1|-5
+Tisnov|Tišnov|Czechia|February|4|-4
+Tisnov|Tišnov|Czechia|March|9|0
+Tisnov|Tišnov|Czechia|April|15|4
+Tisnov|Tišnov|Czechia|May|20|8
+Tisnov|Tišnov|Czechia|June|23|12
+Tisnov|Tišnov|Czechia|July|26|13
+Tisnov|Tišnov|Czechia|August|26|13
+Tisnov|Tišnov|Czechia|September|20|9
+Tisnov|Tišnov|Czechia|October|14|5
+Tisnov|Tišnov|Czechia|November|7|1
+Tisnov|Tišnov|Czechia|December|2|-3
+Třinec|Trinec|Czechia|January|3|-2
+Třinec|Trinec|Czechia|February|4|-2
+Třinec|Trinec|Czechia|March|7|1
+Třinec|Trinec|Czechia|April|12|5
+Třinec|Trinec|Czechia|May|18|10
+Třinec|Trinec|Czechia|June|21|13
+Třinec|Trinec|Czechia|July|23|15
+Třinec|Trinec|Czechia|August|23|15
+Třinec|Trinec|Czechia|September|18|11
+Třinec|Trinec|Czechia|October|13|7
+Třinec|Trinec|Czechia|November|7|3
+Třinec|Trinec|Czechia|December|4|-1
+Trutnov|Trutnov|Czechia|January|3|-4
+Trutnov|Trutnov|Czechia|February|4|-3
+Trutnov|Trutnov|Czechia|March|7|-1
+Trutnov|Trutnov|Czechia|April|13|3
+Trutnov|Trutnov|Czechia|May|18|7
+Trutnov|Trutnov|Czechia|June|21|10
+Trutnov|Trutnov|Czechia|July|23|12
+Trutnov|Trutnov|Czechia|August|22|12
+Trutnov|Trutnov|Czechia|September|18|8
+Trutnov|Trutnov|Czechia|October|12|5
+Trutnov|Trutnov|Czechia|November|7|1
+Trutnov|Trutnov|Czechia|December|3|-3
+Turnov|Turnov|Czechia|January|1|-4
+Turnov|Turnov|Czechia|February|3|-4
+Turnov|Turnov|Czechia|March|8|-1
+Turnov|Turnov|Czechia|April|13|2
+Turnov|Turnov|Czechia|May|18|7
+Turnov|Turnov|Czechia|June|21|10
+Turnov|Turnov|Czechia|July|23|12
+Turnov|Turnov|Czechia|August|23|11
+Turnov|Turnov|Czechia|September|19|8
+Turnov|Turnov|Czechia|October|13|5
+Turnov|Turnov|Czechia|November|6|1
+Turnov|Turnov|Czechia|December|3|-2
+Uherské Hradistě|Uherské Hradiště|Czechia|January|1|-5
+Uherské Hradistě|Uherské Hradiště|Czechia|February|4|-3
+Uherské Hradistě|Uherské Hradiště|Czechia|March|9|0
+Uherské Hradistě|Uherské Hradiště|Czechia|April|15|4
+Uherské Hradistě|Uherské Hradiště|Czechia|May|20|8
+Uherské Hradistě|Uherské Hradiště|Czechia|June|23|11
+Uherské Hradistě|Uherské Hradiště|Czechia|July|25|13
+Uherské Hradistě|Uherské Hradiště|Czechia|August|25|13
+Uherské Hradistě|Uherské Hradiště|Czechia|September|20|9
+Uherské Hradistě|Uherské Hradiště|Czechia|October|14|5
+Uherské Hradistě|Uherské Hradiště|Czechia|November|7|1
+Uherské Hradistě|Uherské Hradiště|Czechia|December|2|-3
+Uherský Brod|Uhersky Brod|Czechia|January|1|-5
+Uherský Brod|Uhersky Brod|Czechia|February|3|-4
+Uherský Brod|Uhersky Brod|Czechia|March|8|0
+Uherský Brod|Uhersky Brod|Czechia|April|14|3
+Uherský Brod|Uhersky Brod|Czechia|May|19|8
+Uherský Brod|Uhersky Brod|Czechia|June|22|11
+Uherský Brod|Uhersky Brod|Czechia|July|25|12
+Uherský Brod|Uhersky Brod|Czechia|August|24|12
+Uherský Brod|Uhersky Brod|Czechia|September|19|9
+Uherský Brod|Uhersky Brod|Czechia|October|13|4
+Uherský Brod|Uhersky Brod|Czechia|November|6|0
+Uherský Brod|Uhersky Brod|Czechia|December|2|-3
+Uničov|Uničov|Czechia|January|2|-3
+Uničov|Uničov|Czechia|February|4|-2
+Uničov|Uničov|Czechia|March|9|1
+Uničov|Uničov|Czechia|April|15|6
+Uničov|Uničov|Czechia|May|19|10
+Uničov|Uničov|Czechia|June|23|13
+Uničov|Uničov|Czechia|July|25|15
+Uničov|Uničov|Czechia|August|25|15
+Uničov|Uničov|Czechia|September|19|11
+Uničov|Uničov|Czechia|October|13|7
+Uničov|Uničov|Czechia|November|7|2
+Uničov|Uničov|Czechia|December|2|-2
+Ústí nad Labem|Ústí nad Labem|Czechia|January|2|-2
+Ústí nad Labem|Ústí nad Labem|Czechia|February|5|-1
+Ústí nad Labem|Ústí nad Labem|Czechia|March|9|2
+Ústí nad Labem|Ústí nad Labem|Czechia|April|15|6
+Ústí nad Labem|Ústí nad Labem|Czechia|May|20|10
+Ústí nad Labem|Ústí nad Labem|Czechia|June|23|13
+Ústí nad Labem|Ústí nad Labem|Czechia|July|25|15
+Ústí nad Labem|Ústí nad Labem|Czechia|August|25|15
+Ústí nad Labem|Ústí nad Labem|Czechia|September|19|11
+Ústí nad Labem|Ústí nad Labem|Czechia|October|13|7
+Ústí nad Labem|Ústí nad Labem|Czechia|November|7|2
+Ústí nad Labem|Ústí nad Labem|Czechia|December|3|-1
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|January|1|-5
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|February|3|-4
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|March|8|-1
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|April|13|3
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|May|19|7
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|June|22|10
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|July|24|12
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|August|24|11
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|September|18|8
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|October|12|4
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|November|6|0
+Ústí nad Orlicí|Ústí nad Orlicí|Czechia|December|2|-3
+Valasske Mezirici|Valasske Mezirici|Czechia|January|1|-6
+Valasske Mezirici|Valasske Mezirici|Czechia|February|3|-5
+Valasske Mezirici|Valasske Mezirici|Czechia|March|8|-2
+Valasske Mezirici|Valasske Mezirici|Czechia|April|14|2
+Valasske Mezirici|Valasske Mezirici|Czechia|May|19|7
+Valasske Mezirici|Valasske Mezirici|Czechia|June|22|10
+Valasske Mezirici|Valasske Mezirici|Czechia|July|24|12
+Valasske Mezirici|Valasske Mezirici|Czechia|August|24|11
+Valasske Mezirici|Valasske Mezirici|Czechia|September|19|8
+Valasske Mezirici|Valasske Mezirici|Czechia|October|13|4
+Valasske Mezirici|Valasske Mezirici|Czechia|November|7|0
+Valasske Mezirici|Valasske Mezirici|Czechia|December|2|-4
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|January|2|-4
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|February|4|-3
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|March|9|0
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|April|15|4
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|May|19|8
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|June|23|12
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|July|25|14
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|August|25|13
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|September|19|9
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|October|13|5
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|November|7|1
+Veselí nad Luznicí|Veselí nad Lužnicí|Czechia|December|3|-3
+Vimperk|Vimperk|Czechia|January|3|-3
+Vimperk|Vimperk|Czechia|February|3|-3
+Vimperk|Vimperk|Czechia|March|7|0
+Vimperk|Vimperk|Czechia|April|11|3
+Vimperk|Vimperk|Czechia|May|16|7
+Vimperk|Vimperk|Czechia|June|19|10
+Vimperk|Vimperk|Czechia|July|21|12
+Vimperk|Vimperk|Czechia|August|21|12
+Vimperk|Vimperk|Czechia|September|17|9
+Vimperk|Vimperk|Czechia|October|12|5
+Vimperk|Vimperk|Czechia|November|7|1
+Vimperk|Vimperk|Czechia|December|3|-2
+Vlasim|Vlašim|Czechia|January|2|-3
+Vlasim|Vlašim|Czechia|February|4|-2
+Vlasim|Vlašim|Czechia|March|9|1
+Vlasim|Vlašim|Czechia|April|14|4
+Vlasim|Vlašim|Czechia|May|19|8
+Vlasim|Vlašim|Czechia|June|22|11
+Vlasim|Vlašim|Czechia|July|25|13
+Vlasim|Vlašim|Czechia|August|24|13
+Vlasim|Vlašim|Czechia|September|19|9
+Vlasim|Vlašim|Czechia|October|13|5
+Vlasim|Vlašim|Czechia|November|7|1
+Vlasim|Vlašim|Czechia|December|3|-2
+Vodňany|Vodňany|Czechia|January|2|-4
+Vodňany|Vodňany|Czechia|February|4|-3
+Vodňany|Vodňany|Czechia|March|9|0
+Vodňany|Vodňany|Czechia|April|15|4
+Vodňany|Vodňany|Czechia|May|19|8
+Vodňany|Vodňany|Czechia|June|23|12
+Vodňany|Vodňany|Czechia|July|25|14
+Vodňany|Vodňany|Czechia|August|25|13
+Vodňany|Vodňany|Czechia|September|19|9
+Vodňany|Vodňany|Czechia|October|13|5
+Vodňany|Vodňany|Czechia|November|7|1
+Vodňany|Vodňany|Czechia|December|3|-3
+Vyskov|Vyskov|Czechia|January|1|-5
+Vyskov|Vyskov|Czechia|February|4|-4
+Vyskov|Vyskov|Czechia|March|9|0
+Vyskov|Vyskov|Czechia|April|15|4
+Vyskov|Vyskov|Czechia|May|20|8
+Vyskov|Vyskov|Czechia|June|23|12
+Vyskov|Vyskov|Czechia|July|26|13
+Vyskov|Vyskov|Czechia|August|26|13
+Vyskov|Vyskov|Czechia|September|20|9
+Vyskov|Vyskov|Czechia|October|14|5
+Vyskov|Vyskov|Czechia|November|7|1
+Vyskov|Vyskov|Czechia|December|2|-3
+Vysoké Mýto|Vysoke Myto|Czechia|January|2|-4
+Vysoké Mýto|Vysoke Myto|Czechia|February|4|-3
+Vysoké Mýto|Vysoke Myto|Czechia|March|9|0
+Vysoké Mýto|Vysoke Myto|Czechia|April|15|4
+Vysoké Mýto|Vysoke Myto|Czechia|May|20|8
+Vysoké Mýto|Vysoke Myto|Czechia|June|23|11
+Vysoké Mýto|Vysoke Myto|Czechia|July|25|13
+Vysoké Mýto|Vysoke Myto|Czechia|August|25|12
+Vysoké Mýto|Vysoke Myto|Czechia|September|19|9
+Vysoké Mýto|Vysoke Myto|Czechia|October|13|5
+Vysoké Mýto|Vysoke Myto|Czechia|November|7|2
+Vysoké Mýto|Vysoke Myto|Czechia|December|3|-2
+Zatec|Žatec|Czechia|January|3|-2
+Zatec|Žatec|Czechia|February|5|-2
+Zatec|Žatec|Czechia|March|10|1
+Zatec|Žatec|Czechia|April|15|4
+Zatec|Žatec|Czechia|May|20|8
+Zatec|Žatec|Czechia|June|23|12
+Zatec|Žatec|Czechia|July|25|14
+Zatec|Žatec|Czechia|August|25|13
+Zatec|Žatec|Czechia|September|20|10
+Zatec|Žatec|Czechia|October|13|5
+Zatec|Žatec|Czechia|November|7|2
+Zatec|Žatec|Czechia|December|3|-1
+Zlín|Zlín|Czechia|January|1|-5
+Zlín|Zlín|Czechia|February|4|-3
+Zlín|Zlín|Czechia|March|9|0
+Zlín|Zlín|Czechia|April|15|4
+Zlín|Zlín|Czechia|May|20|8
+Zlín|Zlín|Czechia|June|23|11
+Zlín|Zlín|Czechia|July|25|13
+Zlín|Zlín|Czechia|August|25|13
+Zlín|Zlín|Czechia|September|20|9
+Zlín|Zlín|Czechia|October|14|5
+Zlín|Zlín|Czechia|November|7|1
+Zlín|Zlín|Czechia|December|2|-3
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|January|2|-3
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|February|4|-2
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|March|9|1
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|April|14|4
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|May|19|8
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|June|22|11
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|July|25|13
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|August|24|13
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|September|19|9
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|October|13|5
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|November|7|1
+Zruč nad Sázavou|Zruč nad Sázavou|Czechia|December|3|-2
+Zubri|Zubří|Czechia|January|1|-6
+Zubri|Zubří|Czechia|February|3|-5
+Zubri|Zubří|Czechia|March|8|-2
+Zubri|Zubří|Czechia|April|14|2
+Zubri|Zubří|Czechia|May|19|7
+Zubri|Zubří|Czechia|June|22|10
+Zubri|Zubří|Czechia|July|24|12
+Zubri|Zubří|Czechia|August|24|11
+Zubri|Zubří|Czechia|September|19|8
+Zubri|Zubří|Czechia|October|13|4
+Zubri|Zubří|Czechia|November|7|0
+Zubri|Zubří|Czechia|December|2|-4
+Ajka|Ajka|Hungary|January|3|-3
+Ajka|Ajka|Hungary|February|6|-1
+Ajka|Ajka|Hungary|March|11|2
+Ajka|Ajka|Hungary|April|16|6
+Ajka|Ajka|Hungary|May|21|11
+Ajka|Ajka|Hungary|June|25|14
+Ajka|Ajka|Hungary|July|27|16
+Ajka|Ajka|Hungary|August|27|16
+Ajka|Ajka|Hungary|September|21|11
+Ajka|Ajka|Hungary|October|15|6
+Ajka|Ajka|Hungary|November|8|2
+Ajka|Ajka|Hungary|December|4|-2
+Albertirsa|Albertirsa|Hungary|January|3|-4
+Albertirsa|Albertirsa|Hungary|February|5|-3
+Albertirsa|Albertirsa|Hungary|March|11|1
+Albertirsa|Albertirsa|Hungary|April|17|5
+Albertirsa|Albertirsa|Hungary|May|22|10
+Albertirsa|Albertirsa|Hungary|June|25|13
+Albertirsa|Albertirsa|Hungary|July|27|15
+Albertirsa|Albertirsa|Hungary|August|27|15
+Albertirsa|Albertirsa|Hungary|September|22|10
+Albertirsa|Albertirsa|Hungary|October|15|5
+Albertirsa|Albertirsa|Hungary|November|8|1
+Albertirsa|Albertirsa|Hungary|December|3|-3
+Baja|Baja|Hungary|January|3|-4
+Baja|Baja|Hungary|February|6|-3
+Baja|Baja|Hungary|March|12|1
+Baja|Baja|Hungary|April|18|5
+Baja|Baja|Hungary|May|23|10
+Baja|Baja|Hungary|June|26|13
+Baja|Baja|Hungary|July|28|15
+Baja|Baja|Hungary|August|28|14
+Baja|Baja|Hungary|September|23|10
+Baja|Baja|Hungary|October|17|6
+Baja|Baja|Hungary|November|9|1
+Baja|Baja|Hungary|December|4|-2
+Balassagyarmat|Balassagyarmat|Hungary|January|2|-6
+Balassagyarmat|Balassagyarmat|Hungary|February|5|-4
+Balassagyarmat|Balassagyarmat|Hungary|March|11|-1
+Balassagyarmat|Balassagyarmat|Hungary|April|19|4
+Balassagyarmat|Balassagyarmat|Hungary|May|22|8
+Balassagyarmat|Balassagyarmat|Hungary|June|26|12
+Balassagyarmat|Balassagyarmat|Hungary|July|28|14
+Balassagyarmat|Balassagyarmat|Hungary|August|27|13
+Balassagyarmat|Balassagyarmat|Hungary|September|22|8
+Balassagyarmat|Balassagyarmat|Hungary|October|16|4
+Balassagyarmat|Balassagyarmat|Hungary|November|9|1
+Balassagyarmat|Balassagyarmat|Hungary|December|2|-4
+Balatonboglar|Balatonboglár|Hungary|January|3|-3
+Balatonboglar|Balatonboglár|Hungary|February|5|-2
+Balatonboglar|Balatonboglár|Hungary|March|11|2
+Balatonboglar|Balatonboglár|Hungary|April|16|6
+Balatonboglar|Balatonboglár|Hungary|May|21|10
+Balatonboglar|Balatonboglár|Hungary|June|24|13
+Balatonboglar|Balatonboglár|Hungary|July|26|15
+Balatonboglar|Balatonboglár|Hungary|August|26|14
+Balatonboglar|Balatonboglár|Hungary|September|22|11
+Balatonboglar|Balatonboglár|Hungary|October|16|6
+Balatonboglar|Balatonboglár|Hungary|November|8|2
+Balatonboglar|Balatonboglár|Hungary|December|4|-2
+Balatonföldvár|Balatonföldvár|Hungary|January|2|-2
+Balatonföldvár|Balatonföldvár|Hungary|February|5|-1
+Balatonföldvár|Balatonföldvár|Hungary|March|10|3
+Balatonföldvár|Balatonföldvár|Hungary|April|16|8
+Balatonföldvár|Balatonföldvár|Hungary|May|21|12
+Balatonföldvár|Balatonföldvár|Hungary|June|25|16
+Balatonföldvár|Balatonföldvár|Hungary|July|27|18
+Balatonföldvár|Balatonföldvár|Hungary|August|26|17
+Balatonföldvár|Balatonföldvár|Hungary|September|21|13
+Balatonföldvár|Balatonföldvár|Hungary|October|15|8
+Balatonföldvár|Balatonföldvár|Hungary|November|8|3
+Balatonföldvár|Balatonföldvár|Hungary|December|3|-1
+Balatonfured|Balatonfüred|Hungary|January|4|-2
+Balatonfured|Balatonfüred|Hungary|February|7|-1
+Balatonfured|Balatonfüred|Hungary|March|11|3
+Balatonfured|Balatonfüred|Hungary|April|17|7
+Balatonfured|Balatonfüred|Hungary|May|21|11
+Balatonfured|Balatonfüred|Hungary|June|25|15
+Balatonfured|Balatonfüred|Hungary|July|27|17
+Balatonfured|Balatonfüred|Hungary|August|27|16
+Balatonfured|Balatonfüred|Hungary|September|21|12
+Balatonfured|Balatonfüred|Hungary|October|16|7
+Balatonfured|Balatonfüred|Hungary|November|9|3
+Balatonfured|Balatonfüred|Hungary|December|4|-1
+Békéscsaba|Békéscsaba|Hungary|January|2|-4
+Békéscsaba|Békéscsaba|Hungary|February|5|-3
+Békéscsaba|Békéscsaba|Hungary|March|12|1
+Békéscsaba|Békéscsaba|Hungary|April|18|6
+Békéscsaba|Békéscsaba|Hungary|May|23|10
+Békéscsaba|Békéscsaba|Hungary|June|26|14
+Békéscsaba|Békéscsaba|Hungary|July|28|15
+Békéscsaba|Békéscsaba|Hungary|August|28|14
+Békéscsaba|Békéscsaba|Hungary|September|23|10
+Békéscsaba|Békéscsaba|Hungary|October|17|5
+Békéscsaba|Békéscsaba|Hungary|November|9|1
+Békéscsaba|Békéscsaba|Hungary|December|3|-2
+Berettyoujfalu|Berettyóújfalu|Hungary|January|2|-5
+Berettyoujfalu|Berettyóújfalu|Hungary|February|5|-4
+Berettyoujfalu|Berettyóújfalu|Hungary|March|11|0
+Berettyoujfalu|Berettyóújfalu|Hungary|April|17|5
+Berettyoujfalu|Berettyóújfalu|Hungary|May|22|10
+Berettyoujfalu|Berettyóújfalu|Hungary|June|25|13
+Berettyoujfalu|Berettyóújfalu|Hungary|July|27|15
+Berettyoujfalu|Berettyóújfalu|Hungary|August|27|14
+Berettyoujfalu|Berettyóújfalu|Hungary|September|22|10
+Berettyoujfalu|Berettyóújfalu|Hungary|October|16|5
+Berettyoujfalu|Berettyóújfalu|Hungary|November|9|0
+Berettyoujfalu|Berettyóújfalu|Hungary|December|3|-3
+Bicske|Bicske|Hungary|January|2|-4
+Bicske|Bicske|Hungary|February|5|-3
+Bicske|Bicske|Hungary|March|11|2
+Bicske|Bicske|Hungary|April|16|5
+Bicske|Bicske|Hungary|May|21|10
+Bicske|Bicske|Hungary|June|24|13
+Bicske|Bicske|Hungary|July|27|15
+Bicske|Bicske|Hungary|August|26|14
+Bicske|Bicske|Hungary|September|22|10
+Bicske|Bicske|Hungary|October|16|5
+Bicske|Bicske|Hungary|November|8|1
+Bicske|Bicske|Hungary|December|4|-2
+Bonyhad|Bonyhád|Hungary|January|3|-4
+Bonyhad|Bonyhád|Hungary|February|6|-3
+Bonyhad|Bonyhád|Hungary|March|12|1
+Bonyhad|Bonyhád|Hungary|April|18|5
+Bonyhad|Bonyhád|Hungary|May|23|10
+Bonyhad|Bonyhád|Hungary|June|26|13
+Bonyhad|Bonyhád|Hungary|July|28|15
+Bonyhad|Bonyhád|Hungary|August|28|14
+Bonyhad|Bonyhád|Hungary|September|23|10
+Bonyhad|Bonyhád|Hungary|October|17|6
+Bonyhad|Bonyhád|Hungary|November|9|1
+Bonyhad|Bonyhád|Hungary|December|4|-2
+Budakeszi|Budakeszi|Hungary|January|3|-2
+Budakeszi|Budakeszi|Hungary|February|5|-1
+Budakeszi|Budakeszi|Hungary|March|11|3
+Budakeszi|Budakeszi|Hungary|April|17|7
+Budakeszi|Budakeszi|Hungary|May|22|12
+Budakeszi|Budakeszi|Hungary|June|25|15
+Budakeszi|Budakeszi|Hungary|July|27|17
+Budakeszi|Budakeszi|Hungary|August|27|16
+Budakeszi|Budakeszi|Hungary|September|22|12
+Budakeszi|Budakeszi|Hungary|October|16|8
+Budakeszi|Budakeszi|Hungary|November|9|3
+Budakeszi|Budakeszi|Hungary|December|4|-1
+Budaőrs|Budaörs|Hungary|January|3|-2
+Budaőrs|Budaörs|Hungary|February|6|0
+Budaőrs|Budaörs|Hungary|March|11|3
+Budaőrs|Budaörs|Hungary|April|17|8
+Budaőrs|Budaörs|Hungary|May|23|12
+Budaőrs|Budaörs|Hungary|June|26|15
+Budaőrs|Budaörs|Hungary|July|28|17
+Budaőrs|Budaörs|Hungary|August|28|17
+Budaőrs|Budaörs|Hungary|September|23|13
+Budaőrs|Budaörs|Hungary|October|16|8
+Budaőrs|Budaörs|Hungary|November|9|4
+Budaőrs|Budaörs|Hungary|December|4|0
+Budapest|Budapest|Hungary|January|3|-2
+Budapest|Budapest|Hungary|February|6|0
+Budapest|Budapest|Hungary|March|11|3
+Budapest|Budapest|Hungary|April|17|8
+Budapest|Budapest|Hungary|May|23|12
+Budapest|Budapest|Hungary|June|26|15
+Budapest|Budapest|Hungary|July|28|17
+Budapest|Budapest|Hungary|August|28|17
+Budapest|Budapest|Hungary|September|23|13
+Budapest|Budapest|Hungary|October|16|8
+Budapest|Budapest|Hungary|November|9|4
+Budapest|Budapest|Hungary|December|4|0
+Cegléd|Cegléd|Hungary|January|3|-4
+Cegléd|Cegléd|Hungary|February|5|-3
+Cegléd|Cegléd|Hungary|March|11|1
+Cegléd|Cegléd|Hungary|April|17|5
+Cegléd|Cegléd|Hungary|May|22|10
+Cegléd|Cegléd|Hungary|June|26|14
+Cegléd|Cegléd|Hungary|July|28|15
+Cegléd|Cegléd|Hungary|August|27|14
+Cegléd|Cegléd|Hungary|September|22|10
+Cegléd|Cegléd|Hungary|October|16|5
+Cegléd|Cegléd|Hungary|November|9|1
+Cegléd|Cegléd|Hungary|December|3|-3
+Celldomolk|Celldömölk|Hungary|January|3|-3
+Celldomolk|Celldömölk|Hungary|February|5|-2
+Celldomolk|Celldömölk|Hungary|March|11|1
+Celldomolk|Celldömölk|Hungary|April|16|5
+Celldomolk|Celldömölk|Hungary|May|21|10
+Celldomolk|Celldömölk|Hungary|June|25|13
+Celldomolk|Celldömölk|Hungary|July|27|15
+Celldomolk|Celldömölk|Hungary|August|26|14
+Celldomolk|Celldömölk|Hungary|September|21|11
+Celldomolk|Celldömölk|Hungary|October|16|6
+Celldomolk|Celldömölk|Hungary|November|9|2
+Celldomolk|Celldömölk|Hungary|December|4|-2
+Csongrad|Csongrád|Hungary|January|3|-4
+Csongrad|Csongrád|Hungary|February|5|-3
+Csongrad|Csongrád|Hungary|March|11|1
+Csongrad|Csongrád|Hungary|April|17|5
+Csongrad|Csongrád|Hungary|May|22|10
+Csongrad|Csongrád|Hungary|June|26|14
+Csongrad|Csongrád|Hungary|July|28|15
+Csongrad|Csongrád|Hungary|August|27|14
+Csongrad|Csongrád|Hungary|September|22|10
+Csongrad|Csongrád|Hungary|October|16|5
+Csongrad|Csongrád|Hungary|November|9|1
+Csongrad|Csongrád|Hungary|December|3|-3
+Csorna|Csorna|Hungary|January|3|-3
+Csorna|Csorna|Hungary|February|6|-1
+Csorna|Csorna|Hungary|March|11|1
+Csorna|Csorna|Hungary|April|18|6
+Csorna|Csorna|Hungary|May|22|10
+Csorna|Csorna|Hungary|June|26|14
+Csorna|Csorna|Hungary|July|28|15
+Csorna|Csorna|Hungary|August|27|15
+Csorna|Csorna|Hungary|September|22|11
+Csorna|Csorna|Hungary|October|16|6
+Csorna|Csorna|Hungary|November|9|2
+Csorna|Csorna|Hungary|December|3|-2
+Dabas|Dabas|Hungary|January|3|-4
+Dabas|Dabas|Hungary|February|5|-3
+Dabas|Dabas|Hungary|March|11|1
+Dabas|Dabas|Hungary|April|17|5
+Dabas|Dabas|Hungary|May|22|10
+Dabas|Dabas|Hungary|June|25|13
+Dabas|Dabas|Hungary|July|27|15
+Dabas|Dabas|Hungary|August|27|15
+Dabas|Dabas|Hungary|September|22|10
+Dabas|Dabas|Hungary|October|15|5
+Dabas|Dabas|Hungary|November|8|1
+Dabas|Dabas|Hungary|December|3|-3
+Debrecen|Debrecen|Hungary|January|2|-4
+Debrecen|Debrecen|Hungary|February|5|-3
+Debrecen|Debrecen|Hungary|March|11|1
+Debrecen|Debrecen|Hungary|April|17|6
+Debrecen|Debrecen|Hungary|May|22|11
+Debrecen|Debrecen|Hungary|June|25|14
+Debrecen|Debrecen|Hungary|July|27|15
+Debrecen|Debrecen|Hungary|August|27|15
+Debrecen|Debrecen|Hungary|September|22|11
+Debrecen|Debrecen|Hungary|October|16|6
+Debrecen|Debrecen|Hungary|November|9|1
+Debrecen|Debrecen|Hungary|December|3|-2
+Dombovar|Dombóvár|Hungary|January|5|-3
+Dombovar|Dombóvár|Hungary|February|7|-2
+Dombovar|Dombóvár|Hungary|March|12|2
+Dombovar|Dombóvár|Hungary|April|18|5
+Dombovar|Dombóvár|Hungary|May|22|10
+Dombovar|Dombóvár|Hungary|June|25|13
+Dombovar|Dombóvár|Hungary|July|28|15
+Dombovar|Dombóvár|Hungary|August|28|14
+Dombovar|Dombóvár|Hungary|September|22|10
+Dombovar|Dombóvár|Hungary|October|16|5
+Dombovar|Dombóvár|Hungary|November|10|2
+Dombovar|Dombóvár|Hungary|December|5|-2
+Dorog|Dorog|Hungary|January|3|-2
+Dorog|Dorog|Hungary|February|6|0
+Dorog|Dorog|Hungary|March|11|3
+Dorog|Dorog|Hungary|April|17|8
+Dorog|Dorog|Hungary|May|23|12
+Dorog|Dorog|Hungary|June|26|15
+Dorog|Dorog|Hungary|July|28|17
+Dorog|Dorog|Hungary|August|28|17
+Dorog|Dorog|Hungary|September|23|13
+Dorog|Dorog|Hungary|October|16|8
+Dorog|Dorog|Hungary|November|9|4
+Dorog|Dorog|Hungary|December|4|0
+Dunaharaszti|Dunaharaszti|Hungary|January|3|-3
+Dunaharaszti|Dunaharaszti|Hungary|February|5|-2
+Dunaharaszti|Dunaharaszti|Hungary|March|11|2
+Dunaharaszti|Dunaharaszti|Hungary|April|17|6
+Dunaharaszti|Dunaharaszti|Hungary|May|22|11
+Dunaharaszti|Dunaharaszti|Hungary|June|25|14
+Dunaharaszti|Dunaharaszti|Hungary|July|28|16
+Dunaharaszti|Dunaharaszti|Hungary|August|27|16
+Dunaharaszti|Dunaharaszti|Hungary|September|22|11
+Dunaharaszti|Dunaharaszti|Hungary|October|16|6
+Dunaharaszti|Dunaharaszti|Hungary|November|8|2
+Dunaharaszti|Dunaharaszti|Hungary|December|3|-2
+Dunakeszi|Dunakeszi|Hungary|January|3|-2
+Dunakeszi|Dunakeszi|Hungary|February|6|0
+Dunakeszi|Dunakeszi|Hungary|March|11|3
+Dunakeszi|Dunakeszi|Hungary|April|17|8
+Dunakeszi|Dunakeszi|Hungary|May|23|12
+Dunakeszi|Dunakeszi|Hungary|June|26|15
+Dunakeszi|Dunakeszi|Hungary|July|28|17
+Dunakeszi|Dunakeszi|Hungary|August|28|17
+Dunakeszi|Dunakeszi|Hungary|September|23|13
+Dunakeszi|Dunakeszi|Hungary|October|16|8
+Dunakeszi|Dunakeszi|Hungary|November|9|4
+Dunakeszi|Dunakeszi|Hungary|December|4|0
+Dunaújváros|Dunaújváros|Hungary|January|3|-4
+Dunaújváros|Dunaújváros|Hungary|February|5|-2
+Dunaújváros|Dunaújváros|Hungary|March|12|2
+Dunaújváros|Dunaújváros|Hungary|April|18|7
+Dunaújváros|Dunaújváros|Hungary|May|22|11
+Dunaújváros|Dunaújváros|Hungary|June|26|15
+Dunaújváros|Dunaújváros|Hungary|July|28|16
+Dunaújváros|Dunaújváros|Hungary|August|27|16
+Dunaújváros|Dunaújváros|Hungary|September|22|11
+Dunaújváros|Dunaújváros|Hungary|October|16|6
+Dunaújváros|Dunaújváros|Hungary|November|10|2
+Dunaújváros|Dunaújváros|Hungary|December|3|-2
+Eger|Eger|Hungary|January|3|-4
+Eger|Eger|Hungary|February|5|-2
+Eger|Eger|Hungary|March|11|2
+Eger|Eger|Hungary|April|18|7
+Eger|Eger|Hungary|May|22|11
+Eger|Eger|Hungary|June|26|14
+Eger|Eger|Hungary|July|27|16
+Eger|Eger|Hungary|August|27|15
+Eger|Eger|Hungary|September|22|11
+Eger|Eger|Hungary|October|16|7
+Eger|Eger|Hungary|November|9|2
+Eger|Eger|Hungary|December|3|-3
+Érd|Érd|Hungary|January|2|-4
+Érd|Érd|Hungary|February|5|-3
+Érd|Érd|Hungary|March|11|2
+Érd|Érd|Hungary|April|16|5
+Érd|Érd|Hungary|May|21|10
+Érd|Érd|Hungary|June|24|13
+Érd|Érd|Hungary|July|27|15
+Érd|Érd|Hungary|August|26|14
+Érd|Érd|Hungary|September|22|10
+Érd|Érd|Hungary|October|16|5
+Érd|Érd|Hungary|November|8|1
+Érd|Érd|Hungary|December|4|-2
+Esztergom|Esztergom|Hungary|January|3|-3
+Esztergom|Esztergom|Hungary|February|5|-2
+Esztergom|Esztergom|Hungary|March|12|1
+Esztergom|Esztergom|Hungary|April|18|6
+Esztergom|Esztergom|Hungary|May|22|10
+Esztergom|Esztergom|Hungary|June|26|14
+Esztergom|Esztergom|Hungary|July|28|15
+Esztergom|Esztergom|Hungary|August|27|14
+Esztergom|Esztergom|Hungary|September|22|10
+Esztergom|Esztergom|Hungary|October|16|6
+Esztergom|Esztergom|Hungary|November|10|3
+Esztergom|Esztergom|Hungary|December|3|-2
+Gödöllő|Gödöllő|Hungary|January|2|-5
+Gödöllő|Gödöllő|Hungary|February|5|-3
+Gödöllő|Gödöllő|Hungary|March|10|0
+Gödöllő|Gödöllő|Hungary|April|16|5
+Gödöllő|Gödöllő|Hungary|May|21|9
+Gödöllő|Gödöllő|Hungary|June|24|13
+Gödöllő|Gödöllő|Hungary|July|26|15
+Gödöllő|Gödöllő|Hungary|August|26|14
+Gödöllő|Gödöllő|Hungary|September|21|10
+Gödöllő|Gödöllő|Hungary|October|15|5
+Gödöllő|Gödöllő|Hungary|November|8|0
+Gödöllő|Gödöllő|Hungary|December|3|-3
+Gyomro|Gyömrő|Hungary|January|3|-4
+Gyomro|Gyömrő|Hungary|February|5|-3
+Gyomro|Gyömrő|Hungary|March|11|1
+Gyomro|Gyömrő|Hungary|April|17|5
+Gyomro|Gyömrő|Hungary|May|22|10
+Gyomro|Gyömrő|Hungary|June|25|13
+Gyomro|Gyömrő|Hungary|July|27|15
+Gyomro|Gyömrő|Hungary|August|27|15
+Gyomro|Gyömrő|Hungary|September|22|10
+Gyomro|Gyömrő|Hungary|October|15|5
+Gyomro|Gyömrő|Hungary|November|8|1
+Gyomro|Gyömrő|Hungary|December|3|-3
+Gyöngyös|Gyöngyös|Hungary|January|4|0
+Gyöngyös|Gyöngyös|Hungary|February|5|0
+Gyöngyös|Gyöngyös|Hungary|March|9|4
+Gyöngyös|Gyöngyös|Hungary|April|15|8
+Gyöngyös|Gyöngyös|Hungary|May|20|13
+Gyöngyös|Gyöngyös|Hungary|June|23|16
+Gyöngyös|Gyöngyös|Hungary|July|25|18
+Gyöngyös|Gyöngyös|Hungary|August|25|18
+Gyöngyös|Gyöngyös|Hungary|September|20|14
+Gyöngyös|Gyöngyös|Hungary|October|15|10
+Gyöngyös|Gyöngyös|Hungary|November|9|5
+Gyöngyös|Gyöngyös|Hungary|December|5|1
+Győr|Győr|Hungary|January|3|-3
+Győr|Győr|Hungary|February|6|-2
+Győr|Győr|Hungary|March|11|1
+Győr|Győr|Hungary|April|17|5
+Győr|Győr|Hungary|May|22|10
+Győr|Győr|Hungary|June|25|13
+Győr|Győr|Hungary|July|27|15
+Győr|Győr|Hungary|August|27|14
+Győr|Győr|Hungary|September|22|10
+Győr|Győr|Hungary|October|16|6
+Győr|Győr|Hungary|November|9|2
+Győr|Győr|Hungary|December|4|-2
+Gyula|Gyula|Hungary|January|2|-4
+Gyula|Gyula|Hungary|February|5|-3
+Gyula|Gyula|Hungary|March|12|1
+Gyula|Gyula|Hungary|April|18|6
+Gyula|Gyula|Hungary|May|23|10
+Gyula|Gyula|Hungary|June|26|14
+Gyula|Gyula|Hungary|July|28|15
+Gyula|Gyula|Hungary|August|28|14
+Gyula|Gyula|Hungary|September|23|10
+Gyula|Gyula|Hungary|October|17|5
+Gyula|Gyula|Hungary|November|9|1
+Gyula|Gyula|Hungary|December|3|-2
+Hajduszoboszlo|Hajdúszoboszló|Hungary|January|2|-4
+Hajduszoboszlo|Hajdúszoboszló|Hungary|February|5|-3
+Hajduszoboszlo|Hajdúszoboszló|Hungary|March|11|1
+Hajduszoboszlo|Hajdúszoboszló|Hungary|April|17|6
+Hajduszoboszlo|Hajdúszoboszló|Hungary|May|22|11
+Hajduszoboszlo|Hajdúszoboszló|Hungary|June|25|14
+Hajduszoboszlo|Hajdúszoboszló|Hungary|July|27|15
+Hajduszoboszlo|Hajdúszoboszló|Hungary|August|27|15
+Hajduszoboszlo|Hajdúszoboszló|Hungary|September|22|11
+Hajduszoboszlo|Hajdúszoboszló|Hungary|October|16|6
+Hajduszoboszlo|Hajdúszoboszló|Hungary|November|9|1
+Hajduszoboszlo|Hajdúszoboszló|Hungary|December|3|-2
+Hatvan|Hatvan|Hungary|January|4|0
+Hatvan|Hatvan|Hungary|February|5|0
+Hatvan|Hatvan|Hungary|March|9|4
+Hatvan|Hatvan|Hungary|April|15|8
+Hatvan|Hatvan|Hungary|May|20|13
+Hatvan|Hatvan|Hungary|June|23|16
+Hatvan|Hatvan|Hungary|July|25|18
+Hatvan|Hatvan|Hungary|August|25|18
+Hatvan|Hatvan|Hungary|September|20|14
+Hatvan|Hatvan|Hungary|October|15|10
+Hatvan|Hatvan|Hungary|November|9|5
+Hatvan|Hatvan|Hungary|December|5|1
+Hódmezővásárhely|Hódmezővásárhely|Hungary|January|3|-4
+Hódmezővásárhely|Hódmezővásárhely|Hungary|February|6|-2
+Hódmezővásárhely|Hódmezővásárhely|Hungary|March|12|1
+Hódmezővásárhely|Hódmezővásárhely|Hungary|April|18|6
+Hódmezővásárhely|Hódmezővásárhely|Hungary|May|23|11
+Hódmezővásárhely|Hódmezővásárhely|Hungary|June|26|14
+Hódmezővásárhely|Hódmezővásárhely|Hungary|July|28|15
+Hódmezővásárhely|Hódmezővásárhely|Hungary|August|28|15
+Hódmezővásárhely|Hódmezővásárhely|Hungary|September|23|11
+Hódmezővásárhely|Hódmezővásárhely|Hungary|October|17|6
+Hódmezővásárhely|Hódmezővásárhely|Hungary|November|10|2
+Hódmezővásárhely|Hódmezővásárhely|Hungary|December|4|-2
+Isaszeg|Isaszeg|Hungary|January|3|-4
+Isaszeg|Isaszeg|Hungary|February|5|-3
+Isaszeg|Isaszeg|Hungary|March|11|1
+Isaszeg|Isaszeg|Hungary|April|17|5
+Isaszeg|Isaszeg|Hungary|May|22|10
+Isaszeg|Isaszeg|Hungary|June|25|13
+Isaszeg|Isaszeg|Hungary|July|27|15
+Isaszeg|Isaszeg|Hungary|August|27|15
+Isaszeg|Isaszeg|Hungary|September|22|10
+Isaszeg|Isaszeg|Hungary|October|15|5
+Isaszeg|Isaszeg|Hungary|November|8|1
+Isaszeg|Isaszeg|Hungary|December|3|-3
+Jászberény|could not be found|could not be found|could not be found|99|99
+Kalocsa|Kalocsa|Hungary|January|4|-4
+Kalocsa|Kalocsa|Hungary|February|7|-3
+Kalocsa|Kalocsa|Hungary|March|12|0
+Kalocsa|Kalocsa|Hungary|April|19|5
+Kalocsa|Kalocsa|Hungary|May|23|9
+Kalocsa|Kalocsa|Hungary|June|27|13
+Kalocsa|Kalocsa|Hungary|July|29|15
+Kalocsa|Kalocsa|Hungary|August|29|14
+Kalocsa|Kalocsa|Hungary|September|23|10
+Kalocsa|Kalocsa|Hungary|October|17|5
+Kalocsa|Kalocsa|Hungary|November|10|1
+Kalocsa|Kalocsa|Hungary|December|4|-3
+Kaposvár|Kaposvár|Hungary|January|5|-3
+Kaposvár|Kaposvár|Hungary|February|7|-2
+Kaposvár|Kaposvár|Hungary|March|12|2
+Kaposvár|Kaposvár|Hungary|April|18|5
+Kaposvár|Kaposvár|Hungary|May|22|10
+Kaposvár|Kaposvár|Hungary|June|25|13
+Kaposvár|Kaposvár|Hungary|July|28|15
+Kaposvár|Kaposvár|Hungary|August|28|14
+Kaposvár|Kaposvár|Hungary|September|22|10
+Kaposvár|Kaposvár|Hungary|October|16|5
+Kaposvár|Kaposvár|Hungary|November|10|2
+Kaposvár|Kaposvár|Hungary|December|5|-2
+Kapuvar|Kapuvár|Hungary|January|4|-3
+Kapuvar|Kapuvár|Hungary|February|6|-1
+Kapuvar|Kapuvár|Hungary|March|11|2
+Kapuvar|Kapuvár|Hungary|April|17|6
+Kapuvar|Kapuvár|Hungary|May|21|11
+Kapuvar|Kapuvár|Hungary|June|25|14
+Kapuvar|Kapuvár|Hungary|July|27|16
+Kapuvar|Kapuvár|Hungary|August|26|15
+Kapuvar|Kapuvár|Hungary|September|22|12
+Kapuvar|Kapuvár|Hungary|October|15|7
+Kapuvar|Kapuvár|Hungary|November|9|2
+Kapuvar|Kapuvár|Hungary|December|4|-1
+Karcag|could not be found|could not be found|could not be found|99|99
+Kazincbarcika|Kazincbarcika|Hungary|January|1|-5
+Kazincbarcika|Kazincbarcika|Hungary|February|4|-4
+Kazincbarcika|Kazincbarcika|Hungary|March|11|0
+Kazincbarcika|Kazincbarcika|Hungary|April|17|5
+Kazincbarcika|Kazincbarcika|Hungary|May|22|10
+Kazincbarcika|Kazincbarcika|Hungary|June|25|13
+Kazincbarcika|Kazincbarcika|Hungary|July|27|15
+Kazincbarcika|Kazincbarcika|Hungary|August|27|14
+Kazincbarcika|Kazincbarcika|Hungary|September|22|10
+Kazincbarcika|Kazincbarcika|Hungary|October|15|5
+Kazincbarcika|Kazincbarcika|Hungary|November|7|1
+Kazincbarcika|Kazincbarcika|Hungary|December|2|-4
+Kecskemét|Kecskemét|Hungary|January|3|-4
+Kecskemét|Kecskemét|Hungary|February|5|-3
+Kecskemét|Kecskemét|Hungary|March|11|1
+Kecskemét|Kecskemét|Hungary|April|17|5
+Kecskemét|Kecskemét|Hungary|May|22|10
+Kecskemét|Kecskemét|Hungary|June|26|14
+Kecskemét|Kecskemét|Hungary|July|28|15
+Kecskemét|Kecskemét|Hungary|August|27|14
+Kecskemét|Kecskemét|Hungary|September|22|10
+Kecskemét|Kecskemét|Hungary|October|16|5
+Kecskemét|Kecskemét|Hungary|November|9|1
+Kecskemét|Kecskemét|Hungary|December|3|-3
+Keszthely|Keszthely|Hungary|January|3|-3
+Keszthely|Keszthely|Hungary|February|5|-2
+Keszthely|Keszthely|Hungary|March|11|2
+Keszthely|Keszthely|Hungary|April|16|6
+Keszthely|Keszthely|Hungary|May|21|10
+Keszthely|Keszthely|Hungary|June|24|13
+Keszthely|Keszthely|Hungary|July|26|15
+Keszthely|Keszthely|Hungary|August|26|14
+Keszthely|Keszthely|Hungary|September|22|11
+Keszthely|Keszthely|Hungary|October|16|6
+Keszthely|Keszthely|Hungary|November|8|2
+Keszthely|Keszthely|Hungary|December|4|-2
+Kiskőrös|Kiskőrös|Hungary|January|4|-4
+Kiskőrös|Kiskőrös|Hungary|February|7|-3
+Kiskőrös|Kiskőrös|Hungary|March|12|0
+Kiskőrös|Kiskőrös|Hungary|April|19|5
+Kiskőrös|Kiskőrös|Hungary|May|23|9
+Kiskőrös|Kiskőrös|Hungary|June|27|13
+Kiskőrös|Kiskőrös|Hungary|July|29|15
+Kiskőrös|Kiskőrös|Hungary|August|29|14
+Kiskőrös|Kiskőrös|Hungary|September|23|10
+Kiskőrös|Kiskőrös|Hungary|October|17|5
+Kiskőrös|Kiskőrös|Hungary|November|10|1
+Kiskőrös|Kiskőrös|Hungary|December|4|-3
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|January|3|-4
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|February|5|-3
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|March|11|1
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|April|17|5
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|May|22|10
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|June|26|14
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|July|28|15
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|August|27|14
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|September|22|10
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|October|16|5
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|November|9|1
+Kiskunfélegyháza|Kiskunfélegyháza|Hungary|December|3|-3
+Kiskunhalas|could not be found|could not be found|could not be found|99|99
+Kiskunlachaza|Kiskunlacháza|Hungary|January|3|-3
+Kiskunlachaza|Kiskunlacháza|Hungary|February|5|-2
+Kiskunlachaza|Kiskunlacháza|Hungary|March|11|2
+Kiskunlachaza|Kiskunlacháza|Hungary|April|17|6
+Kiskunlachaza|Kiskunlacháza|Hungary|May|22|11
+Kiskunlachaza|Kiskunlacháza|Hungary|June|25|14
+Kiskunlachaza|Kiskunlacháza|Hungary|July|28|16
+Kiskunlachaza|Kiskunlacháza|Hungary|August|27|16
+Kiskunlachaza|Kiskunlacháza|Hungary|September|22|11
+Kiskunlachaza|Kiskunlacháza|Hungary|October|16|6
+Kiskunlachaza|Kiskunlacháza|Hungary|November|8|2
+Kiskunlachaza|Kiskunlacháza|Hungary|December|3|-2
+Kisvárda|Kisvárda|Hungary|January|1|-4
+Kisvárda|Kisvárda|Hungary|February|4|-3
+Kisvárda|Kisvárda|Hungary|March|11|1
+Kisvárda|Kisvárda|Hungary|April|18|6
+Kisvárda|Kisvárda|Hungary|May|23|11
+Kisvárda|Kisvárda|Hungary|June|26|14
+Kisvárda|Kisvárda|Hungary|July|28|16
+Kisvárda|Kisvárda|Hungary|August|28|15
+Kisvárda|Kisvárda|Hungary|September|22|11
+Kisvárda|Kisvárda|Hungary|October|16|5
+Kisvárda|Kisvárda|Hungary|November|9|1
+Kisvárda|Kisvárda|Hungary|December|2|-3
+Komárom|Komárom|Hungary|January|3|-4
+Komárom|Komárom|Hungary|February|6|-2
+Komárom|Komárom|Hungary|March|12|1
+Komárom|Komárom|Hungary|April|17|5
+Komárom|Komárom|Hungary|May|22|10
+Komárom|Komárom|Hungary|June|26|13
+Komárom|Komárom|Hungary|July|28|15
+Komárom|Komárom|Hungary|August|27|14
+Komárom|Komárom|Hungary|September|22|10
+Komárom|Komárom|Hungary|October|16|6
+Komárom|Komárom|Hungary|November|9|2
+Komárom|Komárom|Hungary|December|4|-2
+Komló|Komló|Hungary|January|3|-3
+Komló|Komló|Hungary|February|6|-1
+Komló|Komló|Hungary|March|11|2
+Komló|Komló|Hungary|April|17|6
+Komló|Komló|Hungary|May|22|11
+Komló|Komló|Hungary|June|25|14
+Komló|Komló|Hungary|July|27|16
+Komló|Komló|Hungary|August|27|16
+Komló|Komló|Hungary|September|22|12
+Komló|Komló|Hungary|October|16|7
+Komló|Komló|Hungary|November|9|2
+Komló|Komló|Hungary|December|4|-1
+Koszeg|Kőszeg|Hungary|January|2|-4
+Koszeg|Kőszeg|Hungary|February|5|-3
+Koszeg|Kőszeg|Hungary|March|10|0
+Koszeg|Kőszeg|Hungary|April|16|4
+Koszeg|Kőszeg|Hungary|May|20|9
+Koszeg|Kőszeg|Hungary|June|24|12
+Koszeg|Kőszeg|Hungary|July|26|14
+Koszeg|Kőszeg|Hungary|August|25|13
+Koszeg|Kőszeg|Hungary|September|21|9
+Koszeg|Kőszeg|Hungary|October|15|4
+Koszeg|Kőszeg|Hungary|November|8|1
+Koszeg|Kőszeg|Hungary|December|3|-3
+Körmend|Körmend|Hungary|January|3|-4
+Körmend|Körmend|Hungary|February|5|-2
+Körmend|Körmend|Hungary|March|11|1
+Körmend|Körmend|Hungary|April|16|5
+Körmend|Körmend|Hungary|May|21|9
+Körmend|Körmend|Hungary|June|24|12
+Körmend|Körmend|Hungary|July|27|14
+Körmend|Körmend|Hungary|August|26|14
+Körmend|Körmend|Hungary|September|21|10
+Körmend|Körmend|Hungary|October|16|5
+Körmend|Körmend|Hungary|November|9|1
+Körmend|Körmend|Hungary|December|4|-2
+Kunszentmiklos|could not be found|could not be found|could not be found|99|99
+Levél|Levél|Hungary|January|3|-3
+Levél|Levél|Hungary|February|6|-1
+Levél|Levél|Hungary|March|11|1
+Levél|Levél|Hungary|April|18|6
+Levél|Levél|Hungary|May|22|10
+Levél|Levél|Hungary|June|26|14
+Levél|Levél|Hungary|July|28|15
+Levél|Levél|Hungary|August|27|15
+Levél|Levél|Hungary|September|22|11
+Levél|Levél|Hungary|October|16|6
+Levél|Levél|Hungary|November|9|2
+Levél|Levél|Hungary|December|3|-2
+Makó|Makó|Hungary|January|3|-3
+Makó|Makó|Hungary|February|6|-2
+Makó|Makó|Hungary|March|12|1
+Makó|Makó|Hungary|April|18|6
+Makó|Makó|Hungary|May|23|11
+Makó|Makó|Hungary|June|26|14
+Makó|Makó|Hungary|July|28|16
+Makó|Makó|Hungary|August|28|16
+Makó|Makó|Hungary|September|23|12
+Makó|Makó|Hungary|October|17|6
+Makó|Makó|Hungary|November|9|1
+Makó|Makó|Hungary|December|4|-2
+Marcali|Marcali|Hungary|January|3|-3
+Marcali|Marcali|Hungary|February|5|-2
+Marcali|Marcali|Hungary|March|11|2
+Marcali|Marcali|Hungary|April|16|6
+Marcali|Marcali|Hungary|May|21|10
+Marcali|Marcali|Hungary|June|24|13
+Marcali|Marcali|Hungary|July|26|15
+Marcali|Marcali|Hungary|August|26|14
+Marcali|Marcali|Hungary|September|22|11
+Marcali|Marcali|Hungary|October|16|6
+Marcali|Marcali|Hungary|November|8|2
+Marcali|Marcali|Hungary|December|4|-2
+Martonvásár|Martonvásár|Hungary|January|3|-4
+Martonvásár|Martonvásár|Hungary|February|5|-2
+Martonvásár|Martonvásár|Hungary|March|12|2
+Martonvásár|Martonvásár|Hungary|April|18|7
+Martonvásár|Martonvásár|Hungary|May|22|11
+Martonvásár|Martonvásár|Hungary|June|26|15
+Martonvásár|Martonvásár|Hungary|July|28|16
+Martonvásár|Martonvásár|Hungary|August|27|16
+Martonvásár|Martonvásár|Hungary|September|22|11
+Martonvásár|Martonvásár|Hungary|October|16|6
+Martonvásár|Martonvásár|Hungary|November|10|2
+Martonvásár|Martonvásár|Hungary|December|3|-2
+Mátészalka|Mátészalka|Hungary|January|1|-5
+Mátészalka|Mátészalka|Hungary|February|4|-2
+Mátészalka|Mátészalka|Hungary|March|10|2
+Mátészalka|Mátészalka|Hungary|April|16|6
+Mátészalka|Mátészalka|Hungary|May|22|11
+Mátészalka|Mátészalka|Hungary|June|24|14
+Mátészalka|Mátészalka|Hungary|July|26|15
+Mátészalka|Mátészalka|Hungary|August|26|15
+Mátészalka|Mátészalka|Hungary|September|21|11
+Mátészalka|Mátészalka|Hungary|October|16|7
+Mátészalka|Mátészalka|Hungary|November|8|2
+Mátészalka|Mátészalka|Hungary|December|3|-2
+Mezőberény|Mezőberény|Hungary|January|2|-4
+Mezőberény|Mezőberény|Hungary|February|5|-3
+Mezőberény|Mezőberény|Hungary|March|12|1
+Mezőberény|Mezőberény|Hungary|April|18|6
+Mezőberény|Mezőberény|Hungary|May|23|10
+Mezőberény|Mezőberény|Hungary|June|26|14
+Mezőberény|Mezőberény|Hungary|July|28|15
+Mezőberény|Mezőberény|Hungary|August|28|14
+Mezőberény|Mezőberény|Hungary|September|23|10
+Mezőberény|Mezőberény|Hungary|October|17|5
+Mezőberény|Mezőberény|Hungary|November|9|1
+Mezőberény|Mezőberény|Hungary|December|3|-2
+Mezőkövesd|Mezőkövesd|Hungary|January|1|-5
+Mezőkövesd|Mezőkövesd|Hungary|February|4|-4
+Mezőkövesd|Mezőkövesd|Hungary|March|11|0
+Mezőkövesd|Mezőkövesd|Hungary|April|17|5
+Mezőkövesd|Mezőkövesd|Hungary|May|22|10
+Mezőkövesd|Mezőkövesd|Hungary|June|25|13
+Mezőkövesd|Mezőkövesd|Hungary|July|27|15
+Mezőkövesd|Mezőkövesd|Hungary|August|27|14
+Mezőkövesd|Mezőkövesd|Hungary|September|22|10
+Mezőkövesd|Mezőkövesd|Hungary|October|15|5
+Mezőkövesd|Mezőkövesd|Hungary|November|7|1
+Mezőkövesd|Mezőkövesd|Hungary|December|2|-4
+Miskolc|Miskolc|Hungary|January|1|-5
+Miskolc|Miskolc|Hungary|February|4|-4
+Miskolc|Miskolc|Hungary|March|11|0
+Miskolc|Miskolc|Hungary|April|17|5
+Miskolc|Miskolc|Hungary|May|22|10
+Miskolc|Miskolc|Hungary|June|25|13
+Miskolc|Miskolc|Hungary|July|27|15
+Miskolc|Miskolc|Hungary|August|27|14
+Miskolc|Miskolc|Hungary|September|22|10
+Miskolc|Miskolc|Hungary|October|15|5
+Miskolc|Miskolc|Hungary|November|7|1
+Miskolc|Miskolc|Hungary|December|2|-4
+Mohacs|Mohács|Hungary|January|4|-2
+Mohacs|Mohács|Hungary|February|6|-1
+Mohacs|Mohács|Hungary|March|12|3
+Mohacs|Mohács|Hungary|April|17|7
+Mohacs|Mohács|Hungary|May|22|12
+Mohacs|Mohács|Hungary|June|25|15
+Mohacs|Mohács|Hungary|July|28|16
+Mohacs|Mohács|Hungary|August|28|16
+Mohacs|Mohács|Hungary|September|23|12
+Mohacs|Mohács|Hungary|October|17|8
+Mohacs|Mohács|Hungary|November|10|3
+Mohacs|Mohács|Hungary|December|4|-1
+Monor|Monor|Hungary|January|3|-4
+Monor|Monor|Hungary|February|5|-3
+Monor|Monor|Hungary|March|11|1
+Monor|Monor|Hungary|April|17|5
+Monor|Monor|Hungary|May|22|10
+Monor|Monor|Hungary|June|25|13
+Monor|Monor|Hungary|July|27|15
+Monor|Monor|Hungary|August|27|15
+Monor|Monor|Hungary|September|22|10
+Monor|Monor|Hungary|October|15|5
+Monor|Monor|Hungary|November|8|1
+Monor|Monor|Hungary|December|3|-3
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|January|3|-3
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|February|6|-1
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|March|11|1
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|April|18|6
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|May|22|10
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|June|26|14
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|July|28|15
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|August|27|15
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|September|22|11
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|October|16|6
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|November|9|2
+Mosonmagyaróvár|Mosonmagyaróvár|Hungary|December|3|-2
+Nagyatád|Nagyatád|Hungary|January|5|-3
+Nagyatád|Nagyatád|Hungary|February|7|-2
+Nagyatád|Nagyatád|Hungary|March|12|2
+Nagyatád|Nagyatád|Hungary|April|18|5
+Nagyatád|Nagyatád|Hungary|May|22|10
+Nagyatád|Nagyatád|Hungary|June|25|13
+Nagyatád|Nagyatád|Hungary|July|28|15
+Nagyatád|Nagyatád|Hungary|August|28|14
+Nagyatád|Nagyatád|Hungary|September|22|10
+Nagyatád|Nagyatád|Hungary|October|16|5
+Nagyatád|Nagyatád|Hungary|November|10|2
+Nagyatád|Nagyatád|Hungary|December|5|-2
+Nagykanizsa|Nagykanizsa|Hungary|January|4|-4
+Nagykanizsa|Nagykanizsa|Hungary|February|6|-4
+Nagykanizsa|Nagykanizsa|Hungary|March|12|0
+Nagykanizsa|Nagykanizsa|Hungary|April|17|4
+Nagykanizsa|Nagykanizsa|Hungary|May|22|8
+Nagykanizsa|Nagykanizsa|Hungary|June|25|12
+Nagykanizsa|Nagykanizsa|Hungary|July|27|13
+Nagykanizsa|Nagykanizsa|Hungary|August|27|13
+Nagykanizsa|Nagykanizsa|Hungary|September|22|9
+Nagykanizsa|Nagykanizsa|Hungary|October|16|4
+Nagykanizsa|Nagykanizsa|Hungary|November|9|0
+Nagykanizsa|Nagykanizsa|Hungary|December|4|-3
+Nagykőrös|Nagykőrös|Hungary|January|3|-4
+Nagykőrös|Nagykőrös|Hungary|February|5|-3
+Nagykőrös|Nagykőrös|Hungary|March|11|1
+Nagykőrös|Nagykőrös|Hungary|April|17|5
+Nagykőrös|Nagykőrös|Hungary|May|22|10
+Nagykőrös|Nagykőrös|Hungary|June|26|14
+Nagykőrös|Nagykőrös|Hungary|July|28|15
+Nagykőrös|Nagykőrös|Hungary|August|27|14
+Nagykőrös|Nagykőrös|Hungary|September|22|10
+Nagykőrös|Nagykőrös|Hungary|October|16|5
+Nagykőrös|Nagykőrös|Hungary|November|9|1
+Nagykőrös|Nagykőrös|Hungary|December|3|-3
+Nyirbator|Nyírbátor|Hungary|January|1|-5
+Nyirbator|Nyírbátor|Hungary|February|3|-3
+Nyirbator|Nyírbátor|Hungary|March|10|1
+Nyirbator|Nyírbátor|Hungary|April|16|5
+Nyirbator|Nyírbátor|Hungary|May|21|10
+Nyirbator|Nyírbátor|Hungary|June|25|13
+Nyirbator|Nyírbátor|Hungary|July|26|14
+Nyirbator|Nyírbátor|Hungary|August|26|14
+Nyirbator|Nyírbátor|Hungary|September|21|10
+Nyirbator|Nyírbátor|Hungary|October|15|5
+Nyirbator|Nyírbátor|Hungary|November|7|0
+Nyirbator|Nyírbátor|Hungary|December|2|-3
+Nyíregyháza|Nyíregyháza|Hungary|January|1|-4
+Nyíregyháza|Nyíregyháza|Hungary|February|4|-3
+Nyíregyháza|Nyíregyháza|Hungary|March|10|1
+Nyíregyháza|Nyíregyháza|Hungary|April|17|6
+Nyíregyháza|Nyíregyháza|Hungary|May|22|11
+Nyíregyháza|Nyíregyháza|Hungary|June|25|14
+Nyíregyháza|Nyíregyháza|Hungary|July|27|15
+Nyíregyháza|Nyíregyháza|Hungary|August|27|14
+Nyíregyháza|Nyíregyháza|Hungary|September|21|10
+Nyíregyháza|Nyíregyháza|Hungary|October|15|5
+Nyíregyháza|Nyíregyháza|Hungary|November|8|1
+Nyíregyháza|Nyíregyháza|Hungary|December|2|-3
+Ócsa|Ócsa|Hungary|January|3|-4
+Ócsa|Ócsa|Hungary|February|5|-3
+Ócsa|Ócsa|Hungary|March|11|1
+Ócsa|Ócsa|Hungary|April|17|5
+Ócsa|Ócsa|Hungary|May|22|10
+Ócsa|Ócsa|Hungary|June|25|13
+Ócsa|Ócsa|Hungary|July|27|15
+Ócsa|Ócsa|Hungary|August|27|15
+Ócsa|Ócsa|Hungary|September|22|10
+Ócsa|Ócsa|Hungary|October|15|5
+Ócsa|Ócsa|Hungary|November|8|1
+Ócsa|Ócsa|Hungary|December|3|-3
+Orosháza|could not be found|could not be found|could not be found|99|99
+Oroszlany|Oroszlány|Hungary|January|3|-4
+Oroszlany|Oroszlány|Hungary|February|5|-3
+Oroszlany|Oroszlány|Hungary|March|11|1
+Oroszlany|Oroszlány|Hungary|April|18|6
+Oroszlany|Oroszlány|Hungary|May|22|10
+Oroszlany|Oroszlány|Hungary|June|26|14
+Oroszlany|Oroszlány|Hungary|July|28|15
+Oroszlany|Oroszlány|Hungary|August|27|14
+Oroszlany|Oroszlány|Hungary|September|22|10
+Oroszlany|Oroszlány|Hungary|October|15|5
+Oroszlany|Oroszlány|Hungary|November|9|2
+Oroszlany|Oroszlány|Hungary|December|3|-3
+Ózd|Ózd|Hungary|January|1|-5
+Ózd|Ózd|Hungary|February|4|-4
+Ózd|Ózd|Hungary|March|11|0
+Ózd|Ózd|Hungary|April|17|5
+Ózd|Ózd|Hungary|May|22|10
+Ózd|Ózd|Hungary|June|25|13
+Ózd|Ózd|Hungary|July|27|15
+Ózd|Ózd|Hungary|August|27|14
+Ózd|Ózd|Hungary|September|22|10
+Ózd|Ózd|Hungary|October|15|5
+Ózd|Ózd|Hungary|November|7|1
+Ózd|Ózd|Hungary|December|2|-4
+Paks|Paks|Hungary|January|4|-4
+Paks|Paks|Hungary|February|7|-3
+Paks|Paks|Hungary|March|12|0
+Paks|Paks|Hungary|April|19|5
+Paks|Paks|Hungary|May|23|9
+Paks|Paks|Hungary|June|27|13
+Paks|Paks|Hungary|July|29|15
+Paks|Paks|Hungary|August|29|14
+Paks|Paks|Hungary|September|23|10
+Paks|Paks|Hungary|October|17|5
+Paks|Paks|Hungary|November|10|1
+Paks|Paks|Hungary|December|4|-3
+Pápa|Pápa|Hungary|January|3|-3
+Pápa|Pápa|Hungary|February|5|-2
+Pápa|Pápa|Hungary|March|11|1
+Pápa|Pápa|Hungary|April|16|5
+Pápa|Pápa|Hungary|May|21|10
+Pápa|Pápa|Hungary|June|25|13
+Pápa|Pápa|Hungary|July|27|15
+Pápa|Pápa|Hungary|August|26|14
+Pápa|Pápa|Hungary|September|21|11
+Pápa|Pápa|Hungary|October|16|6
+Pápa|Pápa|Hungary|November|9|2
+Pápa|Pápa|Hungary|December|4|-2
+Paty|Páty|Hungary|January|2|-5
+Paty|Páty|Hungary|February|4|-3
+Paty|Páty|Hungary|March|10|1
+Paty|Páty|Hungary|April|16|5
+Paty|Páty|Hungary|May|21|10
+Paty|Páty|Hungary|June|24|13
+Paty|Páty|Hungary|July|26|14
+Paty|Páty|Hungary|August|25|13
+Paty|Páty|Hungary|September|22|10
+Paty|Páty|Hungary|October|15|5
+Paty|Páty|Hungary|November|7|0
+Paty|Páty|Hungary|December|3|-2
+Pécs|Pécs|Hungary|January|4|-2
+Pécs|Pécs|Hungary|February|6|-1
+Pécs|Pécs|Hungary|March|12|3
+Pécs|Pécs|Hungary|April|17|7
+Pécs|Pécs|Hungary|May|22|12
+Pécs|Pécs|Hungary|June|25|15
+Pécs|Pécs|Hungary|July|28|16
+Pécs|Pécs|Hungary|August|28|16
+Pécs|Pécs|Hungary|September|23|12
+Pécs|Pécs|Hungary|October|17|8
+Pécs|Pécs|Hungary|November|10|3
+Pécs|Pécs|Hungary|December|4|-1
+Pilis|Pilis|Hungary|January|3|-4
+Pilis|Pilis|Hungary|February|5|-3
+Pilis|Pilis|Hungary|March|11|1
+Pilis|Pilis|Hungary|April|17|5
+Pilis|Pilis|Hungary|May|22|10
+Pilis|Pilis|Hungary|June|25|13
+Pilis|Pilis|Hungary|July|27|15
+Pilis|Pilis|Hungary|August|27|15
+Pilis|Pilis|Hungary|September|22|10
+Pilis|Pilis|Hungary|October|15|5
+Pilis|Pilis|Hungary|November|8|1
+Pilis|Pilis|Hungary|December|3|-3
+Ráckéve|Ráckeve|Hungary|January|3|-3
+Ráckéve|Ráckeve|Hungary|February|5|-2
+Ráckéve|Ráckeve|Hungary|March|11|2
+Ráckéve|Ráckeve|Hungary|April|17|6
+Ráckéve|Ráckeve|Hungary|May|22|11
+Ráckéve|Ráckeve|Hungary|June|25|14
+Ráckéve|Ráckeve|Hungary|July|28|16
+Ráckéve|Ráckeve|Hungary|August|27|16
+Ráckéve|Ráckeve|Hungary|September|22|11
+Ráckéve|Ráckeve|Hungary|October|16|6
+Ráckéve|Ráckeve|Hungary|November|8|2
+Ráckéve|Ráckeve|Hungary|December|3|-2
+Salgótarján|Salgótarján|Hungary|January|1|-6
+Salgótarján|Salgótarján|Hungary|February|4|-5
+Salgótarján|Salgótarján|Hungary|March|11|-1
+Salgótarján|Salgótarján|Hungary|April|18|3
+Salgótarján|Salgótarján|Hungary|May|22|8
+Salgótarján|Salgótarján|Hungary|June|25|12
+Salgótarján|Salgótarján|Hungary|July|28|13
+Salgótarján|Salgótarján|Hungary|August|27|12
+Salgótarján|Salgótarján|Hungary|September|21|8
+Salgótarján|Salgótarján|Hungary|October|15|3
+Salgótarján|Salgótarján|Hungary|November|8|0
+Salgótarján|Salgótarján|Hungary|December|2|-5
+Sarbogard|Sárbogárd|Hungary|January|3|-4
+Sarbogard|Sárbogárd|Hungary|February|5|-2
+Sarbogard|Sárbogárd|Hungary|March|12|2
+Sarbogard|Sárbogárd|Hungary|April|18|7
+Sarbogard|Sárbogárd|Hungary|May|22|11
+Sarbogard|Sárbogárd|Hungary|June|26|15
+Sarbogard|Sárbogárd|Hungary|July|28|16
+Sarbogard|Sárbogárd|Hungary|August|27|16
+Sarbogard|Sárbogárd|Hungary|September|22|11
+Sarbogard|Sárbogárd|Hungary|October|16|6
+Sarbogard|Sárbogárd|Hungary|November|10|2
+Sarbogard|Sárbogárd|Hungary|December|3|-2
+Sarkad|Sarkad|Hungary|January|2|-4
+Sarkad|Sarkad|Hungary|February|5|-3
+Sarkad|Sarkad|Hungary|March|12|1
+Sarkad|Sarkad|Hungary|April|18|6
+Sarkad|Sarkad|Hungary|May|23|10
+Sarkad|Sarkad|Hungary|June|26|14
+Sarkad|Sarkad|Hungary|July|28|15
+Sarkad|Sarkad|Hungary|August|28|14
+Sarkad|Sarkad|Hungary|September|23|10
+Sarkad|Sarkad|Hungary|October|17|5
+Sarkad|Sarkad|Hungary|November|9|1
+Sarkad|Sarkad|Hungary|December|3|-2
+Sarvar|Sárvár|Hungary|January|3|-4
+Sarvar|Sárvár|Hungary|February|5|-2
+Sarvar|Sárvár|Hungary|March|11|1
+Sarvar|Sárvár|Hungary|April|16|5
+Sarvar|Sárvár|Hungary|May|21|9
+Sarvar|Sárvár|Hungary|June|24|12
+Sarvar|Sárvár|Hungary|July|27|14
+Sarvar|Sárvár|Hungary|August|26|14
+Sarvar|Sárvár|Hungary|September|21|10
+Sarvar|Sárvár|Hungary|October|16|5
+Sarvar|Sárvár|Hungary|November|9|1
+Sarvar|Sárvár|Hungary|December|4|-2
+Sátoraljaújhely|Sátoraljaújhely|Hungary|January|1|-4
+Sátoraljaújhely|Sátoraljaújhely|Hungary|February|4|-3
+Sátoraljaújhely|Sátoraljaújhely|Hungary|March|10|0
+Sátoraljaújhely|Sátoraljaújhely|Hungary|April|17|5
+Sátoraljaújhely|Sátoraljaújhely|Hungary|May|22|10
+Sátoraljaújhely|Sátoraljaújhely|Hungary|June|25|13
+Sátoraljaújhely|Sátoraljaújhely|Hungary|July|27|15
+Sátoraljaújhely|Sátoraljaújhely|Hungary|August|27|14
+Sátoraljaújhely|Sátoraljaújhely|Hungary|September|21|10
+Sátoraljaújhely|Sátoraljaújhely|Hungary|October|15|5
+Sátoraljaújhely|Sátoraljaújhely|Hungary|November|7|1
+Sátoraljaújhely|Sátoraljaújhely|Hungary|December|2|-3
+Siklós|Siklós|Hungary|January|4|-2
+Siklós|Siklós|Hungary|February|6|-1
+Siklós|Siklós|Hungary|March|12|3
+Siklós|Siklós|Hungary|April|17|7
+Siklós|Siklós|Hungary|May|22|12
+Siklós|Siklós|Hungary|June|25|15
+Siklós|Siklós|Hungary|July|28|16
+Siklós|Siklós|Hungary|August|28|16
+Siklós|Siklós|Hungary|September|23|12
+Siklós|Siklós|Hungary|October|17|8
+Siklós|Siklós|Hungary|November|10|3
+Siklós|Siklós|Hungary|December|4|-1
+Siófok|Siófok|Hungary|January|2|-2
+Siófok|Siófok|Hungary|February|5|-1
+Siófok|Siófok|Hungary|March|10|3
+Siófok|Siófok|Hungary|April|16|8
+Siófok|Siófok|Hungary|May|21|12
+Siófok|Siófok|Hungary|June|25|16
+Siófok|Siófok|Hungary|July|27|18
+Siófok|Siófok|Hungary|August|26|17
+Siófok|Siófok|Hungary|September|21|13
+Siófok|Siófok|Hungary|October|15|8
+Siófok|Siófok|Hungary|November|8|3
+Siófok|Siófok|Hungary|December|3|-1
+Sopron|Sopron|Hungary|January|3|-3
+Sopron|Sopron|Hungary|February|6|-2
+Sopron|Sopron|Hungary|March|11|2
+Sopron|Sopron|Hungary|April|16|6
+Sopron|Sopron|Hungary|May|21|10
+Sopron|Sopron|Hungary|June|24|13
+Sopron|Sopron|Hungary|July|26|15
+Sopron|Sopron|Hungary|August|26|15
+Sopron|Sopron|Hungary|September|21|11
+Sopron|Sopron|Hungary|October|15|6
+Sopron|Sopron|Hungary|November|8|2
+Sopron|Sopron|Hungary|December|4|-2
+Sulysap|Sülysáp|Hungary|January|3|-4
+Sulysap|Sülysáp|Hungary|February|5|-3
+Sulysap|Sülysáp|Hungary|March|11|1
+Sulysap|Sülysáp|Hungary|April|17|5
+Sulysap|Sülysáp|Hungary|May|22|10
+Sulysap|Sülysáp|Hungary|June|25|13
+Sulysap|Sülysáp|Hungary|July|27|15
+Sulysap|Sülysáp|Hungary|August|27|15
+Sulysap|Sülysáp|Hungary|September|22|10
+Sulysap|Sülysáp|Hungary|October|15|5
+Sulysap|Sülysáp|Hungary|November|8|1
+Sulysap|Sülysáp|Hungary|December|3|-3
+Sumeg|Sümeg|Hungary|January|2|-4
+Sumeg|Sümeg|Hungary|February|5|-3
+Sumeg|Sümeg|Hungary|March|10|1
+Sumeg|Sümeg|Hungary|April|15|5
+Sumeg|Sümeg|Hungary|May|21|10
+Sumeg|Sümeg|Hungary|June|24|13
+Sumeg|Sümeg|Hungary|July|26|14
+Sumeg|Sümeg|Hungary|August|25|14
+Sumeg|Sümeg|Hungary|September|21|10
+Sumeg|Sümeg|Hungary|October|15|6
+Sumeg|Sümeg|Hungary|November|7|1
+Sumeg|Sümeg|Hungary|December|3|-2
+Szarvas|Szarvas|Hungary|January|2|-4
+Szarvas|Szarvas|Hungary|February|5|-3
+Szarvas|Szarvas|Hungary|March|12|1
+Szarvas|Szarvas|Hungary|April|18|6
+Szarvas|Szarvas|Hungary|May|23|11
+Szarvas|Szarvas|Hungary|June|26|14
+Szarvas|Szarvas|Hungary|July|28|16
+Szarvas|Szarvas|Hungary|August|28|15
+Szarvas|Szarvas|Hungary|September|23|11
+Szarvas|Szarvas|Hungary|October|17|6
+Szarvas|Szarvas|Hungary|November|9|1
+Szarvas|Szarvas|Hungary|December|3|-3
+Százhalombatta|Százhalombatta|Hungary|January|3|-2
+Százhalombatta|Százhalombatta|Hungary|February|6|0
+Százhalombatta|Százhalombatta|Hungary|March|11|3
+Százhalombatta|Százhalombatta|Hungary|April|17|8
+Százhalombatta|Százhalombatta|Hungary|May|23|12
+Százhalombatta|Százhalombatta|Hungary|June|26|15
+Százhalombatta|Százhalombatta|Hungary|July|28|17
+Százhalombatta|Százhalombatta|Hungary|August|28|17
+Százhalombatta|Százhalombatta|Hungary|September|23|13
+Százhalombatta|Százhalombatta|Hungary|October|16|8
+Százhalombatta|Százhalombatta|Hungary|November|9|4
+Százhalombatta|Százhalombatta|Hungary|December|4|0
+Szeged|Szeged|Hungary|January|3|-4
+Szeged|Szeged|Hungary|February|6|-3
+Szeged|Szeged|Hungary|March|12|1
+Szeged|Szeged|Hungary|April|18|5
+Szeged|Szeged|Hungary|May|23|10
+Szeged|Szeged|Hungary|June|26|13
+Szeged|Szeged|Hungary|July|28|15
+Szeged|Szeged|Hungary|August|28|14
+Szeged|Szeged|Hungary|September|24|10
+Szeged|Szeged|Hungary|October|17|5
+Szeged|Szeged|Hungary|November|10|1
+Szeged|Szeged|Hungary|December|4|-3
+Székesfehérvár|Székesfehérvár|Hungary|January|3|-4
+Székesfehérvár|Székesfehérvár|Hungary|February|5|-2
+Székesfehérvár|Székesfehérvár|Hungary|March|12|2
+Székesfehérvár|Székesfehérvár|Hungary|April|18|7
+Székesfehérvár|Székesfehérvár|Hungary|May|22|11
+Székesfehérvár|Székesfehérvár|Hungary|June|26|15
+Székesfehérvár|Székesfehérvár|Hungary|July|28|16
+Székesfehérvár|Székesfehérvár|Hungary|August|27|16
+Székesfehérvár|Székesfehérvár|Hungary|September|22|11
+Székesfehérvár|Székesfehérvár|Hungary|October|16|6
+Székesfehérvár|Székesfehérvár|Hungary|November|10|2
+Székesfehérvár|Székesfehérvár|Hungary|December|3|-2
+Szekszárd|Szekszárd|Hungary|January|4|-4
+Szekszárd|Szekszárd|Hungary|February|7|-3
+Szekszárd|Szekszárd|Hungary|March|12|0
+Szekszárd|Szekszárd|Hungary|April|19|5
+Szekszárd|Szekszárd|Hungary|May|23|9
+Szekszárd|Szekszárd|Hungary|June|27|13
+Szekszárd|Szekszárd|Hungary|July|29|15
+Szekszárd|Szekszárd|Hungary|August|29|14
+Szekszárd|Szekszárd|Hungary|September|23|10
+Szekszárd|Szekszárd|Hungary|October|17|5
+Szekszárd|Szekszárd|Hungary|November|10|1
+Szekszárd|Szekszárd|Hungary|December|4|-3
+Szentes|could not be found|could not be found|could not be found|99|99
+Szerencs|Szerencs|Hungary|January|2|-5
+Szerencs|Szerencs|Hungary|February|5|-3
+Szerencs|Szerencs|Hungary|March|11|1
+Szerencs|Szerencs|Hungary|April|17|6
+Szerencs|Szerencs|Hungary|May|22|10
+Szerencs|Szerencs|Hungary|June|25|14
+Szerencs|Szerencs|Hungary|July|27|15
+Szerencs|Szerencs|Hungary|August|27|15
+Szerencs|Szerencs|Hungary|September|22|11
+Szerencs|Szerencs|Hungary|October|16|6
+Szerencs|Szerencs|Hungary|November|8|1
+Szerencs|Szerencs|Hungary|December|3|-3
+Szigetvar|Szigetvár|Hungary|January|4|-2
+Szigetvar|Szigetvár|Hungary|February|6|-1
+Szigetvar|Szigetvár|Hungary|March|12|3
+Szigetvar|Szigetvár|Hungary|April|17|7
+Szigetvar|Szigetvár|Hungary|May|22|12
+Szigetvar|Szigetvár|Hungary|June|25|15
+Szigetvar|Szigetvár|Hungary|July|28|16
+Szigetvar|Szigetvár|Hungary|August|28|16
+Szigetvar|Szigetvár|Hungary|September|23|12
+Szigetvar|Szigetvár|Hungary|October|17|8
+Szigetvar|Szigetvár|Hungary|November|10|3
+Szigetvar|Szigetvár|Hungary|December|4|-1
+Szolnok|Szolnok|Hungary|January|2|-4
+Szolnok|Szolnok|Hungary|February|5|-3
+Szolnok|Szolnok|Hungary|March|12|1
+Szolnok|Szolnok|Hungary|April|18|6
+Szolnok|Szolnok|Hungary|May|23|11
+Szolnok|Szolnok|Hungary|June|26|14
+Szolnok|Szolnok|Hungary|July|28|16
+Szolnok|Szolnok|Hungary|August|28|15
+Szolnok|Szolnok|Hungary|September|23|11
+Szolnok|Szolnok|Hungary|October|17|6
+Szolnok|Szolnok|Hungary|November|9|1
+Szolnok|Szolnok|Hungary|December|3|-3
+Szombathely|Szombathely|Hungary|January|3|-4
+Szombathely|Szombathely|Hungary|February|5|-2
+Szombathely|Szombathely|Hungary|March|11|1
+Szombathely|Szombathely|Hungary|April|16|5
+Szombathely|Szombathely|Hungary|May|21|9
+Szombathely|Szombathely|Hungary|June|24|12
+Szombathely|Szombathely|Hungary|July|27|14
+Szombathely|Szombathely|Hungary|August|26|14
+Szombathely|Szombathely|Hungary|September|21|10
+Szombathely|Szombathely|Hungary|October|16|5
+Szombathely|Szombathely|Hungary|November|9|1
+Szombathely|Szombathely|Hungary|December|4|-2
+Tahitotfalu|Tahitótfalu|Hungary|January|3|-2
+Tahitotfalu|Tahitótfalu|Hungary|February|6|0
+Tahitotfalu|Tahitótfalu|Hungary|March|11|3
+Tahitotfalu|Tahitótfalu|Hungary|April|17|8
+Tahitotfalu|Tahitótfalu|Hungary|May|23|12
+Tahitotfalu|Tahitótfalu|Hungary|June|26|15
+Tahitotfalu|Tahitótfalu|Hungary|July|28|17
+Tahitotfalu|Tahitótfalu|Hungary|August|28|17
+Tahitotfalu|Tahitótfalu|Hungary|September|23|13
+Tahitotfalu|Tahitótfalu|Hungary|October|16|8
+Tahitotfalu|Tahitótfalu|Hungary|November|9|4
+Tahitotfalu|Tahitótfalu|Hungary|December|4|0
+Tapolca|Tapolca|Hungary|January|3|-3
+Tapolca|Tapolca|Hungary|February|5|-2
+Tapolca|Tapolca|Hungary|March|11|2
+Tapolca|Tapolca|Hungary|April|16|6
+Tapolca|Tapolca|Hungary|May|21|10
+Tapolca|Tapolca|Hungary|June|24|13
+Tapolca|Tapolca|Hungary|July|26|15
+Tapolca|Tapolca|Hungary|August|26|14
+Tapolca|Tapolca|Hungary|September|22|11
+Tapolca|Tapolca|Hungary|October|16|6
+Tapolca|Tapolca|Hungary|November|8|2
+Tapolca|Tapolca|Hungary|December|4|-2
+Tata|Tata|Hungary|January|3|-4
+Tata|Tata|Hungary|February|6|-2
+Tata|Tata|Hungary|March|12|1
+Tata|Tata|Hungary|April|19|6
+Tata|Tata|Hungary|May|22|10
+Tata|Tata|Hungary|June|27|14
+Tata|Tata|Hungary|July|29|16
+Tata|Tata|Hungary|August|28|15
+Tata|Tata|Hungary|September|22|10
+Tata|Tata|Hungary|October|16|6
+Tata|Tata|Hungary|November|10|3
+Tata|Tata|Hungary|December|4|-2
+Tatabánya|Tatabánya|Hungary|January|3|-4
+Tatabánya|Tatabánya|Hungary|February|6|-2
+Tatabánya|Tatabánya|Hungary|March|12|1
+Tatabánya|Tatabánya|Hungary|April|19|6
+Tatabánya|Tatabánya|Hungary|May|22|10
+Tatabánya|Tatabánya|Hungary|June|27|14
+Tatabánya|Tatabánya|Hungary|July|29|16
+Tatabánya|Tatabánya|Hungary|August|28|15
+Tatabánya|Tatabánya|Hungary|September|22|10
+Tatabánya|Tatabánya|Hungary|October|16|6
+Tatabánya|Tatabánya|Hungary|November|10|3
+Tatabánya|Tatabánya|Hungary|December|4|-2
+Tiszafured|Tiszafüred|Hungary|January|2|-4
+Tiszafured|Tiszafüred|Hungary|February|5|-3
+Tiszafured|Tiszafüred|Hungary|March|12|1
+Tiszafured|Tiszafüred|Hungary|April|19|6
+Tiszafured|Tiszafüred|Hungary|May|23|11
+Tiszafured|Tiszafüred|Hungary|June|27|14
+Tiszafured|Tiszafüred|Hungary|July|29|16
+Tiszafured|Tiszafüred|Hungary|August|29|15
+Tiszafured|Tiszafüred|Hungary|September|23|11
+Tiszafured|Tiszafüred|Hungary|October|16|6
+Tiszafured|Tiszafüred|Hungary|November|9|2
+Tiszafured|Tiszafüred|Hungary|December|3|-3
+Tiszaújváros|Tiszaújváros|Hungary|January|2|-5
+Tiszaújváros|Tiszaújváros|Hungary|February|5|-3
+Tiszaújváros|Tiszaújváros|Hungary|March|11|1
+Tiszaújváros|Tiszaújváros|Hungary|April|17|6
+Tiszaújváros|Tiszaújváros|Hungary|May|22|10
+Tiszaújváros|Tiszaújváros|Hungary|June|25|14
+Tiszaújváros|Tiszaújváros|Hungary|July|27|15
+Tiszaújváros|Tiszaújváros|Hungary|August|27|15
+Tiszaújváros|Tiszaújváros|Hungary|September|22|11
+Tiszaújváros|Tiszaújváros|Hungary|October|16|6
+Tiszaújváros|Tiszaújváros|Hungary|November|8|1
+Tiszaújváros|Tiszaújváros|Hungary|December|3|-3
+Tokol|Tököl|Hungary|January|3|-3
+Tokol|Tököl|Hungary|February|5|-2
+Tokol|Tököl|Hungary|March|11|2
+Tokol|Tököl|Hungary|April|17|6
+Tokol|Tököl|Hungary|May|22|11
+Tokol|Tököl|Hungary|June|25|14
+Tokol|Tököl|Hungary|July|28|16
+Tokol|Tököl|Hungary|August|27|16
+Tokol|Tököl|Hungary|September|22|11
+Tokol|Tököl|Hungary|October|16|6
+Tokol|Tököl|Hungary|November|8|2
+Tokol|Tököl|Hungary|December|3|-2
+Torokbalint|Törökbálint|Hungary|January|2|-4
+Torokbalint|Törökbálint|Hungary|February|5|-3
+Torokbalint|Törökbálint|Hungary|March|11|2
+Torokbalint|Törökbálint|Hungary|April|16|5
+Torokbalint|Törökbálint|Hungary|May|21|10
+Torokbalint|Törökbálint|Hungary|June|24|13
+Torokbalint|Törökbálint|Hungary|July|27|15
+Torokbalint|Törökbálint|Hungary|August|26|14
+Torokbalint|Törökbálint|Hungary|September|22|10
+Torokbalint|Törökbálint|Hungary|October|16|5
+Torokbalint|Törökbálint|Hungary|November|8|1
+Torokbalint|Törökbálint|Hungary|December|4|-2
+Túrkéve|Túrkeve|Hungary|January|2|-4
+Túrkéve|Túrkeve|Hungary|February|5|-3
+Túrkéve|Túrkeve|Hungary|March|12|1
+Túrkéve|Túrkeve|Hungary|April|18|6
+Túrkéve|Túrkeve|Hungary|May|23|11
+Túrkéve|Túrkeve|Hungary|June|26|14
+Túrkéve|Túrkeve|Hungary|July|28|16
+Túrkéve|Túrkeve|Hungary|August|28|15
+Túrkéve|Túrkeve|Hungary|September|23|11
+Túrkéve|Túrkeve|Hungary|October|17|6
+Túrkéve|Túrkeve|Hungary|November|9|1
+Túrkéve|Túrkeve|Hungary|December|3|-3
+Üllő|Üllő|Hungary|January|3|-4
+Üllő|Üllő|Hungary|February|5|-3
+Üllő|Üllő|Hungary|March|11|1
+Üllő|Üllő|Hungary|April|17|5
+Üllő|Üllő|Hungary|May|22|10
+Üllő|Üllő|Hungary|June|25|13
+Üllő|Üllő|Hungary|July|27|15
+Üllő|Üllő|Hungary|August|27|15
+Üllő|Üllő|Hungary|September|22|10
+Üllő|Üllő|Hungary|October|15|5
+Üllő|Üllő|Hungary|November|8|1
+Üllő|Üllő|Hungary|December|3|-3
+Vac|Vác|Hungary|January|3|-2
+Vac|Vác|Hungary|February|6|0
+Vac|Vác|Hungary|March|11|3
+Vac|Vác|Hungary|April|17|8
+Vac|Vác|Hungary|May|23|12
+Vac|Vác|Hungary|June|26|15
+Vac|Vác|Hungary|July|28|17
+Vac|Vác|Hungary|August|28|17
+Vac|Vác|Hungary|September|23|13
+Vac|Vác|Hungary|October|16|8
+Vac|Vác|Hungary|November|9|4
+Vac|Vác|Hungary|December|4|0
+Várpalota|Várpalota|Hungary|January|4|-2
+Várpalota|Várpalota|Hungary|February|7|-1
+Várpalota|Várpalota|Hungary|March|11|3
+Várpalota|Várpalota|Hungary|April|17|7
+Várpalota|Várpalota|Hungary|May|21|11
+Várpalota|Várpalota|Hungary|June|25|15
+Várpalota|Várpalota|Hungary|July|27|17
+Várpalota|Várpalota|Hungary|August|27|16
+Várpalota|Várpalota|Hungary|September|21|12
+Várpalota|Várpalota|Hungary|October|16|7
+Várpalota|Várpalota|Hungary|November|9|3
+Várpalota|Várpalota|Hungary|December|4|-1
+Vasarosnameny|Vásárosnamény|Hungary|January|1|-5
+Vasarosnameny|Vásárosnamény|Hungary|February|4|-2
+Vasarosnameny|Vásárosnamény|Hungary|March|10|2
+Vasarosnameny|Vásárosnamény|Hungary|April|16|6
+Vasarosnameny|Vásárosnamény|Hungary|May|22|11
+Vasarosnameny|Vásárosnamény|Hungary|June|24|14
+Vasarosnameny|Vásárosnamény|Hungary|July|26|15
+Vasarosnameny|Vásárosnamény|Hungary|August|26|15
+Vasarosnameny|Vásárosnamény|Hungary|September|21|11
+Vasarosnameny|Vásárosnamény|Hungary|October|16|7
+Vasarosnameny|Vásárosnamény|Hungary|November|8|2
+Vasarosnameny|Vásárosnamény|Hungary|December|3|-2
+Vecses|Vecsés|Hungary|January|3|-4
+Vecses|Vecsés|Hungary|February|5|-3
+Vecses|Vecsés|Hungary|March|11|1
+Vecses|Vecsés|Hungary|April|17|5
+Vecses|Vecsés|Hungary|May|22|10
+Vecses|Vecsés|Hungary|June|25|13
+Vecses|Vecsés|Hungary|July|27|15
+Vecses|Vecsés|Hungary|August|27|15
+Vecses|Vecsés|Hungary|September|22|10
+Vecses|Vecsés|Hungary|October|15|5
+Vecses|Vecsés|Hungary|November|8|1
+Vecses|Vecsés|Hungary|December|3|-3
+Veszprém|Veszprém|Hungary|January|3|-3
+Veszprém|Veszprém|Hungary|February|6|-1
+Veszprém|Veszprém|Hungary|March|11|2
+Veszprém|Veszprém|Hungary|April|16|6
+Veszprém|Veszprém|Hungary|May|21|11
+Veszprém|Veszprém|Hungary|June|25|14
+Veszprém|Veszprém|Hungary|July|27|16
+Veszprém|Veszprém|Hungary|August|27|16
+Veszprém|Veszprém|Hungary|September|21|11
+Veszprém|Veszprém|Hungary|October|15|6
+Veszprém|Veszprém|Hungary|November|8|2
+Veszprém|Veszprém|Hungary|December|4|-2
+Zalaegerszeg|Zalaegerszeg|Hungary|January|3|-4
+Zalaegerszeg|Zalaegerszeg|Hungary|February|5|-2
+Zalaegerszeg|Zalaegerszeg|Hungary|March|11|2
+Zalaegerszeg|Zalaegerszeg|Hungary|April|16|6
+Zalaegerszeg|Zalaegerszeg|Hungary|May|21|10
+Zalaegerszeg|Zalaegerszeg|Hungary|June|24|13
+Zalaegerszeg|Zalaegerszeg|Hungary|July|26|15
+Zalaegerszeg|Zalaegerszeg|Hungary|August|26|14
+Zalaegerszeg|Zalaegerszeg|Hungary|September|21|10
+Zalaegerszeg|Zalaegerszeg|Hungary|October|15|6
+Zalaegerszeg|Zalaegerszeg|Hungary|November|8|2
+Zalaegerszeg|Zalaegerszeg|Hungary|December|4|-2
+Zirc|Zirc|Hungary|January|2|-4
+Zirc|Zirc|Hungary|February|5|-2
+Zirc|Zirc|Hungary|March|10|1
+Zirc|Zirc|Hungary|April|15|5
+Zirc|Zirc|Hungary|May|20|9
+Zirc|Zirc|Hungary|June|24|13
+Zirc|Zirc|Hungary|July|26|15
+Zirc|Zirc|Hungary|August|25|15
+Zirc|Zirc|Hungary|September|20|10
+Zirc|Zirc|Hungary|October|14|5
+Zirc|Zirc|Hungary|November|7|1
+Zirc|Zirc|Hungary|December|2|-3
+Zsámbék|Zsámbék|Hungary|January|2|-4
+Zsámbék|Zsámbék|Hungary|February|5|-3
+Zsámbék|Zsámbék|Hungary|March|11|2
+Zsámbék|Zsámbék|Hungary|April|16|5
+Zsámbék|Zsámbék|Hungary|May|21|10
+Zsámbék|Zsámbék|Hungary|June|24|13
+Zsámbék|Zsámbék|Hungary|July|27|15
+Zsámbék|Zsámbék|Hungary|August|26|14
+Zsámbék|Zsámbék|Hungary|September|22|10
+Zsámbék|Zsámbék|Hungary|October|16|5
+Zsámbék|Zsámbék|Hungary|November|8|1
+Zsámbék|Zsámbék|Hungary|December|4|-2
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|January|2|-5
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|February|5|-3
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|March|10|0
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|April|17|5
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|May|21|9
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|June|25|12
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|July|27|14
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|August|27|13
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|September|21|9
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|October|15|5
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|November|8|1
+Bánovce nad Bebravou|Bánovce nad Bebravou|Slovakia|December|3|-3
+Banská Bystrica|Banská Bystrica|Slovakia|January|1|-8
+Banská Bystrica|Banská Bystrica|Slovakia|February|4|-6
+Banská Bystrica|Banská Bystrica|Slovakia|March|9|-2
+Banská Bystrica|Banská Bystrica|Slovakia|April|16|2
+Banská Bystrica|Banská Bystrica|Slovakia|May|21|7
+Banská Bystrica|Banská Bystrica|Slovakia|June|24|10
+Banská Bystrica|Banská Bystrica|Slovakia|July|26|11
+Banská Bystrica|Banská Bystrica|Slovakia|August|26|11
+Banská Bystrica|Banská Bystrica|Slovakia|September|21|7
+Banská Bystrica|Banská Bystrica|Slovakia|October|14|3
+Banská Bystrica|Banská Bystrica|Slovakia|November|7|-1
+Banská Bystrica|Banská Bystrica|Slovakia|December|1|-6
+Banská Stiavnica|Banská Štiavnica|Slovakia|January|0|-8
+Banská Stiavnica|Banská Štiavnica|Slovakia|February|3|-6
+Banská Stiavnica|Banská Štiavnica|Slovakia|March|9|-3
+Banská Stiavnica|Banská Štiavnica|Slovakia|April|17|2
+Banská Stiavnica|Banská Štiavnica|Slovakia|May|20|6
+Banská Stiavnica|Banská Štiavnica|Slovakia|June|24|10
+Banská Stiavnica|Banská Štiavnica|Slovakia|July|26|11
+Banská Stiavnica|Banská Štiavnica|Slovakia|August|25|11
+Banská Stiavnica|Banská Štiavnica|Slovakia|September|20|7
+Banská Stiavnica|Banská Štiavnica|Slovakia|October|13|2
+Banská Stiavnica|Banská Štiavnica|Slovakia|November|7|-1
+Banská Stiavnica|Banská Štiavnica|Slovakia|December|0|-6
+Bardejov|Bardejov|Slovakia|January|0|-6
+Bardejov|Bardejov|Slovakia|February|3|-5
+Bardejov|Bardejov|Slovakia|March|9|-1
+Bardejov|Bardejov|Slovakia|April|16|3
+Bardejov|Bardejov|Slovakia|May|20|7
+Bardejov|Bardejov|Slovakia|June|23|11
+Bardejov|Bardejov|Slovakia|July|25|13
+Bardejov|Bardejov|Slovakia|August|25|12
+Bardejov|Bardejov|Slovakia|September|19|8
+Bardejov|Bardejov|Slovakia|October|13|4
+Bardejov|Bardejov|Slovakia|November|6|0
+Bardejov|Bardejov|Slovakia|December|0|-4
+Bosany|Bošany|Slovakia|January|2|-5
+Bosany|Bošany|Slovakia|February|5|-4
+Bosany|Bošany|Slovakia|March|10|0
+Bosany|Bošany|Slovakia|April|16|4
+Bosany|Bošany|Slovakia|May|21|8
+Bosany|Bošany|Slovakia|June|24|12
+Bosany|Bošany|Slovakia|July|27|13
+Bosany|Bošany|Slovakia|August|26|13
+Bosany|Bošany|Slovakia|September|21|9
+Bosany|Bošany|Slovakia|October|15|5
+Bosany|Bošany|Slovakia|November|8|1
+Bosany|Bošany|Slovakia|December|3|-3
+Bratislava|Bratislava|Slovakia|January|3|-3
+Bratislava|Bratislava|Slovakia|February|5|-2
+Bratislava|Bratislava|Slovakia|March|11|1
+Bratislava|Bratislava|Slovakia|April|17|5
+Bratislava|Bratislava|Slovakia|May|22|10
+Bratislava|Bratislava|Slovakia|June|25|13
+Bratislava|Bratislava|Slovakia|July|27|15
+Bratislava|Bratislava|Slovakia|August|27|15
+Bratislava|Bratislava|Slovakia|September|22|11
+Bratislava|Bratislava|Slovakia|October|15|6
+Bratislava|Bratislava|Slovakia|November|8|2
+Bratislava|Bratislava|Slovakia|December|4|-2
+Brezno|Brezno|Slovakia|January|-2|-7
+Brezno|Brezno|Slovakia|February|-2|-7
+Brezno|Brezno|Slovakia|March|0|-5
+Brezno|Brezno|Slovakia|April|4|-1
+Brezno|Brezno|Slovakia|May|9|4
+Brezno|Brezno|Slovakia|June|13|7
+Brezno|Brezno|Slovakia|July|15|9
+Brezno|Brezno|Slovakia|August|15|9
+Brezno|Brezno|Slovakia|September|10|6
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|January|2|-5
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|February|4|-4
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|March|10|-1
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|April|16|3
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|May|21|8
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|June|24|11
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|July|26|13
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|August|26|13
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|September|21|9
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|October|14|4
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|November|7|0
+Brezová pod Bradlom|Brezová pod Bradlom|Slovakia|December|2|-4
+Bytca|Bytča|Slovakia|January|1|-5
+Bytca|Bytča|Slovakia|February|4|-4
+Bytca|Bytča|Slovakia|March|9|-1
+Bytca|Bytča|Slovakia|April|17|4
+Bytca|Bytča|Slovakia|May|19|8
+Bytca|Bytča|Slovakia|June|23|12
+Bytca|Bytča|Slovakia|July|26|13
+Bytca|Bytča|Slovakia|August|25|13
+Bytca|Bytča|Slovakia|September|20|9
+Bytca|Bytča|Slovakia|October|14|5
+Bytca|Bytča|Slovakia|November|8|1
+Bytca|Bytča|Slovakia|December|2|-3
+Čadca|Čadca|Slovakia|January|2|-3
+Čadca|Čadca|Slovakia|February|3|-2
+Čadca|Čadca|Slovakia|March|6|0
+Čadca|Čadca|Slovakia|April|12|5
+Čadca|Čadca|Slovakia|May|18|9
+Čadca|Čadca|Slovakia|June|21|12
+Čadca|Čadca|Slovakia|July|23|14
+Čadca|Čadca|Slovakia|August|23|15
+Čadca|Čadca|Slovakia|September|18|11
+Čadca|Čadca|Slovakia|October|13|7
+Čadca|Čadca|Slovakia|November|7|2
+Čadca|Čadca|Slovakia|December|4|-2
+Čaňa|Čaňa|Slovakia|January|1|-5
+Čaňa|Čaňa|Slovakia|February|4|-3
+Čaňa|Čaňa|Slovakia|March|10|0
+Čaňa|Čaňa|Slovakia|April|16|5
+Čaňa|Čaňa|Slovakia|May|21|10
+Čaňa|Čaňa|Slovakia|June|24|13
+Čaňa|Čaňa|Slovakia|July|26|15
+Čaňa|Čaňa|Slovakia|August|26|14
+Čaňa|Čaňa|Slovakia|September|21|10
+Čaňa|Čaňa|Slovakia|October|15|5
+Čaňa|Čaňa|Slovakia|November|8|1
+Čaňa|Čaňa|Slovakia|December|2|-3
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|January|3|-3
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|February|5|-2
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|March|11|1
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|April|17|5
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|May|22|10
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|June|25|13
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|July|27|15
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|August|27|15
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|September|22|11
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|October|15|6
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|November|8|2
+Chorvatsky Grob|Chorvátsky Grob|Slovakia|December|4|-2
+Detva|Detva|Slovakia|January|1|-8
+Detva|Detva|Slovakia|February|4|-6
+Detva|Detva|Slovakia|March|9|-2
+Detva|Detva|Slovakia|April|16|2
+Detva|Detva|Slovakia|May|21|7
+Detva|Detva|Slovakia|June|24|10
+Detva|Detva|Slovakia|July|26|11
+Detva|Detva|Slovakia|August|26|11
+Detva|Detva|Slovakia|September|21|7
+Detva|Detva|Slovakia|October|14|3
+Detva|Detva|Slovakia|November|7|-1
+Detva|Detva|Slovakia|December|1|-6
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|January|3|-3
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|February|5|-2
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|March|11|1
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|April|17|5
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|May|22|10
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|June|25|13
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|July|27|15
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|August|27|15
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|September|22|11
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|October|15|6
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|November|8|2
+Devinska Nova Ves|Devínska Nová Ves|Slovakia|December|4|-2
+Dolný Kubín|Dolný Kubín|Slovakia|January|2|-7
+Dolný Kubín|Dolný Kubín|Slovakia|February|3|-6
+Dolný Kubín|Dolný Kubín|Slovakia|March|7|-3
+Dolný Kubín|Dolný Kubín|Slovakia|April|13|1
+Dolný Kubín|Dolný Kubín|Slovakia|May|19|6
+Dolný Kubín|Dolný Kubín|Slovakia|June|21|9
+Dolný Kubín|Dolný Kubín|Slovakia|July|23|11
+Dolný Kubín|Dolný Kubín|Slovakia|August|23|10
+Dolný Kubín|Dolný Kubín|Slovakia|September|18|7
+Dolný Kubín|Dolný Kubín|Slovakia|October|14|3
+Dolný Kubín|Dolný Kubín|Slovakia|November|7|-1
+Dolný Kubín|Dolný Kubín|Slovakia|December|2|-5
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|January|2|-5
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|February|5|-3
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|March|10|0
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|April|17|5
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|May|21|9
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|June|25|12
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|July|27|14
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|August|27|13
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|September|21|9
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|October|15|5
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|November|8|1
+Dubnica nad Váhom|Dubnica nad Váhom|Slovakia|December|3|-3
+Dunajska Streda|Dunajská Streda|Slovakia|January|3|-3
+Dunajska Streda|Dunajská Streda|Slovakia|February|6|-1
+Dunajska Streda|Dunajská Streda|Slovakia|March|11|1
+Dunajska Streda|Dunajská Streda|Slovakia|April|18|6
+Dunajska Streda|Dunajská Streda|Slovakia|May|22|10
+Dunajska Streda|Dunajská Streda|Slovakia|June|26|14
+Dunajska Streda|Dunajská Streda|Slovakia|July|28|15
+Dunajska Streda|Dunajská Streda|Slovakia|August|27|15
+Dunajska Streda|Dunajská Streda|Slovakia|September|22|11
+Dunajska Streda|Dunajská Streda|Slovakia|October|16|6
+Dunajska Streda|Dunajská Streda|Slovakia|November|9|2
+Dunajska Streda|Dunajská Streda|Slovakia|December|3|-2
+Filakovo|Fiľakovo|Slovakia|January|1|-5
+Filakovo|Fiľakovo|Slovakia|February|5|-4
+Filakovo|Fiľakovo|Slovakia|March|11|0
+Filakovo|Fiľakovo|Slovakia|April|17|4
+Filakovo|Fiľakovo|Slovakia|May|22|9
+Filakovo|Fiľakovo|Slovakia|June|25|12
+Filakovo|Fiľakovo|Slovakia|July|27|14
+Filakovo|Fiľakovo|Slovakia|August|27|13
+Filakovo|Fiľakovo|Slovakia|September|22|9
+Filakovo|Fiľakovo|Slovakia|October|15|4
+Filakovo|Fiľakovo|Slovakia|November|8|0
+Filakovo|Fiľakovo|Slovakia|December|2|-4
+Gabčíkovo|Gabčíkovo|Slovakia|January|3|-3
+Gabčíkovo|Gabčíkovo|Slovakia|February|6|-1
+Gabčíkovo|Gabčíkovo|Slovakia|March|11|1
+Gabčíkovo|Gabčíkovo|Slovakia|April|18|6
+Gabčíkovo|Gabčíkovo|Slovakia|May|22|10
+Gabčíkovo|Gabčíkovo|Slovakia|June|26|14
+Gabčíkovo|Gabčíkovo|Slovakia|July|28|15
+Gabčíkovo|Gabčíkovo|Slovakia|August|27|15
+Gabčíkovo|Gabčíkovo|Slovakia|September|22|11
+Gabčíkovo|Gabčíkovo|Slovakia|October|16|6
+Gabčíkovo|Gabčíkovo|Slovakia|November|9|2
+Gabčíkovo|Gabčíkovo|Slovakia|December|3|-2
+Galanta|Galanta|Slovakia|January|3|-4
+Galanta|Galanta|Slovakia|February|6|-2
+Galanta|Galanta|Slovakia|March|11|1
+Galanta|Galanta|Slovakia|April|18|5
+Galanta|Galanta|Slovakia|May|22|9
+Galanta|Galanta|Slovakia|June|25|13
+Galanta|Galanta|Slovakia|July|28|14
+Galanta|Galanta|Slovakia|August|27|14
+Galanta|Galanta|Slovakia|September|22|10
+Galanta|Galanta|Slovakia|October|15|6
+Galanta|Galanta|Slovakia|November|8|2
+Galanta|Galanta|Slovakia|December|3|-2
+Gelnica|Gelnica|Slovakia|January|0|-8
+Gelnica|Gelnica|Slovakia|February|2|-7
+Gelnica|Gelnica|Slovakia|March|5|-5
+Gelnica|Gelnica|Slovakia|April|11|0
+Gelnica|Gelnica|Slovakia|May|16|4
+Gelnica|Gelnica|Slovakia|June|19|8
+Gelnica|Gelnica|Slovakia|July|21|10
+Gelnica|Gelnica|Slovakia|August|20|9
+Gelnica|Gelnica|Slovakia|September|15|5
+Gelnica|Gelnica|Slovakia|October|10|2
+Gelnica|Gelnica|Slovakia|November|5|-2
+Gelnica|Gelnica|Slovakia|December|1|-7
+Hlohovec|Hlohovec|Slovakia|January|2|-5
+Hlohovec|Hlohovec|Slovakia|February|5|-4
+Hlohovec|Hlohovec|Slovakia|March|10|0
+Hlohovec|Hlohovec|Slovakia|April|16|4
+Hlohovec|Hlohovec|Slovakia|May|21|8
+Hlohovec|Hlohovec|Slovakia|June|24|12
+Hlohovec|Hlohovec|Slovakia|July|27|13
+Hlohovec|Hlohovec|Slovakia|August|26|13
+Hlohovec|Hlohovec|Slovakia|September|21|9
+Hlohovec|Hlohovec|Slovakia|October|15|5
+Hlohovec|Hlohovec|Slovakia|November|8|1
+Hlohovec|Hlohovec|Slovakia|December|3|-3
+Hnústa|Hnúšťa|Slovakia|January|1|-6
+Hnústa|Hnúšťa|Slovakia|February|4|-4
+Hnústa|Hnúšťa|Slovakia|March|10|-1
+Hnústa|Hnúšťa|Slovakia|April|17|4
+Hnústa|Hnúšťa|Slovakia|May|21|8
+Hnústa|Hnúšťa|Slovakia|June|25|12
+Hnústa|Hnúšťa|Slovakia|July|27|13
+Hnústa|Hnúšťa|Slovakia|August|27|13
+Hnústa|Hnúšťa|Slovakia|September|21|8
+Hnústa|Hnúšťa|Slovakia|October|15|4
+Hnústa|Hnúšťa|Slovakia|November|7|0
+Hnústa|Hnúšťa|Slovakia|December|1|-5
+Hriňová|Hriňová|Slovakia|January|0|-8
+Hriňová|Hriňová|Slovakia|February|3|-7
+Hriňová|Hriňová|Slovakia|March|9|-3
+Hriňová|Hriňová|Slovakia|April|15|1
+Hriňová|Hriňová|Slovakia|May|20|6
+Hriňová|Hriňová|Slovakia|June|23|9
+Hriňová|Hriňová|Slovakia|July|25|11
+Hriňová|Hriňová|Slovakia|August|25|10
+Hriňová|Hriňová|Slovakia|September|20|7
+Hriňová|Hriňová|Slovakia|October|14|2
+Hriňová|Hriňová|Slovakia|November|6|-2
+Hriňová|Hriňová|Slovakia|December|1|-6
+Humenné|Humenné|Slovakia|January|1|-5
+Humenné|Humenné|Slovakia|February|4|-4
+Humenné|Humenné|Slovakia|March|10|-1
+Humenné|Humenné|Slovakia|April|16|4
+Humenné|Humenné|Slovakia|May|21|8
+Humenné|Humenné|Slovakia|June|24|12
+Humenné|Humenné|Slovakia|July|26|13
+Humenné|Humenné|Slovakia|August|25|12
+Humenné|Humenné|Slovakia|September|20|9
+Humenné|Humenné|Slovakia|October|14|4
+Humenné|Humenné|Slovakia|November|7|0
+Humenné|Humenné|Slovakia|December|2|-4
+Hurbanovo|Hurbanovo|Slovakia|January|3|-4
+Hurbanovo|Hurbanovo|Slovakia|February|6|-2
+Hurbanovo|Hurbanovo|Slovakia|March|12|1
+Hurbanovo|Hurbanovo|Slovakia|April|17|5
+Hurbanovo|Hurbanovo|Slovakia|May|22|10
+Hurbanovo|Hurbanovo|Slovakia|June|26|13
+Hurbanovo|Hurbanovo|Slovakia|July|28|15
+Hurbanovo|Hurbanovo|Slovakia|August|27|14
+Hurbanovo|Hurbanovo|Slovakia|September|22|10
+Hurbanovo|Hurbanovo|Slovakia|October|16|6
+Hurbanovo|Hurbanovo|Slovakia|November|9|2
+Hurbanovo|Hurbanovo|Slovakia|December|4|-2
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|January|3|-3
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|February|5|-2
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|March|11|1
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|April|17|5
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|May|22|10
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|June|25|13
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|July|27|15
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|August|27|15
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|September|22|11
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|October|15|6
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|November|8|2
+Ivanka pri Dunaji|Ivanka pri Dunaji|Slovakia|December|4|-2
+Kezmarok|Kežmarok|Slovakia|January|1|-8
+Kezmarok|Kežmarok|Slovakia|February|3|-7
+Kezmarok|Kežmarok|Slovakia|March|7|-3
+Kezmarok|Kežmarok|Slovakia|April|13|2
+Kezmarok|Kežmarok|Slovakia|May|18|6
+Kezmarok|Kežmarok|Slovakia|June|21|9
+Kezmarok|Kežmarok|Slovakia|July|23|11
+Kezmarok|Kežmarok|Slovakia|August|23|10
+Kezmarok|Kežmarok|Slovakia|September|19|7
+Kezmarok|Kežmarok|Slovakia|October|13|2
+Kezmarok|Kežmarok|Slovakia|November|6|-2
+Kezmarok|Kežmarok|Slovakia|December|1|-6
+Kolárovo|Kolárovo|Slovakia|January|3|-4
+Kolárovo|Kolárovo|Slovakia|February|6|-2
+Kolárovo|Kolárovo|Slovakia|March|12|1
+Kolárovo|Kolárovo|Slovakia|April|17|5
+Kolárovo|Kolárovo|Slovakia|May|22|10
+Kolárovo|Kolárovo|Slovakia|June|26|13
+Kolárovo|Kolárovo|Slovakia|July|28|15
+Kolárovo|Kolárovo|Slovakia|August|27|14
+Kolárovo|Kolárovo|Slovakia|September|22|10
+Kolárovo|Kolárovo|Slovakia|October|16|6
+Kolárovo|Kolárovo|Slovakia|November|9|2
+Kolárovo|Kolárovo|Slovakia|December|4|-2
+Komarno|Komárno|Slovakia|January|3|-4
+Komarno|Komárno|Slovakia|February|6|-2
+Komarno|Komárno|Slovakia|March|12|1
+Komarno|Komárno|Slovakia|April|17|5
+Komarno|Komárno|Slovakia|May|22|10
+Komarno|Komárno|Slovakia|June|26|13
+Komarno|Komárno|Slovakia|July|28|15
+Komarno|Komárno|Slovakia|August|27|14
+Komarno|Komárno|Slovakia|September|22|10
+Komarno|Komárno|Slovakia|October|16|6
+Komarno|Komárno|Slovakia|November|9|2
+Komarno|Komárno|Slovakia|December|4|-2
+Komjatice|Komjatice|Slovakia|January|3|-4
+Komjatice|Komjatice|Slovakia|February|6|-2
+Komjatice|Komjatice|Slovakia|March|11|1
+Komjatice|Komjatice|Slovakia|April|18|5
+Komjatice|Komjatice|Slovakia|May|22|9
+Komjatice|Komjatice|Slovakia|June|25|13
+Komjatice|Komjatice|Slovakia|July|28|14
+Komjatice|Komjatice|Slovakia|August|27|14
+Komjatice|Komjatice|Slovakia|September|22|10
+Komjatice|Komjatice|Slovakia|October|15|6
+Komjatice|Komjatice|Slovakia|November|8|2
+Komjatice|Komjatice|Slovakia|December|3|-2
+Kosice|Košice|Slovakia|January|1|-4
+Kosice|Košice|Slovakia|February|4|-3
+Kosice|Košice|Slovakia|March|10|0
+Kosice|Košice|Slovakia|April|17|6
+Kosice|Košice|Slovakia|May|21|10
+Kosice|Košice|Slovakia|June|25|14
+Kosice|Košice|Slovakia|July|27|15
+Kosice|Košice|Slovakia|August|26|15
+Kosice|Košice|Slovakia|September|21|10
+Kosice|Košice|Slovakia|October|15|5
+Kosice|Košice|Slovakia|November|8|1
+Kosice|Košice|Slovakia|December|2|-2
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|January|0|-6
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|February|3|-5
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|March|8|-2
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|April|15|2
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|May|19|7
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|June|23|10
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|July|24|12
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|August|24|11
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|September|19|8
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|October|14|4
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|November|6|0
+Krasno nad Kysucou|Krásno nad Kysucou|Slovakia|December|1|-4
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|January|1|-4
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|February|4|-3
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|March|11|1
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|April|18|6
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|May|23|11
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|June|26|14
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|July|28|16
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|August|28|15
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|September|22|11
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|October|16|5
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|November|9|1
+Krážovský Chlmec|Kráľovský Chlmec|Slovakia|December|2|-3
+Krompachy|Krompachy|Slovakia|January|0|-8
+Krompachy|Krompachy|Slovakia|February|2|-7
+Krompachy|Krompachy|Slovakia|March|5|-5
+Krompachy|Krompachy|Slovakia|April|11|0
+Krompachy|Krompachy|Slovakia|May|16|4
+Krompachy|Krompachy|Slovakia|June|19|8
+Krompachy|Krompachy|Slovakia|July|21|10
+Krompachy|Krompachy|Slovakia|August|20|9
+Krompachy|Krompachy|Slovakia|September|15|5
+Krompachy|Krompachy|Slovakia|October|10|2
+Krompachy|Krompachy|Slovakia|November|5|-2
+Krompachy|Krompachy|Slovakia|December|1|-7
+Krupina|Krupina|Slovakia|January|1|-7
+Krupina|Krupina|Slovakia|February|4|-6
+Krupina|Krupina|Slovakia|March|10|-2
+Krupina|Krupina|Slovakia|April|16|2
+Krupina|Krupina|Slovakia|May|21|7
+Krupina|Krupina|Slovakia|June|24|11
+Krupina|Krupina|Slovakia|July|26|12
+Krupina|Krupina|Slovakia|August|26|12
+Krupina|Krupina|Slovakia|September|21|8
+Krupina|Krupina|Slovakia|October|15|3
+Krupina|Krupina|Slovakia|November|7|-1
+Krupina|Krupina|Slovakia|December|2|-5
+Kuty|Kúty|Slovakia|January|2|-4
+Kuty|Kúty|Slovakia|February|5|-3
+Kuty|Kúty|Slovakia|March|10|1
+Kuty|Kúty|Slovakia|April|16|5
+Kuty|Kúty|Slovakia|May|21|9
+Kuty|Kúty|Slovakia|June|24|13
+Kuty|Kúty|Slovakia|July|26|14
+Kuty|Kúty|Slovakia|August|26|14
+Kuty|Kúty|Slovakia|September|21|10
+Kuty|Kúty|Slovakia|October|14|6
+Kuty|Kúty|Slovakia|November|7|2
+Kuty|Kúty|Slovakia|December|3|-2
+Lednické Rovne|Lednické Rovne|Slovakia|January|1|-5
+Lednické Rovne|Lednické Rovne|Slovakia|February|4|-4
+Lednické Rovne|Lednické Rovne|Slovakia|March|9|-1
+Lednické Rovne|Lednické Rovne|Slovakia|April|17|4
+Lednické Rovne|Lednické Rovne|Slovakia|May|19|8
+Lednické Rovne|Lednické Rovne|Slovakia|June|23|12
+Lednické Rovne|Lednické Rovne|Slovakia|July|26|13
+Lednické Rovne|Lednické Rovne|Slovakia|August|25|13
+Lednické Rovne|Lednické Rovne|Slovakia|September|20|9
+Lednické Rovne|Lednické Rovne|Slovakia|October|14|5
+Lednické Rovne|Lednické Rovne|Slovakia|November|8|1
+Lednické Rovne|Lednické Rovne|Slovakia|December|2|-3
+Levice|Levice|Slovakia|January|3|-5
+Levice|Levice|Slovakia|February|6|-4
+Levice|Levice|Slovakia|March|12|0
+Levice|Levice|Slovakia|April|18|4
+Levice|Levice|Slovakia|May|23|9
+Levice|Levice|Slovakia|June|26|12
+Levice|Levice|Slovakia|July|28|14
+Levice|Levice|Slovakia|August|28|14
+Levice|Levice|Slovakia|September|22|9
+Levice|Levice|Slovakia|October|16|5
+Levice|Levice|Slovakia|November|9|1
+Levice|Levice|Slovakia|December|3|-4
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|January|-3|-8
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|February|-3|-8
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|March|-1|-6
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|April|3|-2
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|May|8|3
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|June|11|6
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|July|14|8
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|August|13|8
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|September|9|5
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|October|6|1
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|November|1|-4
+Liptovsky Hradok|Liptovský Hrádok|Slovakia|December|-2|-7
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|January|-2|-7
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|February|-2|-7
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|March|0|-5
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|April|4|-1
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|May|9|4
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|June|12|7
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|July|14|9
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|August|14|9
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|September|10|5
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|October|6|2
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|November|2|-3
+Liptovsky Mikulas|Liptovský Mikuláš|Slovakia|December|-1|-6
+Lučenec|Lučenec|Slovakia|January|1|-5
+Lučenec|Lučenec|Slovakia|February|5|-4
+Lučenec|Lučenec|Slovakia|March|11|0
+Lučenec|Lučenec|Slovakia|April|17|4
+Lučenec|Lučenec|Slovakia|May|22|9
+Lučenec|Lučenec|Slovakia|June|25|12
+Lučenec|Lučenec|Slovakia|July|27|14
+Lučenec|Lučenec|Slovakia|August|27|13
+Lučenec|Lučenec|Slovakia|September|22|9
+Lučenec|Lučenec|Slovakia|October|15|4
+Lučenec|Lučenec|Slovakia|November|8|0
+Lučenec|Lučenec|Slovakia|December|2|-4
+Malacky|Malacky|Slovakia|January|3|-3
+Malacky|Malacky|Slovakia|February|5|-2
+Malacky|Malacky|Slovakia|March|11|1
+Malacky|Malacky|Slovakia|April|17|5
+Malacky|Malacky|Slovakia|May|22|10
+Malacky|Malacky|Slovakia|June|25|13
+Malacky|Malacky|Slovakia|July|27|15
+Malacky|Malacky|Slovakia|August|27|15
+Malacky|Malacky|Slovakia|September|22|11
+Malacky|Malacky|Slovakia|October|15|6
+Malacky|Malacky|Slovakia|November|8|2
+Malacky|Malacky|Slovakia|December|4|-2
+Martin|Martin|Slovakia|January|0|-6
+Martin|Martin|Slovakia|February|3|-5
+Martin|Martin|Slovakia|March|8|-2
+Martin|Martin|Slovakia|April|15|2
+Martin|Martin|Slovakia|May|19|7
+Martin|Martin|Slovakia|June|23|10
+Martin|Martin|Slovakia|July|24|12
+Martin|Martin|Slovakia|August|24|11
+Martin|Martin|Slovakia|September|19|8
+Martin|Martin|Slovakia|October|14|4
+Martin|Martin|Slovakia|November|6|0
+Martin|Martin|Slovakia|December|1|-4
+Medzilaborce|Medzilaborce|Slovakia|January|-1|-6
+Medzilaborce|Medzilaborce|Slovakia|February|2|-5
+Medzilaborce|Medzilaborce|Slovakia|March|8|-2
+Medzilaborce|Medzilaborce|Slovakia|April|15|3
+Medzilaborce|Medzilaborce|Slovakia|May|20|7
+Medzilaborce|Medzilaborce|Slovakia|June|23|10
+Medzilaborce|Medzilaborce|Slovakia|July|25|12
+Medzilaborce|Medzilaborce|Slovakia|August|25|11
+Medzilaborce|Medzilaborce|Slovakia|September|19|7
+Medzilaborce|Medzilaborce|Slovakia|October|13|3
+Medzilaborce|Medzilaborce|Slovakia|November|6|-1
+Medzilaborce|Medzilaborce|Slovakia|December|0|-5
+Michalovce|Michalovce|Slovakia|January|1|-4
+Michalovce|Michalovce|Slovakia|February|4|-3
+Michalovce|Michalovce|Slovakia|March|10|0
+Michalovce|Michalovce|Slovakia|April|17|5
+Michalovce|Michalovce|Slovakia|May|22|10
+Michalovce|Michalovce|Slovakia|June|25|13
+Michalovce|Michalovce|Slovakia|July|27|15
+Michalovce|Michalovce|Slovakia|August|27|14
+Michalovce|Michalovce|Slovakia|September|21|10
+Michalovce|Michalovce|Slovakia|October|15|5
+Michalovce|Michalovce|Slovakia|November|7|1
+Michalovce|Michalovce|Slovakia|December|2|-3
+Moldava|Moldava|Czechia|January|-1|-6
+Moldava|Moldava|Czechia|February|-1|-6
+Moldava|Moldava|Czechia|March|4|-1
+Moldava|Moldava|Czechia|April|8|1
+Moldava|Moldava|Czechia|May|14|6
+Moldava|Moldava|Czechia|June|16|9
+Moldava|Moldava|Czechia|July|18|11
+Moldava|Moldava|Czechia|August|18|11
+Moldava|Moldava|Czechia|September|14|8
+Moldava|Moldava|Czechia|October|9|4
+Moldava|Moldava|Czechia|November|3|-1
+Moldava|Moldava|Czechia|December|0|-4
+Most pri Bratislave|Most pri Bratislave|Slovakia|January|3|-3
+Most pri Bratislave|Most pri Bratislave|Slovakia|February|5|-2
+Most pri Bratislave|Most pri Bratislave|Slovakia|March|11|1
+Most pri Bratislave|Most pri Bratislave|Slovakia|April|17|5
+Most pri Bratislave|Most pri Bratislave|Slovakia|May|22|10
+Most pri Bratislave|Most pri Bratislave|Slovakia|June|25|13
+Most pri Bratislave|Most pri Bratislave|Slovakia|July|27|15
+Most pri Bratislave|Most pri Bratislave|Slovakia|August|27|15
+Most pri Bratislave|Most pri Bratislave|Slovakia|September|22|11
+Most pri Bratislave|Most pri Bratislave|Slovakia|October|15|6
+Most pri Bratislave|Most pri Bratislave|Slovakia|November|8|2
+Most pri Bratislave|Most pri Bratislave|Slovakia|December|4|-2
+Myjava|Myjava|Slovakia|January|1|-6
+Myjava|Myjava|Slovakia|February|4|-5
+Myjava|Myjava|Slovakia|March|9|-1
+Myjava|Myjava|Slovakia|April|15|2
+Myjava|Myjava|Slovakia|May|20|7
+Myjava|Myjava|Slovakia|June|23|10
+Myjava|Myjava|Slovakia|July|25|12
+Myjava|Myjava|Slovakia|August|25|12
+Myjava|Myjava|Slovakia|September|20|8
+Myjava|Myjava|Slovakia|October|14|4
+Myjava|Myjava|Slovakia|November|7|0
+Myjava|Myjava|Slovakia|December|2|-4
+Nesvady|Nesvady|Slovakia|January|3|-4
+Nesvady|Nesvady|Slovakia|February|6|-2
+Nesvady|Nesvady|Slovakia|March|12|1
+Nesvady|Nesvady|Slovakia|April|17|5
+Nesvady|Nesvady|Slovakia|May|22|10
+Nesvady|Nesvady|Slovakia|June|26|13
+Nesvady|Nesvady|Slovakia|July|28|15
+Nesvady|Nesvady|Slovakia|August|27|14
+Nesvady|Nesvady|Slovakia|September|22|10
+Nesvady|Nesvady|Slovakia|October|16|6
+Nesvady|Nesvady|Slovakia|November|9|2
+Nesvady|Nesvady|Slovakia|December|4|-2
+Nitra|Nitra|Slovakia|January|3|-4
+Nitra|Nitra|Slovakia|February|6|-2
+Nitra|Nitra|Slovakia|March|11|1
+Nitra|Nitra|Slovakia|April|18|5
+Nitra|Nitra|Slovakia|May|22|9
+Nitra|Nitra|Slovakia|June|25|13
+Nitra|Nitra|Slovakia|July|28|14
+Nitra|Nitra|Slovakia|August|27|14
+Nitra|Nitra|Slovakia|September|22|10
+Nitra|Nitra|Slovakia|October|15|6
+Nitra|Nitra|Slovakia|November|8|2
+Nitra|Nitra|Slovakia|December|3|-2
+Nová Dubnica|Nová Dubnica|Slovakia|January|2|-5
+Nová Dubnica|Nová Dubnica|Slovakia|February|5|-3
+Nová Dubnica|Nová Dubnica|Slovakia|March|10|0
+Nová Dubnica|Nová Dubnica|Slovakia|April|17|5
+Nová Dubnica|Nová Dubnica|Slovakia|May|21|9
+Nová Dubnica|Nová Dubnica|Slovakia|June|25|12
+Nová Dubnica|Nová Dubnica|Slovakia|July|27|14
+Nová Dubnica|Nová Dubnica|Slovakia|August|27|13
+Nová Dubnica|Nová Dubnica|Slovakia|September|21|9
+Nová Dubnica|Nová Dubnica|Slovakia|October|15|5
+Nová Dubnica|Nová Dubnica|Slovakia|November|8|1
+Nová Dubnica|Nová Dubnica|Slovakia|December|3|-3
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|January|2|-5
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|February|5|-4
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|March|10|0
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|April|16|4
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|May|21|8
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|June|24|12
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|July|27|13
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|August|26|13
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|September|21|9
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|October|15|5
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|November|8|1
+Nové Mesto nad Váhom|Nové Mesto nad Váhom|Slovakia|December|3|-3
+Nové Zámky|Nové Zámky|Slovakia|January|3|-4
+Nové Zámky|Nové Zámky|Slovakia|February|6|-2
+Nové Zámky|Nové Zámky|Slovakia|March|12|1
+Nové Zámky|Nové Zámky|Slovakia|April|17|5
+Nové Zámky|Nové Zámky|Slovakia|May|22|10
+Nové Zámky|Nové Zámky|Slovakia|June|26|13
+Nové Zámky|Nové Zámky|Slovakia|July|28|15
+Nové Zámky|Nové Zámky|Slovakia|August|27|14
+Nové Zámky|Nové Zámky|Slovakia|September|22|10
+Nové Zámky|Nové Zámky|Slovakia|October|16|6
+Nové Zámky|Nové Zámky|Slovakia|November|9|2
+Nové Zámky|Nové Zámky|Slovakia|December|4|-2
+Partizánske|Partizánske|Slovakia|January|3|-4
+Partizánske|Partizánske|Slovakia|February|6|-3
+Partizánske|Partizánske|Slovakia|March|11|1
+Partizánske|Partizánske|Slovakia|April|17|5
+Partizánske|Partizánske|Slovakia|May|22|9
+Partizánske|Partizánske|Slovakia|June|25|12
+Partizánske|Partizánske|Slovakia|July|27|14
+Partizánske|Partizánske|Slovakia|August|27|14
+Partizánske|Partizánske|Slovakia|September|21|10
+Partizánske|Partizánske|Slovakia|October|16|5
+Partizánske|Partizánske|Slovakia|November|9|2
+Partizánske|Partizánske|Slovakia|December|3|-3
+Pata|Pata|Slovakia|January|2|-5
+Pata|Pata|Slovakia|February|5|-4
+Pata|Pata|Slovakia|March|10|0
+Pata|Pata|Slovakia|April|16|4
+Pata|Pata|Slovakia|May|21|8
+Pata|Pata|Slovakia|June|24|12
+Pata|Pata|Slovakia|July|27|13
+Pata|Pata|Slovakia|August|26|13
+Pata|Pata|Slovakia|September|21|9
+Pata|Pata|Slovakia|October|15|5
+Pata|Pata|Slovakia|November|8|1
+Pata|Pata|Slovakia|December|3|-3
+Pezinok|Pezinok|Slovakia|January|3|-3
+Pezinok|Pezinok|Slovakia|February|5|-2
+Pezinok|Pezinok|Slovakia|March|11|1
+Pezinok|Pezinok|Slovakia|April|17|5
+Pezinok|Pezinok|Slovakia|May|22|10
+Pezinok|Pezinok|Slovakia|June|25|13
+Pezinok|Pezinok|Slovakia|July|27|15
+Pezinok|Pezinok|Slovakia|August|27|15
+Pezinok|Pezinok|Slovakia|September|22|11
+Pezinok|Pezinok|Slovakia|October|15|6
+Pezinok|Pezinok|Slovakia|November|8|2
+Pezinok|Pezinok|Slovakia|December|4|-2
+Piestany|Piešťany|Slovakia|January|2|-5
+Piestany|Piešťany|Slovakia|February|5|-4
+Piestany|Piešťany|Slovakia|March|10|0
+Piestany|Piešťany|Slovakia|April|16|4
+Piestany|Piešťany|Slovakia|May|21|8
+Piestany|Piešťany|Slovakia|June|24|12
+Piestany|Piešťany|Slovakia|July|27|13
+Piestany|Piešťany|Slovakia|August|26|13
+Piestany|Piešťany|Slovakia|September|21|9
+Piestany|Piešťany|Slovakia|October|15|5
+Piestany|Piešťany|Slovakia|November|8|1
+Piestany|Piešťany|Slovakia|December|3|-3
+Poltar|Poltár|Slovakia|January|1|-5
+Poltar|Poltár|Slovakia|February|5|-4
+Poltar|Poltár|Slovakia|March|11|0
+Poltar|Poltár|Slovakia|April|17|4
+Poltar|Poltár|Slovakia|May|22|9
+Poltar|Poltár|Slovakia|June|25|12
+Poltar|Poltár|Slovakia|July|27|14
+Poltar|Poltár|Slovakia|August|27|13
+Poltar|Poltár|Slovakia|September|22|9
+Poltar|Poltár|Slovakia|October|15|4
+Poltar|Poltár|Slovakia|November|8|0
+Poltar|Poltár|Slovakia|December|2|-4
+Poprad|Poprad|Slovakia|January|0|-9
+Poprad|Poprad|Slovakia|February|2|-7
+Poprad|Poprad|Slovakia|March|7|-3
+Poprad|Poprad|Slovakia|April|12|1
+Poprad|Poprad|Slovakia|May|18|6
+Poprad|Poprad|Slovakia|June|21|9
+Poprad|Poprad|Slovakia|July|23|10
+Poprad|Poprad|Slovakia|August|23|10
+Poprad|Poprad|Slovakia|September|18|6
+Poprad|Poprad|Slovakia|October|13|2
+Poprad|Poprad|Slovakia|November|6|-2
+Poprad|Poprad|Slovakia|December|1|-7
+Povazská Bystrica|Považská Bystrica|Slovakia|January|1|-5
+Povazská Bystrica|Považská Bystrica|Slovakia|February|4|-4
+Povazská Bystrica|Považská Bystrica|Slovakia|March|9|-1
+Povazská Bystrica|Považská Bystrica|Slovakia|April|17|4
+Povazská Bystrica|Považská Bystrica|Slovakia|May|19|8
+Povazská Bystrica|Považská Bystrica|Slovakia|June|23|12
+Povazská Bystrica|Považská Bystrica|Slovakia|July|26|13
+Povazská Bystrica|Považská Bystrica|Slovakia|August|25|13
+Povazská Bystrica|Považská Bystrica|Slovakia|September|20|9
+Povazská Bystrica|Považská Bystrica|Slovakia|October|14|5
+Povazská Bystrica|Považská Bystrica|Slovakia|November|8|1
+Povazská Bystrica|Považská Bystrica|Slovakia|December|2|-3
+Presov|Prešov|Slovakia|January|1|-7
+Presov|Prešov|Slovakia|February|3|-6
+Presov|Prešov|Slovakia|March|6|-4
+Presov|Prešov|Slovakia|April|12|1
+Presov|Prešov|Slovakia|May|17|6
+Presov|Prešov|Slovakia|June|20|9
+Presov|Prešov|Slovakia|July|22|11
+Presov|Prešov|Slovakia|August|22|10
+Presov|Prešov|Slovakia|September|16|6
+Presov|Prešov|Slovakia|October|12|3
+Presov|Prešov|Slovakia|November|6|-1
+Presov|Prešov|Slovakia|December|2|-5
+Prievidza|Prievidza|Slovakia|January|2|-5
+Prievidza|Prievidza|Slovakia|February|5|-3
+Prievidza|Prievidza|Slovakia|March|10|0
+Prievidza|Prievidza|Slovakia|April|17|5
+Prievidza|Prievidza|Slovakia|May|21|9
+Prievidza|Prievidza|Slovakia|June|25|12
+Prievidza|Prievidza|Slovakia|July|27|14
+Prievidza|Prievidza|Slovakia|August|27|13
+Prievidza|Prievidza|Slovakia|September|21|9
+Prievidza|Prievidza|Slovakia|October|15|5
+Prievidza|Prievidza|Slovakia|November|8|1
+Prievidza|Prievidza|Slovakia|December|3|-3
+Púchov|Púchov|Slovakia|January|1|-5
+Púchov|Púchov|Slovakia|February|4|-4
+Púchov|Púchov|Slovakia|March|9|-1
+Púchov|Púchov|Slovakia|April|17|4
+Púchov|Púchov|Slovakia|May|19|8
+Púchov|Púchov|Slovakia|June|23|12
+Púchov|Púchov|Slovakia|July|26|13
+Púchov|Púchov|Slovakia|August|25|13
+Púchov|Púchov|Slovakia|September|20|9
+Púchov|Púchov|Slovakia|October|14|5
+Púchov|Púchov|Slovakia|November|8|1
+Púchov|Púchov|Slovakia|December|2|-3
+Rajec|Rajec|Slovakia|January|0|-6
+Rajec|Rajec|Slovakia|February|3|-5
+Rajec|Rajec|Slovakia|March|8|-2
+Rajec|Rajec|Slovakia|April|15|3
+Rajec|Rajec|Slovakia|May|18|7
+Rajec|Rajec|Slovakia|June|22|11
+Rajec|Rajec|Slovakia|July|25|12
+Rajec|Rajec|Slovakia|August|24|11
+Rajec|Rajec|Slovakia|September|19|8
+Rajec|Rajec|Slovakia|October|13|3
+Rajec|Rajec|Slovakia|November|7|0
+Rajec|Rajec|Slovakia|December|1|-4
+Revúca|Revúca|Slovakia|January|4|-3
+Revúca|Revúca|Slovakia|February|5|-2
+Revúca|Revúca|Slovakia|March|9|1
+Revúca|Revúca|Slovakia|April|15|5
+Revúca|Revúca|Slovakia|May|20|10
+Revúca|Revúca|Slovakia|June|23|13
+Revúca|Revúca|Slovakia|July|25|15
+Revúca|Revúca|Slovakia|August|25|14
+Revúca|Revúca|Slovakia|September|20|10
+Revúca|Revúca|Slovakia|October|14|6
+Revúca|Revúca|Slovakia|November|8|2
+Revúca|Revúca|Slovakia|December|4|-2
+Rimavská Sobota|Rimavská Sobota|Slovakia|January|1|-5
+Rimavská Sobota|Rimavská Sobota|Slovakia|February|5|-4
+Rimavská Sobota|Rimavská Sobota|Slovakia|March|11|0
+Rimavská Sobota|Rimavská Sobota|Slovakia|April|17|4
+Rimavská Sobota|Rimavská Sobota|Slovakia|May|22|9
+Rimavská Sobota|Rimavská Sobota|Slovakia|June|25|12
+Rimavská Sobota|Rimavská Sobota|Slovakia|July|27|14
+Rimavská Sobota|Rimavská Sobota|Slovakia|August|27|13
+Rimavská Sobota|Rimavská Sobota|Slovakia|September|22|9
+Rimavská Sobota|Rimavská Sobota|Slovakia|October|15|4
+Rimavská Sobota|Rimavská Sobota|Slovakia|November|8|0
+Rimavská Sobota|Rimavská Sobota|Slovakia|December|2|-4
+Rohozník|Rohožník|Slovakia|January|2|-4
+Rohozník|Rohožník|Slovakia|February|5|-3
+Rohozník|Rohožník|Slovakia|March|10|1
+Rohozník|Rohožník|Slovakia|April|16|5
+Rohozník|Rohožník|Slovakia|May|21|9
+Rohozník|Rohožník|Slovakia|June|25|13
+Rohozník|Rohožník|Slovakia|July|27|15
+Rohozník|Rohožník|Slovakia|August|26|14
+Rohozník|Rohožník|Slovakia|September|21|10
+Rohozník|Rohožník|Slovakia|October|15|5
+Rohozník|Rohožník|Slovakia|November|8|1
+Rohozník|Rohožník|Slovakia|December|3|-2
+Rovinka|Rovinka|Slovakia|January|3|-3
+Rovinka|Rovinka|Slovakia|February|5|-2
+Rovinka|Rovinka|Slovakia|March|11|1
+Rovinka|Rovinka|Slovakia|April|17|5
+Rovinka|Rovinka|Slovakia|May|22|10
+Rovinka|Rovinka|Slovakia|June|25|13
+Rovinka|Rovinka|Slovakia|July|27|15
+Rovinka|Rovinka|Slovakia|August|27|15
+Rovinka|Rovinka|Slovakia|September|22|11
+Rovinka|Rovinka|Slovakia|October|15|6
+Rovinka|Rovinka|Slovakia|November|8|2
+Rovinka|Rovinka|Slovakia|December|4|-2
+Rozňava|Rožňava|Slovakia|January|2|-5
+Rozňava|Rožňava|Slovakia|February|4|-3
+Rozňava|Rožňava|Slovakia|March|11|1
+Rozňava|Rožňava|Slovakia|April|17|6
+Rozňava|Rožňava|Slovakia|May|21|10
+Rozňava|Rožňava|Slovakia|June|25|13
+Rozňava|Rožňava|Slovakia|July|27|15
+Rozňava|Rožňava|Slovakia|August|26|15
+Rozňava|Rožňava|Slovakia|September|21|10
+Rozňava|Rožňava|Slovakia|October|15|6
+Rozňava|Rožňava|Slovakia|November|8|2
+Rozňava|Rožňava|Slovakia|December|2|-3
+Ruzomberok|Ružomberok|Slovakia|January|-2|-7
+Ruzomberok|Ružomberok|Slovakia|February|-2|-7
+Ruzomberok|Ružomberok|Slovakia|March|0|-5
+Ruzomberok|Ružomberok|Slovakia|April|4|-1
+Ruzomberok|Ružomberok|Slovakia|May|9|4
+Ruzomberok|Ružomberok|Slovakia|June|13|7
+Ruzomberok|Ružomberok|Slovakia|July|15|9
+Ruzomberok|Ružomberok|Slovakia|August|15|9
+Ruzomberok|Ružomberok|Slovakia|September|10|6
+Ruzomberok|Ružomberok|Slovakia|October|7|2
+Ruzomberok|Ružomberok|Slovakia|November|2|-2
+Ruzomberok|Ružomberok|Slovakia|December|-1|-6
+Šaľa|Sala|Sweden|January|-1|-7
+Šaľa|Sala|Sweden|February|0|-7
+Šaľa|Sala|Sweden|March|4|-4
+Šaľa|Sala|Sweden|April|10|0
+Šaľa|Sala|Sweden|May|17|4
+Šaľa|Sala|Sweden|June|20|9
+Šaľa|Sala|Sweden|July|23|11
+Šaľa|Sala|Sweden|August|21|10
+Šaľa|Sala|Sweden|September|16|6
+Šaľa|Sala|Sweden|October|9|2
+Šaľa|Sala|Sweden|November|4|-2
+Šaľa|Sala|Sweden|December|0|-5
+Samorin|Šamorín|Slovakia|January|3|-3
+Samorin|Šamorín|Slovakia|February|6|-1
+Samorin|Šamorín|Slovakia|March|11|1
+Samorin|Šamorín|Slovakia|April|18|6
+Samorin|Šamorín|Slovakia|May|22|10
+Samorin|Šamorín|Slovakia|June|26|14
+Samorin|Šamorín|Slovakia|July|28|15
+Samorin|Šamorín|Slovakia|August|27|15
+Samorin|Šamorín|Slovakia|September|22|11
+Samorin|Šamorín|Slovakia|October|16|6
+Samorin|Šamorín|Slovakia|November|9|2
+Samorin|Šamorín|Slovakia|December|3|-2
+Sečovce|Sečovce|Slovakia|January|1|-5
+Sečovce|Sečovce|Slovakia|February|4|-3
+Sečovce|Sečovce|Slovakia|March|10|0
+Sečovce|Sečovce|Slovakia|April|16|5
+Sečovce|Sečovce|Slovakia|May|21|10
+Sečovce|Sečovce|Slovakia|June|24|13
+Sečovce|Sečovce|Slovakia|July|26|15
+Sečovce|Sečovce|Slovakia|August|26|14
+Sečovce|Sečovce|Slovakia|September|21|10
+Sečovce|Sečovce|Slovakia|October|15|5
+Sečovce|Sečovce|Slovakia|November|8|1
+Sečovce|Sečovce|Slovakia|December|2|-3
+Senec|Senec|Slovakia|January|3|-3
+Senec|Senec|Slovakia|February|5|-2
+Senec|Senec|Slovakia|March|11|1
+Senec|Senec|Slovakia|April|17|5
+Senec|Senec|Slovakia|May|22|10
+Senec|Senec|Slovakia|June|25|13
+Senec|Senec|Slovakia|July|27|15
+Senec|Senec|Slovakia|August|27|15
+Senec|Senec|Slovakia|September|22|11
+Senec|Senec|Slovakia|October|15|6
+Senec|Senec|Slovakia|November|8|2
+Senec|Senec|Slovakia|December|4|-2
+Senica|Senica|Slovakia|January|2|-5
+Senica|Senica|Slovakia|February|5|-4
+Senica|Senica|Slovakia|March|10|0
+Senica|Senica|Slovakia|April|16|4
+Senica|Senica|Slovakia|May|21|8
+Senica|Senica|Slovakia|June|24|12
+Senica|Senica|Slovakia|July|27|13
+Senica|Senica|Slovakia|August|26|13
+Senica|Senica|Slovakia|September|21|9
+Senica|Senica|Slovakia|October|15|5
+Senica|Senica|Slovakia|November|8|1
+Senica|Senica|Slovakia|December|3|-3
+Skalica|could not be found|could not be found|could not be found|99|99
+Sladkovicovo|Sládkovičovo|Slovakia|January|3|-3
+Sladkovicovo|Sládkovičovo|Slovakia|February|5|-2
+Sladkovicovo|Sládkovičovo|Slovakia|March|11|1
+Sladkovicovo|Sládkovičovo|Slovakia|April|17|5
+Sladkovicovo|Sládkovičovo|Slovakia|May|22|10
+Sladkovicovo|Sládkovičovo|Slovakia|June|25|13
+Sladkovicovo|Sládkovičovo|Slovakia|July|27|15
+Sladkovicovo|Sládkovičovo|Slovakia|August|27|15
+Sladkovicovo|Sládkovičovo|Slovakia|September|22|11
+Sladkovicovo|Sládkovičovo|Slovakia|October|15|6
+Sladkovicovo|Sládkovičovo|Slovakia|November|8|2
+Sladkovicovo|Sládkovičovo|Slovakia|December|4|-2
+Smizany|Smižany|Slovakia|January|2|-7
+Smizany|Smižany|Slovakia|February|4|-6
+Smizany|Smižany|Slovakia|March|8|-2
+Smizany|Smižany|Slovakia|April|14|3
+Smizany|Smižany|Slovakia|May|19|7
+Smizany|Smižany|Slovakia|June|22|10
+Smizany|Smižany|Slovakia|July|24|12
+Smizany|Smižany|Slovakia|August|24|11
+Smizany|Smižany|Slovakia|September|20|8
+Smizany|Smižany|Slovakia|October|14|3
+Smizany|Smižany|Slovakia|November|7|-1
+Smizany|Smižany|Slovakia|December|3|-5
+Snina|Snina|Slovakia|January|1|-5
+Snina|Snina|Slovakia|February|4|-4
+Snina|Snina|Slovakia|March|10|-1
+Snina|Snina|Slovakia|April|16|4
+Snina|Snina|Slovakia|May|21|8
+Snina|Snina|Slovakia|June|24|12
+Snina|Snina|Slovakia|July|26|13
+Snina|Snina|Slovakia|August|25|12
+Snina|Snina|Slovakia|September|20|9
+Snina|Snina|Slovakia|October|14|4
+Snina|Snina|Slovakia|November|7|0
+Snina|Snina|Slovakia|December|2|-4
+Spisska Bela|Spišská Belá|Slovakia|January|1|-8
+Spisska Bela|Spišská Belá|Slovakia|February|3|-7
+Spisska Bela|Spišská Belá|Slovakia|March|7|-3
+Spisska Bela|Spišská Belá|Slovakia|April|13|2
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|January|2|-7
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|February|4|-6
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|March|8|-2
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|April|14|3
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|May|19|7
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|June|22|10
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|July|24|12
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|August|24|11
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|September|20|8
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|October|14|3
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|November|7|-1
+Spisská Nová Ves|Spišská Nová Ves|Slovakia|December|3|-5
+Stará Turá|Stará Turá|Slovakia|January|2|-4
+Stará Turá|Stará Turá|Slovakia|February|4|-3
+Stará Turá|Stará Turá|Slovakia|March|10|0
+Stará Turá|Stará Turá|Slovakia|April|17|5
+Stará Turá|Stará Turá|Slovakia|May|20|8
+Stará Turá|Stará Turá|Slovakia|June|24|12
+Stará Turá|Stará Turá|Slovakia|July|27|14
+Stará Turá|Stará Turá|Slovakia|August|26|14
+Stará Turá|Stará Turá|Slovakia|September|21|10
+Stará Turá|Stará Turá|Slovakia|October|15|5
+Stará Turá|Stará Turá|Slovakia|November|8|2
+Stará Turá|Stará Turá|Slovakia|December|3|-3
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|January|0|-7
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|February|2|-6
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|March|7|-2
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|April|13|2
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|May|18|6
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|June|21|10
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|July|23|11
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|August|23|11
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|September|18|7
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|October|13|3
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|November|6|-1
+Stará Ľubovňa|Stará Ľubovňa|Slovakia|December|1|-5
+Strázske|Strážske|Slovakia|January|1|-5
+Strázske|Strážske|Slovakia|February|4|-4
+Strázske|Strážske|Slovakia|March|10|-1
+Strázske|Strážske|Slovakia|April|16|4
+Strázske|Strážske|Slovakia|May|21|8
+Strázske|Strážske|Slovakia|June|24|12
+Strázske|Strážske|Slovakia|July|26|13
+Strázske|Strážske|Slovakia|August|25|12
+Strázske|Strážske|Slovakia|September|20|9
+Strázske|Strážske|Slovakia|October|14|4
+Strázske|Strážske|Slovakia|November|7|0
+Strázske|Strážske|Slovakia|December|2|-4
+Stropkov|Stropkov|Slovakia|January|0|-5
+Stropkov|Stropkov|Slovakia|February|3|-4
+Stropkov|Stropkov|Slovakia|March|9|-1
+Stropkov|Stropkov|Slovakia|April|16|4
+Stropkov|Stropkov|Slovakia|May|21|8
+Stropkov|Stropkov|Slovakia|June|24|11
+Stropkov|Stropkov|Slovakia|July|26|13
+Stropkov|Stropkov|Slovakia|August|26|13
+Stropkov|Stropkov|Slovakia|September|20|8
+Stropkov|Stropkov|Slovakia|October|14|4
+Stropkov|Stropkov|Slovakia|November|7|1
+Stropkov|Stropkov|Slovakia|December|1|-4
+Stupava|Stupava|Slovakia|January|2|-4
+Stupava|Stupava|Slovakia|February|5|-3
+Stupava|Stupava|Slovakia|March|10|1
+Stupava|Stupava|Slovakia|April|16|5
+Stupava|Stupava|Slovakia|May|21|9
+Stupava|Stupava|Slovakia|June|25|13
+Stupava|Stupava|Slovakia|July|27|15
+Stupava|Stupava|Slovakia|August|26|14
+Stupava|Stupava|Slovakia|September|21|10
+Stupava|Stupava|Slovakia|October|15|5
+Stupava|Stupava|Slovakia|November|8|1
+Stupava|Stupava|Slovakia|December|3|-2
+Sučany|Sučany|Slovakia|January|0|-6
+Sučany|Sučany|Slovakia|February|3|-5
+Sučany|Sučany|Slovakia|March|8|-2
+Sučany|Sučany|Slovakia|April|15|2
+Sučany|Sučany|Slovakia|May|19|7
+Sučany|Sučany|Slovakia|June|23|10
+Sučany|Sučany|Slovakia|July|24|12
+Sučany|Sučany|Slovakia|August|24|11
+Sučany|Sučany|Slovakia|September|19|8
+Sučany|Sučany|Slovakia|October|14|4
+Sučany|Sučany|Slovakia|November|6|0
+Sučany|Sučany|Slovakia|December|1|-4
+Surany|Šurany|Slovakia|January|3|-4
+Surany|Šurany|Slovakia|February|6|-2
+Surany|Šurany|Slovakia|March|12|1
+Surany|Šurany|Slovakia|April|17|5
+Surany|Šurany|Slovakia|May|22|10
+Surany|Šurany|Slovakia|June|26|13
+Surany|Šurany|Slovakia|July|28|15
+Surany|Šurany|Slovakia|August|27|14
+Surany|Šurany|Slovakia|September|22|10
+Surany|Šurany|Slovakia|October|16|6
+Surany|Šurany|Slovakia|November|9|2
+Surany|Šurany|Slovakia|December|4|-2
+Tlmače|Tlmače|Slovakia|January|3|-5
+Tlmače|Tlmače|Slovakia|February|6|-4
+Tlmače|Tlmače|Slovakia|March|12|0
+Tlmače|Tlmače|Slovakia|April|18|4
+Tlmače|Tlmače|Slovakia|May|23|9
+Tlmače|Tlmače|Slovakia|June|26|12
+Tlmače|Tlmače|Slovakia|July|28|14
+Tlmače|Tlmače|Slovakia|August|28|14
+Tlmače|Tlmače|Slovakia|September|22|9
+Tlmače|Tlmače|Slovakia|October|16|5
+Tlmače|Tlmače|Slovakia|November|9|1
+Tlmače|Tlmače|Slovakia|December|3|-4
+Topoľcany|Topoľčany|Slovakia|January|2|-5
+Topoľcany|Topoľčany|Slovakia|February|5|-4
+Topoľcany|Topoľčany|Slovakia|March|10|0
+Topoľcany|Topoľčany|Slovakia|April|16|4
+Topoľcany|Topoľčany|Slovakia|May|21|8
+Topoľcany|Topoľčany|Slovakia|June|24|12
+Topoľcany|Topoľčany|Slovakia|July|27|13
+Topoľcany|Topoľčany|Slovakia|August|26|13
+Topoľcany|Topoľčany|Slovakia|September|21|9
+Topoľcany|Topoľčany|Slovakia|October|15|5
+Topoľcany|Topoľčany|Slovakia|November|8|1
+Topoľcany|Topoľčany|Slovakia|December|3|-3
+Tornaža|could not be found|could not be found|could not be found|99|99
+Trebisov|Trebišov|Slovakia|January|1|-4
+Trebisov|Trebišov|Slovakia|February|4|-3
+Trebisov|Trebišov|Slovakia|March|10|0
+Trebisov|Trebišov|Slovakia|April|17|5
+Trebisov|Trebišov|Slovakia|May|22|10
+Trebisov|Trebišov|Slovakia|June|25|13
+Trebisov|Trebišov|Slovakia|July|27|15
+Trebisov|Trebišov|Slovakia|August|27|14
+Trebisov|Trebišov|Slovakia|September|21|10
+Trebisov|Trebišov|Slovakia|October|15|5
+Trebisov|Trebišov|Slovakia|November|7|1
+Trebisov|Trebišov|Slovakia|December|2|-3
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|January|2|-5
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|February|5|-3
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|March|10|0
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|April|17|5
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|May|21|9
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|June|25|12
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|July|27|14
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|August|27|13
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|September|21|9
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|October|15|5
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|November|8|1
+Trenčianske Teplice|Trenčianske Teplice|Slovakia|December|3|-3
+Trenčín|Trenčín|Slovakia|January|2|-5
+Trenčín|Trenčín|Slovakia|February|4|-4
+Trenčín|Trenčín|Slovakia|March|10|-1
+Trenčín|Trenčín|Slovakia|April|16|3
+Trenčín|Trenčín|Slovakia|May|21|8
+Trenčín|Trenčín|Slovakia|June|24|11
+Trenčín|Trenčín|Slovakia|July|26|13
+Trenčín|Trenčín|Slovakia|August|26|13
+Trenčín|Trenčín|Slovakia|September|21|9
+Trenčín|Trenčín|Slovakia|October|14|4
+Trenčín|Trenčín|Slovakia|November|7|0
+Trenčín|Trenčín|Slovakia|December|2|-4
+Trnava|Trnava|Slovakia|January|2|-5
+Trnava|Trnava|Slovakia|February|5|-4
+Trnava|Trnava|Slovakia|March|10|0
+Trnava|Trnava|Slovakia|April|16|4
+Trnava|Trnava|Slovakia|May|21|8
+Trnava|Trnava|Slovakia|June|24|12
+Trnava|Trnava|Slovakia|July|27|13
+Trnava|Trnava|Slovakia|August|26|13
+Trnava|Trnava|Slovakia|September|21|9
+Trnava|Trnava|Slovakia|October|15|5
+Trnava|Trnava|Slovakia|November|8|1
+Trnava|Trnava|Slovakia|December|3|-3
+Trstice|Trstice|Slovakia|January|3|-4
+Trstice|Trstice|Slovakia|February|6|-2
+Trstice|Trstice|Slovakia|March|12|1
+Trstice|Trstice|Slovakia|April|17|5
+Trstice|Trstice|Slovakia|May|22|10
+Trstice|Trstice|Slovakia|June|26|13
+Trstice|Trstice|Slovakia|July|28|15
+Trstice|Trstice|Slovakia|August|27|14
+Trstice|Trstice|Slovakia|September|22|10
+Trstice|Trstice|Slovakia|October|16|6
+Trstice|Trstice|Slovakia|November|9|2
+Trstice|Trstice|Slovakia|December|4|-2
+Turany|Turany|Slovakia|January|2|-6
+Turany|Turany|Slovakia|February|4|-6
+Turany|Turany|Slovakia|March|8|-2
+Turany|Turany|Slovakia|April|14|2
+Turany|Turany|Slovakia|May|19|7
+Turany|Turany|Slovakia|June|22|10
+Turany|Turany|Slovakia|July|24|11
+Turany|Turany|Slovakia|August|24|11
+Turany|Turany|Slovakia|September|19|7
+Turany|Turany|Slovakia|October|14|4
+Turany|Turany|Slovakia|November|7|0
+Turany|Turany|Slovakia|December|3|-4
+Turčianske Teplice|Turčianske Teplice|Slovakia|January|1|-6
+Turčianske Teplice|Turčianske Teplice|Slovakia|February|4|-5
+Turčianske Teplice|Turčianske Teplice|Slovakia|March|9|-2
+Turčianske Teplice|Turčianske Teplice|Slovakia|April|15|3
+Turčianske Teplice|Turčianske Teplice|Slovakia|May|20|7
+Turčianske Teplice|Turčianske Teplice|Slovakia|June|23|10
+Turčianske Teplice|Turčianske Teplice|Slovakia|July|25|12
+Turčianske Teplice|Turčianske Teplice|Slovakia|August|25|11
+Turčianske Teplice|Turčianske Teplice|Slovakia|September|19|8
+Turčianske Teplice|Turčianske Teplice|Slovakia|October|14|3
+Turčianske Teplice|Turčianske Teplice|Slovakia|November|7|0
+Turčianske Teplice|Turčianske Teplice|Slovakia|December|1|-5
+Turzovka|Turzovka|Slovakia|January|2|-3
+Turzovka|Turzovka|Slovakia|February|3|-3
+Turzovka|Turzovka|Slovakia|March|6|0
+Turzovka|Turzovka|Slovakia|April|11|4
+Turzovka|Turzovka|Slovakia|May|17|9
+Turzovka|Turzovka|Slovakia|June|20|12
+Turzovka|Turzovka|Slovakia|July|22|14
+Turzovka|Turzovka|Slovakia|August|22|14
+Turzovka|Turzovka|Slovakia|September|17|10
+Turzovka|Turzovka|Slovakia|October|12|6
+Turzovka|Turzovka|Slovakia|November|6|2
+Turzovka|Turzovka|Slovakia|December|3|-2
+Tvrdosín|Tvrdošín|Slovakia|January|0|-6
+Tvrdosín|Tvrdošín|Slovakia|February|3|-6
+Tvrdosín|Tvrdošín|Slovakia|March|7|-2
+Tvrdosín|Tvrdošín|Slovakia|April|13|2
+Tvrdosín|Tvrdošín|Slovakia|May|18|6
+Tvrdosín|Tvrdošín|Slovakia|June|21|10
+Tvrdosín|Tvrdošín|Slovakia|July|23|11
+Tvrdosín|Tvrdošín|Slovakia|August|23|11
+Tvrdosín|Tvrdošín|Slovakia|September|17|7
+Tvrdosín|Tvrdošín|Slovakia|October|12|3
+Tvrdosín|Tvrdošín|Slovakia|November|6|-1
+Tvrdosín|Tvrdošín|Slovakia|December|1|-5
+Tvrdosovce|Tvrdošovce|Slovakia|January|3|-4
+Tvrdosovce|Tvrdošovce|Slovakia|February|6|-2
+Tvrdosovce|Tvrdošovce|Slovakia|March|12|1
+Tvrdosovce|Tvrdošovce|Slovakia|April|17|5
+Tvrdosovce|Tvrdošovce|Slovakia|May|22|10
+Tvrdosovce|Tvrdošovce|Slovakia|June|26|13
+Tvrdosovce|Tvrdošovce|Slovakia|July|28|15
+Tvrdosovce|Tvrdošovce|Slovakia|August|27|14
+Tvrdosovce|Tvrdošovce|Slovakia|September|22|10
+Tvrdosovce|Tvrdošovce|Slovakia|October|16|6
+Tvrdosovce|Tvrdošovce|Slovakia|November|9|2
+Tvrdosovce|Tvrdošovce|Slovakia|December|4|-2
+Varín|Varín|Slovakia|January|0|-6
+Varín|Varín|Slovakia|February|3|-5
+Varín|Varín|Slovakia|March|8|-2
+Varín|Varín|Slovakia|April|15|2
+Varín|Varín|Slovakia|May|19|7
+Varín|Varín|Slovakia|June|23|10
+Varín|Varín|Slovakia|July|24|12
+Varín|Varín|Slovakia|August|24|11
+Varín|Varín|Slovakia|September|19|8
+Varín|Varín|Slovakia|October|14|4
+Varín|Varín|Slovakia|November|6|0
+Varín|Varín|Slovakia|December|1|-4
+Vežké Kapusany|could not be found|could not be found|could not be found|99|99
+Vežký Meder|could not be found|could not be found|could not be found|99|99
+Vráble|Vráble|Slovakia|January|3|-4
+Vráble|Vráble|Slovakia|February|6|-2
+Vráble|Vráble|Slovakia|March|11|1
+Vráble|Vráble|Slovakia|April|18|5
+Vráble|Vráble|Slovakia|May|22|9
+Vráble|Vráble|Slovakia|June|25|13
+Vráble|Vráble|Slovakia|July|28|14
+Vráble|Vráble|Slovakia|August|27|14
+Vráble|Vráble|Slovakia|September|22|10
+Vráble|Vráble|Slovakia|October|15|6
+Vráble|Vráble|Slovakia|November|8|2
+Vráble|Vráble|Slovakia|December|3|-2
+Vranov nad Topžou|could not be found|could not be found|could not be found|99|99
+Zarnovica|Žarnovica|Slovakia|January|2|-5
+Zarnovica|Žarnovica|Slovakia|February|5|-3
+Zarnovica|Žarnovica|Slovakia|March|10|0
+Zarnovica|Žarnovica|Slovakia|April|17|5
+Zarnovica|Žarnovica|Slovakia|May|21|9
+Zarnovica|Žarnovica|Slovakia|June|25|12
+Zarnovica|Žarnovica|Slovakia|July|27|14
+Zarnovica|Žarnovica|Slovakia|August|27|13
+Zarnovica|Žarnovica|Slovakia|September|21|9
+Zarnovica|Žarnovica|Slovakia|October|15|5
+Zarnovica|Žarnovica|Slovakia|November|8|1
+Zarnovica|Žarnovica|Slovakia|December|3|-3
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|January|1|-6
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|February|5|-5
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|March|11|-1
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|April|18|4
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|May|21|8
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|June|26|12
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|July|28|13
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|August|27|12
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|September|22|8
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|October|15|4
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|November|8|1
+Ziar nad Hronom|Žiar nad Hronom|Slovakia|December|2|-4
+Zilina|Žilina|Slovakia|January|0|-6
+Zilina|Žilina|Slovakia|February|3|-5
+Zilina|Žilina|Slovakia|March|8|-2
+Zilina|Žilina|Slovakia|April|15|2
+Zilina|Žilina|Slovakia|May|19|7
+Zilina|Žilina|Slovakia|June|23|10
+Zilina|Žilina|Slovakia|July|24|12
+Zilina|Žilina|Slovakia|August|24|11
+Zilina|Žilina|Slovakia|September|19|8
+Zilina|Žilina|Slovakia|October|14|4
+Zilina|Žilina|Slovakia|November|6|0
+Zilina|Žilina|Slovakia|December|1|-4
+Zlate Moravce|Zlaté Moravce|Slovakia|January|3|-4
+Zlate Moravce|Zlaté Moravce|Slovakia|February|6|-2
+Zlate Moravce|Zlaté Moravce|Slovakia|March|11|1
+Zlate Moravce|Zlaté Moravce|Slovakia|April|18|5
+Zlate Moravce|Zlaté Moravce|Slovakia|May|22|9
+Zlate Moravce|Zlaté Moravce|Slovakia|June|25|13
+Zlate Moravce|Zlaté Moravce|Slovakia|July|28|14
+Zlate Moravce|Zlaté Moravce|Slovakia|August|27|14
+Zlate Moravce|Zlaté Moravce|Slovakia|September|22|10
+Zlate Moravce|Zlaté Moravce|Slovakia|October|15|6
+Zlate Moravce|Zlaté Moravce|Slovakia|November|8|2
+Zlate Moravce|Zlaté Moravce|Slovakia|December|3|-2
+Zvolen|Zvolen|Slovakia|January|1|-7
+Zvolen|Zvolen|Slovakia|February|4|-6
+Zvolen|Zvolen|Slovakia|March|10|-2
+Zvolen|Zvolen|Slovakia|April|16|2
+Zvolen|Zvolen|Slovakia|May|21|7
+Zvolen|Zvolen|Slovakia|June|24|11
+Zvolen|Zvolen|Slovakia|July|26|12
+Zvolen|Zvolen|Slovakia|August|26|12
+Zvolen|Zvolen|Slovakia|September|21|8
+Zvolen|Zvolen|Slovakia|October|15|3
+Zvolen|Zvolen|Slovakia|November|7|-1
+Zvolen|Zvolen|Slovakia|December|2|-5
